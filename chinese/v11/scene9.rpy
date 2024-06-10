@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v11/scene9.rpy:20
 translate chinese v11_apes_manhunt_2a4cc1c9:
@@ -88,7 +88,7 @@ translate chinese v11_apes_manhunt_f4c2cefc:
 translate chinese v11_apes_manhunt_852175cf:
 
     # u "(Oh shit!)"
-    u "(哦，见鬼！)"
+    u "(噢，见鬼！)"
 
 # game/v11/scene9.rpy:114
 translate chinese v11_apes_manhunt_a8030853:
@@ -508,7 +508,7 @@ translate chinese v11_apes_manhunt_7ca20f53:
 translate chinese v11_apes_manhunt_2c483de5:
 
     # u "Oh fuck!"
-    u "哦，操！"
+    u "噢，操！"
 
 # game/v11/scene9.rpy:616
 translate chinese v11_apes_manhunt_1d623e3f:
@@ -868,7 +868,7 @@ translate chinese v11_apes_manhunt_9c92b0d4:
 translate chinese v11_apes_manhunt_3632cdb6:
 
     # u "OH FUCK!"
-    u "哦，操！"
+    u "噢，操！"
 
 # game/v11/scene9.rpy:1004
 translate chinese v11_apes_manhunt_a47ef019:
@@ -946,7 +946,7 @@ translate chinese v11_apes_manhunt_2c5cd8aa:
 translate chinese v11_apes_manhunt_5f92d3ac:
 
     # u "Oh shit!"
-    u "哦，操!"
+    u "噢，操!"
 
 # game/v11/scene9.rpy:1111
 translate chinese v11_apes_manhunt_12edc192:
@@ -988,7 +988,7 @@ translate chinese v11_horse_fall_b51cf10d:
 translate chinese v11_horse_fall_e7470fce:
 
     # ry "Oh shit, are you okay?"
-    ry "哦，妈的，你还好吗？"
+    ry "噢，妈的，你还好吗？"
 
 # game/v11/scene9.rpy:1165
 translate chinese v11_horse_fall_7b1c1392:

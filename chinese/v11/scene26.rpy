@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v11/scene26.rpy:12
 translate chinese v11_hotel_bar_wolves_c5b30f7f:

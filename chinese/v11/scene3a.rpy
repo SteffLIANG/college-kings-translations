@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v11/scene3a.rpy:10
 translate chinese v11_wolves_packing_chris_17710b14:
@@ -40,7 +40,7 @@ translate chinese v11_wolves_packing_chris_53eeae4c:
 translate chinese v11_wolves_packing_chris_09332657:
 
     # u "What do you mean?"
-    u "你是什么意思？"
+    u "什么意思？"
 
 # game/v11/scene3a.rpy:52
 translate chinese v11_wolves_packing_chris_af9bedb2:
@@ -64,7 +64,7 @@ translate chinese v11_wolves_packing_chris_9eed0439:
 translate chinese v11_wolves_packing_chris_fdbce207:
 
     # u "Oh..."
-    u "哦……"
+    u "噢……"
 
 # game/v11/scene3a.rpy:72
 translate chinese v11_wolves_packing_chris_46092ce9:

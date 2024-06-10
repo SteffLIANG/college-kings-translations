@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v11/scene1.rpy:30
 translate chinese v11_start_b3c779ee:
@@ -1102,7 +1102,7 @@ translate chinese v11s1_delib_d5451529:
 translate chinese v11s1_delib_e746dcc6:
 
     # art "I'M NOT A SLAVE, I'M-"
-    art "我不是奴隶，我是-"
+    art "我不是奴隶，我是……"
 
 # game/v11/scene1.rpy:1045
 translate chinese v11s1_delib_0b0ba5e7:
@@ -1356,11 +1356,11 @@ translate chinese v11_case_verdict_ca46ec29:
     # jen "I better run after her."
     jen "我最好去追她。"
 
-# game/v11/scene1.rpy:1305
+# game/v11/scene1.rpy:1307
 translate chinese v11_case_verdict_eeec42ee:
 
     # u "(Wow, what a way to start my day. *Phew* Let's see who's going to Europe.)"
-    u "(哇哦，多好的一个早上啊。*呼* 让我们看看谁要去欧洲。）"
+    u "(哇噢，多好的一个早上啊。*呼* 让我们看看谁要去欧洲。）"
 
 translate chinese strings:
 
@@ -1414,7 +1414,7 @@ translate chinese strings:
 
     # game/v11/scene1.rpy:1300
     old "What you doing later? ;)"
-    new "你稍后要做什么？；)"
+    new "你稍后要做什么？;)"
 
     # game/v11/scene1.rpy:1301
     old "It was an awesome day!"
@@ -1427,4 +1427,3 @@ translate chinese strings:
     # game/v11/scene1.rpy:1303
     old "Thanks for doing the event Autumn!"
     new "谢谢你做这个活动，秋！"
-

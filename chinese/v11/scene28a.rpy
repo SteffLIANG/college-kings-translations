@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v11/scene28a.rpy:20
 translate chinese v11_sam_spa_82484e0c:
@@ -904,5 +904,5 @@ translate chinese strings:
 
     # game/v11/scene28a.rpy:714
     old "Don't massage her boob"
-    new "不要按摩她的乳房"
+    new "别按摩她的乳房"
 

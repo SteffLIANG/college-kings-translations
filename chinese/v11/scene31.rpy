@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v11/scene31.rpy:20
 translate chinese v11_lindsey_park_9c7bce80:
@@ -498,9 +498,9 @@ translate chinese strings:
 
     # game/v11/scene31.rpy:313
     old "Lindsey, Returning The Promise"
-    new "林赛，归还诺言"
+    new "林赛，承诺就在"
 
     # game/v11/scene31.rpy:313
     old "Lindsey, Say Bye To The Bullshit"
-    new "林赛，跟废话说再见吧"
+    new "林赛，跟糟糕说拜拜"
 

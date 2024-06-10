@@ -372,475 +372,475 @@ translate chinese v11_nora_chloe_hallway_a06225e9:
     # cl "Why do you keep trying to talk to me?"
     cl "你为什么一直想跟我说话？"
 
-# game/v11/scene2.rpy:374
+# game/v11/scene2.rpy:375
 translate chinese v11_nora_chloe_hallway_8f5d4c37:
 
     # u "I'm sorry, you know? Sorry for how things went. I know you're mad at me, but I really want us to move past this and at least be friends."
     u "我很抱歉，你知道吗？对事情的发展我深表歉意。我知道你在生我的气，但我真的希望我们能忘掉这件事，至少做个朋友。"
 
-# game/v11/scene2.rpy:379
+# game/v11/scene2.rpy:380
 translate chinese v11_nora_chloe_hallway_a1c74379:
 
     # cl "*Sighs* I'm not even really that mad anymore."
     cl "*叹息* 我甚至不再那么生气了。"
 
-# game/v11/scene2.rpy:384
+# game/v11/scene2.rpy:385
 translate chinese v11_nora_chloe_hallway_eddec9da:
 
     # u "But you just..."
     u "但你只是……"
 
-# game/v11/scene2.rpy:389
+# game/v11/scene2.rpy:390
 translate chinese v11_nora_chloe_hallway_5b97337a:
 
     # cl "Sometimes I get a little carried away keeping up appearances."
     cl "有时我会有点忘乎所以，为了保持外表。"
 
-# game/v11/scene2.rpy:394
+# game/v11/scene2.rpy:395
 translate chinese v11_nora_chloe_hallway_b6061d29:
 
     # u "You were definitely doing a good job, I thought you were still pissed."
     u "你确实做得很好，我还以为你还在生气呢。"
 
-# game/v11/scene2.rpy:399
+# game/v11/scene2.rpy:400
 translate chinese v11_nora_chloe_hallway_41e031bf:
 
     # cl "Yeah no, I'm sorry. You know, I have a few minutes before my next class. Wanna go outside and talk for a few minutes?"
     cl "好吧，没有，我很抱歉。你知道，我离下一节课还有几分钟。想出去聊聊吗？"
 
-# game/v11/scene2.rpy:412
+# game/v11/scene2.rpy:413
 translate chinese v11_nora_chloe_hallway_37fe551f:
 
     # u "Sure."
     u "好的。"
 
-# game/v11/scene2.rpy:422
+# game/v11/scene2.rpy:423
 translate chinese v11_nora_chloe_hallway_71d2b8be:
 
     # cl "Are you excited for the trip?"
     cl "你对这次旅行感到兴奋吗？"
 
-# game/v11/scene2.rpy:427
+# game/v11/scene2.rpy:428
 translate chinese v11_nora_chloe_hallway_1b28a406:
 
     # u "Of course."
     u "当然了。"
 
-# game/v11/scene2.rpy:432
+# game/v11/scene2.rpy:433
 translate chinese v11_nora_chloe_hallway_f9f95e51:
 
     # cl "I am too. I'm a little nervous knowing I'm going to have to be around some people that I don't really get along with, but I'll still have fun."
     cl "我也是。我有点紧张，因为我知道我将不得不和一些不太融洽的人在一起，但我仍然会玩得很开心。"
 
-# game/v11/scene2.rpy:437
+# game/v11/scene2.rpy:438
 translate chinese v11_nora_chloe_hallway_ac82a12e:
 
     # u "Yeah, no reason not to enjoy yourself..."
     u "是啊，没理由不尽情享受……"
 
-# game/v11/scene2.rpy:442
+# game/v11/scene2.rpy:443
 translate chinese v11_nora_chloe_hallway_23edfa13:
 
     # cl "I wonder what will be the crazy thing that happens."
     cl "我想知道接下来会发生什么疯狂的事情。"
 
-# game/v11/scene2.rpy:447
+# game/v11/scene2.rpy:448
 translate chinese v11_nora_chloe_hallway_09332657:
 
     # u "What do you mean?"
     u "什么意思？"
 
-# game/v11/scene2.rpy:452
+# game/v11/scene2.rpy:453
 translate chinese v11_nora_chloe_hallway_f7bcefcc:
 
     # cl "You know how every time you go on a trip something crazy always happens that everyone talks about? I went on a class trip a couple years ago and one of our classmates had a baby."
     cl "你知道吗，每次你去旅行，总会发生一些大家都在谈论的疯狂的事情？几年前我参加了一次班级旅行，我们的一个同学生了孩子。"
 
-# game/v11/scene2.rpy:454
+# game/v11/scene2.rpy:455
 translate chinese v11_nora_chloe_hallway_e1794fd5:
 
     # cl "*Laughs* She didn't even know she was pregnant."
     cl "*笑* 她甚至不知道自己怀孕了。"
 
-# game/v11/scene2.rpy:459
+# game/v11/scene2.rpy:460
 translate chinese v11_nora_chloe_hallway_7d966cb0:
 
     # u "*Chuckles* That's horrible."
     u "*咯咯笑* 那太可怕了。"
 
-# game/v11/scene2.rpy:464
+# game/v11/scene2.rpy:465
 translate chinese v11_nora_chloe_hallway_6dbb700d:
 
     # cl "Yeah, it was pretty bad at the time. I guess we'll see what people will talk about after Europe..."
     cl "是啊，那时候很糟糕。我想我们会看看欧洲之後人们会谈论些什么……"
 
-# game/v11/scene2.rpy:469
+# game/v11/scene2.rpy:470
 translate chinese v11_nora_chloe_hallway_bc7666e9:
 
     # u "Maybe you'll trip over the Queen's gown while we're in London... That'd be funny now and a few years later."
     u "也许我们在伦敦的时候你会被女王的礼服绊倒。这在现在和几年后都会很有趣。"
 
-# game/v11/scene2.rpy:474
+# game/v11/scene2.rpy:475
 translate chinese v11_nora_chloe_hallway_c24522e3:
 
     # cl "If it isn't caught on camera it never happened."
     cl "如果它没有被摄像机捕捉到，它就永远不会发生。"
 
-# game/v11/scene2.rpy:479
+# game/v11/scene2.rpy:480
 translate chinese v11_nora_chloe_hallway_e37346c3:
 
     # u "Hashtag Chloe caught in 4K. *Laughs*"
     u "标签克洛伊被4K拍摄了。 *笑*"
 
-# game/v11/scene2.rpy:484
+# game/v11/scene2.rpy:485
 translate chinese v11_nora_chloe_hallway_7ceb1447:
 
     # cl "I'd be mad at you for real if that ever happened."
     cl "如果那真的发生了，我会真的生你的气。"
 
-# game/v11/scene2.rpy:489
+# game/v11/scene2.rpy:490
 translate chinese v11_nora_chloe_hallway_3601313f:
 
     # u "I'll just blame it on someone else and swoop in like the hero."
     u "我只会责怪别人然后像英雄一样扑进去。"
 
-# game/v11/scene2.rpy:494
+# game/v11/scene2.rpy:495
 translate chinese v11_nora_chloe_hallway_6cfa56a5:
 
     # cl "How Prince Charming of you."
     cl "你真是个白马王子。"
 
-# game/v11/scene2.rpy:499
+# game/v11/scene2.rpy:500
 translate chinese v11_nora_chloe_hallway_cd253cc4:
 
     # u "My lady. *Laughs*"
     u "夫人。 *笑*"
 
-# game/v11/scene2.rpy:504
+# game/v11/scene2.rpy:505
 translate chinese v11_nora_chloe_hallway_698ece09:
 
     # cl "I want to see if there's any new clothes I can get. I don't even know the latest European fashion trends."
     cl "我想看看有没有我能买到的新衣服。我甚至不知道欧洲的最新流行趋势。"
 
-# game/v11/scene2.rpy:509
+# game/v11/scene2.rpy:510
 translate chinese v11_nora_chloe_hallway_3a308aad:
 
     # u "That's something you keep up with?"
     u "这就是你一直在做的事吗？"
 
-# game/v11/scene2.rpy:514
+# game/v11/scene2.rpy:515
 translate chinese v11_nora_chloe_hallway_b908b301:
 
     # cl "It is now."
     cl "现在也是。"
 
-# game/v11/scene2.rpy:519
+# game/v11/scene2.rpy:520
 translate chinese v11_nora_chloe_hallway_b54e4039:
 
     # u "Haha."
     u "哈哈。"
 
-# game/v11/scene2.rpy:524
+# game/v11/scene2.rpy:525
 translate chinese v11_nora_chloe_hallway_1b3198e4:
 
     # cl "Just don't leave me all alone in Europe, there's hardly anyone I can hang out with."
     cl "别把我一个人留在欧洲，我几乎找不到可以一起出去玩的人。"
 
-# game/v11/scene2.rpy:529
+# game/v11/scene2.rpy:530
 translate chinese v11_nora_chloe_hallway_466f2f4d:
 
     # u "I get it, you just want to hang out with me, no need to make up excuses."
     u "我明白了，你只是想和我出去玩，不需要找借口。"
 
-# game/v11/scene2.rpy:534
+# game/v11/scene2.rpy:535
 translate chinese v11_nora_chloe_hallway_f8758378:
 
     # cl "You make good company... well, sometimes."
     cl "你是个好伙伴……嗯，有时候。"
 
-# game/v11/scene2.rpy:539
+# game/v11/scene2.rpy:540
 translate chinese v11_nora_chloe_hallway_99a56b58:
 
     # u "Haha, well I won't be good company if I'm not there so I'm gonna go get packing."
     u "哈哈，如果我不去，我就不是个好伙伴，所以我要去收拾行李了。"
 
-# game/v11/scene2.rpy:544
+# game/v11/scene2.rpy:545
 translate chinese v11_nora_chloe_hallway_155f5be0:
 
     # cl "Alright, it was good talking to you."
     cl "好的，很高兴和你谈话。"
 
-# game/v11/scene2.rpy:549
+# game/v11/scene2.rpy:550
 translate chinese v11_nora_chloe_hallway_9fb611a7:
 
     # u "You too."
     u "你也是。"
 
-# game/v11/scene2.rpy:560
+# game/v11/scene2.rpy:561
 translate chinese v11_nora_chloe_hallway_a7e11e98:
 
     # u "I wish, but I need to get started packing for the trip."
     u "我也想，但我得开始收拾行李准备旅行了。"
 
-# game/v11/scene2.rpy:565
+# game/v11/scene2.rpy:566
 translate chinese v11_nora_chloe_hallway_19837ed6:
 
     # cl "Oh okay, well I'll see you later then."
     cl "噢，好的，那待会儿见。"
 
-# game/v11/scene2.rpy:570
+# game/v11/scene2.rpy:571
 translate chinese v11_nora_chloe_hallway_104440d0:
 
     # u "See ya."
     u "再见。"
 
-# game/v11/scene2.rpy:581
+# game/v11/scene2.rpy:582
 translate chinese v11_nora_chloe_hallway_2a7a09ce:
 
     # u "*Sighs* Nevermind."
     u "*叹息* 没关系。"
 
-# game/v11/scene2.rpy:593
+# game/v11/scene2.rpy:594
 translate chinese v11_nora_chloe_hallway_86728590:
 
     # u "Hey, cutie."
     u "嘿，小可爱。"
 
-# game/v11/scene2.rpy:599
+# game/v11/scene2.rpy:600
 translate chinese v11_nora_chloe_hallway_21a98069_1:
 
     # u "Hey Chloe."
     u "嘿，克洛伊。"
 
-# game/v11/scene2.rpy:605
+# game/v11/scene2.rpy:606
 translate chinese v11_nora_chloe_hallway_2aac41e7:
 
     # cl "Oh, hey handsome. What's up?"
     cl "噢，嘿，帅哥。怎么了？"
 
-# game/v11/scene2.rpy:611
+# game/v11/scene2.rpy:612
 translate chinese v11_nora_chloe_hallway_477eeba5:
 
     # cl "Oh, hey [name]. What's up?"
     cl "欧，嘿，[name]，怎么了？"
 
-# game/v11/scene2.rpy:616
+# game/v11/scene2.rpy:617
 translate chinese v11_nora_chloe_hallway_de2f2423:
 
     # u "Not much, I was just seeing who's all going all the trip."
     u "没什么，我只是想看看谁会全程陪同。"
 
-# game/v11/scene2.rpy:621
+# game/v11/scene2.rpy:622
 translate chinese v11_nora_chloe_hallway_6c022094:
 
     # cl "It's a lot of people."
     cl "人很多。"
 
-# game/v11/scene2.rpy:626
+# game/v11/scene2.rpy:627
 translate chinese v11_nora_chloe_hallway_3f4e960e:
 
     # u "More than I expected. I hope everyone gets along. But I doubt it."
     u "比我预想的要多。我希望大家和睦相处。但我对此表示怀疑。"
 
-# game/v11/scene2.rpy:631
+# game/v11/scene2.rpy:632
 translate chinese v11_nora_chloe_hallway_84eea86d:
 
     # cl "Haha, me too. You know, I have a few minutes before my next class. Wanna go outside and talk for a bit?"
     cl "哈哈，我也是。你知道，我离下一节课还有几分钟。想出去聊聊吗？"
 
-# game/v11/scene2.rpy:641
+# game/v11/scene2.rpy:642
 translate chinese v11_nora_chloe_hallway_37fe551f_1:
 
     # u "Sure."
     u "好的。"
 
-# game/v11/scene2.rpy:651
+# game/v11/scene2.rpy:652
 translate chinese v11_nora_chloe_hallway_71d2b8be_1:
 
     # cl "Are you excited for the trip?"
     cl "你对这次旅行感到兴奋吗？"
 
-# game/v11/scene2.rpy:656
+# game/v11/scene2.rpy:657
 translate chinese v11_nora_chloe_hallway_1b28a406_1:
 
     # u "Of course."
     u "当然了。"
 
-# game/v11/scene2.rpy:661
+# game/v11/scene2.rpy:662
 translate chinese v11_nora_chloe_hallway_f9f95e51_1:
 
     # cl "I am too. I'm a little nervous knowing I'm going to have to be around some people that I don't really get along with, but I'll still have fun."
     cl "我也是。我有点紧张，因为我知道我将不得不和一些不太融洽的人在一起，但我仍然会玩得很开心。"
 
-# game/v11/scene2.rpy:666
+# game/v11/scene2.rpy:667
 translate chinese v11_nora_chloe_hallway_ac82a12e_1:
 
     # u "Yeah, no reason not to enjoy yourself..."
     u "是啊，没理由不尽情享受……"
 
-# game/v11/scene2.rpy:671
+# game/v11/scene2.rpy:672
 translate chinese v11_nora_chloe_hallway_23edfa13_1:
 
     # cl "I wonder what will be the crazy thing that happens."
     cl "我想知道接下来会发生什么疯狂的事情。"
 
-# game/v11/scene2.rpy:676
+# game/v11/scene2.rpy:677
 translate chinese v11_nora_chloe_hallway_09332657_1:
 
     # u "What do you mean?"
     u "什么意思？"
 
-# game/v11/scene2.rpy:681
+# game/v11/scene2.rpy:682
 translate chinese v11_nora_chloe_hallway_f7bcefcc_1:
 
     # cl "You know how every time you go on a trip something crazy always happens that everyone talks about? I went on a class trip a couple years ago and one of our classmates had a baby."
     cl "你知道吗，每次你去旅行，总会发生一些大家都在谈论的疯狂的事情？几年前我参加了一次班级旅行，我们的一个同学生了孩子。"
 
-# game/v11/scene2.rpy:683
+# game/v11/scene2.rpy:684
 translate chinese v11_nora_chloe_hallway_e1794fd5_1:
 
     # cl "*Laughs* She didn't even know she was pregnant."
     cl "*笑* 她甚至不知道自己怀孕了。"
 
-# game/v11/scene2.rpy:688
+# game/v11/scene2.rpy:689
 translate chinese v11_nora_chloe_hallway_7d966cb0_1:
 
     # u "*Chuckles* That's horrible."
     u "*咯咯笑* 那太可怕了。"
 
-# game/v11/scene2.rpy:693
+# game/v11/scene2.rpy:694
 translate chinese v11_nora_chloe_hallway_6dbb700d_1:
 
     # cl "Yeah, it was pretty bad at the time. I guess we'll see what people will talk about after Europe..."
     cl "是啊，那时候很糟糕。我想我们会看看欧洲之後人们会谈论些什么……"
 
-# game/v11/scene2.rpy:698
+# game/v11/scene2.rpy:699
 translate chinese v11_nora_chloe_hallway_bc7666e9_1:
 
     # u "Maybe you'll trip over the Queen's gown while we're in London... That'd be funny now and a few years later."
     u "也许我们在伦敦的时候你会被女王的礼服绊倒。这在现在和几年后都会很有趣。"
 
-# game/v11/scene2.rpy:703
+# game/v11/scene2.rpy:704
 translate chinese v11_nora_chloe_hallway_c24522e3_1:
 
     # cl "If it isn't caught on camera it never happened."
     cl "如果它没有被摄像机捕捉到，它就永远不会发生。"
 
-# game/v11/scene2.rpy:708
+# game/v11/scene2.rpy:709
 translate chinese v11_nora_chloe_hallway_e37346c3_1:
 
     # u "Hashtag Chloe caught in 4K. *Laughs*"
     u "标签克洛伊被4K拍摄了。 *笑*"
 
-# game/v11/scene2.rpy:713
+# game/v11/scene2.rpy:714
 translate chinese v11_nora_chloe_hallway_7ceb1447_1:
 
     # cl "I'd be mad at you for real if that ever happened."
     cl "如果那真的发生了，我会真的生你的气。"
 
-# game/v11/scene2.rpy:718
+# game/v11/scene2.rpy:719
 translate chinese v11_nora_chloe_hallway_3601313f_1:
 
     # u "I'll just blame it on someone else and swoop in like the hero."
     u "我只会责怪别人然后像英雄一样扑进去。"
 
-# game/v11/scene2.rpy:723
+# game/v11/scene2.rpy:724
 translate chinese v11_nora_chloe_hallway_6cfa56a5_1:
 
     # cl "How Prince Charming of you."
     cl "你真是个白马王子。"
 
-# game/v11/scene2.rpy:728
+# game/v11/scene2.rpy:729
 translate chinese v11_nora_chloe_hallway_cd253cc4_1:
 
     # u "My lady. *Laughs*"
     u "夫人。 *笑*"
 
-# game/v11/scene2.rpy:733
+# game/v11/scene2.rpy:734
 translate chinese v11_nora_chloe_hallway_698ece09_1:
 
     # cl "I want to see if there's any new clothes I can get. I don't even know the latest European fashion trends."
     cl "我想看看有没有我能买到的新衣服。我甚至不知道欧洲的最新流行趋势。"
 
-# game/v11/scene2.rpy:738
+# game/v11/scene2.rpy:739
 translate chinese v11_nora_chloe_hallway_3a308aad_1:
 
     # u "That's something you keep up with?"
     u "这就是你一直在做的事吗？"
 
-# game/v11/scene2.rpy:743
+# game/v11/scene2.rpy:744
 translate chinese v11_nora_chloe_hallway_b908b301_1:
 
     # cl "It is now."
     cl "现在也是。"
 
-# game/v11/scene2.rpy:748
+# game/v11/scene2.rpy:749
 translate chinese v11_nora_chloe_hallway_b54e4039_1:
 
     # u "Haha."
     u "哈哈。"
 
-# game/v11/scene2.rpy:753
+# game/v11/scene2.rpy:754
 translate chinese v11_nora_chloe_hallway_1b3198e4_1:
 
     # cl "Just don't leave me all alone in Europe, there's hardly anyone I can hang out with."
     cl "别把我一个人留在欧洲，我几乎找不到可以一起出去玩的人。"
 
-# game/v11/scene2.rpy:758
+# game/v11/scene2.rpy:759
 translate chinese v11_nora_chloe_hallway_466f2f4d_1:
 
     # u "I get it, you just want to hang out with me, no need to make up excuses."
     u "我明白了，你只是想和我出去玩，不需要找借口。"
 
-# game/v11/scene2.rpy:763
+# game/v11/scene2.rpy:764
 translate chinese v11_nora_chloe_hallway_73888434:
 
     # cl "You make good company... well sometimes."
     cl "你是个好伙伴……嗯，有时候。"
 
-# game/v11/scene2.rpy:768
+# game/v11/scene2.rpy:769
 translate chinese v11_nora_chloe_hallway_99a56b58_1:
 
     # u "Haha, well I won't be good company if I'm not there so I'm gonna go get packing."
     u "哈哈，如果我不在那里我就不会是个好伙伴，所以我要去收拾行李了。"
 
-# game/v11/scene2.rpy:774
+# game/v11/scene2.rpy:775
 translate chinese v11_nora_chloe_hallway_451391af:
 
     # cl "I need to run but I can't wait to spend some more time with you in Europe."
     cl "我要走了，但是我迫不及待地想在欧洲多花点时间和你在一起。"
 
-# game/v11/scene2.rpy:780
+# game/v11/scene2.rpy:781
 translate chinese v11_nora_chloe_hallway_155f5be0_1:
 
     # cl "Alright, it was good talking to you."
     cl "好的，很高兴和你谈话。"
 
-# game/v11/scene2.rpy:786
+# game/v11/scene2.rpy:787
 translate chinese v11_nora_chloe_hallway_eec6a617:
 
     # u "See you later, beautiful."
     u "回头见，美人儿。"
 
-# game/v11/scene2.rpy:792
+# game/v11/scene2.rpy:793
 translate chinese v11_nora_chloe_hallway_9fb611a7_1:
 
     # u "You too."
     u "你也是。"
 
-# game/v11/scene2.rpy:803
+# game/v11/scene2.rpy:804
 translate chinese v11_nora_chloe_hallway_a7e11e98_1:
 
     # u "I wish, but I need to get started packing for the trip."
     u "我也想，但我得开始收拾行李准备旅行了。"
 
-# game/v11/scene2.rpy:808
+# game/v11/scene2.rpy:809
 translate chinese v11_nora_chloe_hallway_19837ed6_1:
 
     # cl "Oh okay, well I'll see you later then."
     cl "噢，好的，那待会儿见。"
 
-# game/v11/scene2.rpy:813
+# game/v11/scene2.rpy:814
 translate chinese v11_nora_chloe_hallway_104440d0_1:
 
     # u "See ya."
@@ -883,4 +883,3 @@ translate chinese strings:
     # game/v11/scene2.rpy:366
     old "Give up"
     new "算了吧"
-

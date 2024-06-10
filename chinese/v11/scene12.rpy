@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v11/scene12.rpy:10
 translate chinese v11_sit_ryan_convo_23fd9d7e:
@@ -492,5 +492,5 @@ translate chinese strings:
 
     # game/v11/scene12.rpy:369
     old "Let him"
-    new "让他去吧"
+    new "随他"
 

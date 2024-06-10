@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v11/scene23.rpy:20
 translate chinese v11s23_chris1_0c38efcb:
@@ -1290,7 +1290,7 @@ translate chinese strings:
 
     # game/v11/scene23.rpy:244
     old "Laugh"
-    new "大笑"
+    new "笑"
 
     # game/v11/scene23.rpy:244
     old "Feel bad"
@@ -1310,11 +1310,11 @@ translate chinese strings:
 
     # game/v11/scene23.rpy:513
     old "Don't snitch on Riley"
-    new "不要告发莱莉"
+    new "别告发莱莉"
 
     # game/v11/scene23.rpy:733
     old "Just being me"
-    new "只是做回我自己"
+    new "做回我自己"
 
     # game/v11/scene23.rpy:1096
     old "Sneak out"

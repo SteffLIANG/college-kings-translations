@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v11/scene33.rpy:23
 translate chinese v11_bar_chloe_and_aubrey_095e79b8:

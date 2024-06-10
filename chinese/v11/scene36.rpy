@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v11/scene36.rpy:20
 translate chinese v11_imre_ryan_grapple_fbe20b7e:
@@ -200,5 +200,5 @@ translate chinese strings:
 
     # game/v11/scene36.rpy:25
     old "Don't intervene"
-    new "不要插手"
+    new "别介入"
 

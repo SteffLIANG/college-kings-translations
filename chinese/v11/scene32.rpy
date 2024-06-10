@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v11/scene32.rpy:10
 translate chinese v11_emily_sidewalk_90a13b04:
@@ -16,7 +16,7 @@ translate chinese v11_emily_sidewalk_92814b2d:
 translate chinese v11_emily_sidewalk_9e2e4cd5:
 
     # u "Yeah I remember, but-"
-    u "是的，我记得，但是-"
+    u "是的，我记得，但是……"
 
 # game/v11/scene32.rpy:25
 translate chinese v11_emily_sidewalk_b213e5e7:
@@ -28,5 +28,5 @@ translate chinese v11_emily_sidewalk_b213e5e7:
 translate chinese v11_emily_sidewalk_16caa92e:
 
     # u "(She really doesn't want to talk to me. Oh, well.)"
-    u "(她真的不想和我说话。哦，好吧。)"
+    u "(她真的不想和我说话。噢，好吧。)"
 

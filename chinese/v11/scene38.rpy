@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v11/scene38.rpy:39
 translate chinese v11_amber_bar_4953dafd:
@@ -168,7 +168,7 @@ translate chinese strings:
 
     # game/v11/scene38.rpy:14
     old "You were busy somewhere else... ;)"
-    new "你在别的地方忙着……；)"
+    new "你在别的地方忙着……;)"
 
     # game/v11/scene38.rpy:18
     old "Living the London life"
@@ -180,7 +180,7 @@ translate chinese strings:
 
     # game/v11/scene38.rpy:20
     old "Hotttt! We need a girls night soon ;)"
-    new "性感！我们很快就需要一个女孩之夜；)"
+    new "性感！我们很快就需要一个女孩之夜;)"
 
     # game/v11/scene38.rpy:21
     old "Damn... looking good"
