@@ -188,7 +188,7 @@ translate chinese strings:
 
     # game/v10/scene28.rpy:73
     old "Leave it alone"
-    new "别管它了"
+    new "别管了"
 
     # game/v10/scene28.rpy:123
     old "Don't help"

@@ -526,7 +526,7 @@ translate chinese strings:
 
     # game/v10/Scene30a.rpy:17
     old "Leave"
-    new "离开吧"
+    new "离开"
 
     # game/v10/Scene30a.rpy:17
     old "Watch"

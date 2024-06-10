@@ -4,7 +4,7 @@
 translate chinese v10_linds_room_d13596d9:
 
     # li "Hey [name], *sniffs* thanks for coming over."
-    li "嘿，name]，*嗅探* 谢谢你过来。"
+    li "嘿，name]，*抽泣* 谢谢你过来。"
 
 # game/v10/scene11.rpy:29
 translate chinese v10_linds_room_6866a39f:

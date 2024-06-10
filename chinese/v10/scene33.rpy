@@ -3962,7 +3962,7 @@ translate chinese strings:
 
     # game/v10/scene33.rpy:109
     old "Leave it be"
-    new "别管它了"
+    new "别管了"
 
     # game/v10/scene33.rpy:147
     old "That's the main reason"

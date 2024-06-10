@@ -298,7 +298,7 @@ translate chinese v10_aft_walk_home_ee212610:
 translate chinese v10s23_phoneCheckLau_823cfb9c:
 
     # u "(I should reply to Lauren)"
-    u "(我应该给劳伦回信)"
+    u "(我应该给劳伦回信。)"
 
 # game/v10/scene23.rpy:300
 translate chinese v10s23_phoneCheckLau_aeb4c1c4:

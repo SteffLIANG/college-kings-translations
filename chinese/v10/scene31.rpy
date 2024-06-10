@@ -268,7 +268,7 @@ translate chinese strings:
 
     # game/v10/scene31.rpy:128
     old "Support him"
-    new "支持他"
+    new "支持"
 
     # game/v10/scene31.rpy:128
     old "Don't support"
