@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v9/scene14.rpy:13
 translate chinese v9_thur_room_w_seb_65d949f5:
@@ -16,7 +16,7 @@ translate chinese v9_thur_room_w_seb_600fb90a:
 translate chinese v9_thur_w_punch_dc035b17:
 
     # se "Well well well! Can you believe this, Marcus?"
-    se "好吧好吧！你能相信吗，马库斯？"
+    se "好吧，好吧！你能相信吗，马库斯？"
 
 # game/v9/scene14.rpy:46
 translate chinese v9_thur_w_punch_0547a9e8:

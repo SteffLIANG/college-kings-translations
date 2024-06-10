@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v9/scene21.rpy:19
 translate chinese v9_room_w_chris_4830ad53:
@@ -98,7 +98,7 @@ translate chinese strings:
 
     # game/v9/scene21.rpy:83
     old "Aww don't make me blush! They'll be here any second, I'll talk to you later"
-    new "别让我脸红！他们马上就到了，我晚点再跟你谈"
+    new "别让我脸红！他们马上就到了，我晚点再跟你谈。"
 
     # game/v9/scene21.rpy:84
     old "<3"

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v8/scene12.rpy:11
 translate chinese apes_join_ceremony_ef16ab24:
@@ -58,7 +58,7 @@ translate chinese apes_join_ceremony_92beb20a:
 translate chinese apes_join_ceremony_22315031:
 
     # ca "Did you really-"
-    ca "你真的-"
+    ca "你真的……"
 
 # game/v8/scene12.rpy:46
 translate chinese apes_join_ceremony_b261c529:
@@ -268,7 +268,7 @@ translate chinese apes_join_ceremony_65a044a6:
 translate chinese apes_join_ceremony_170bea85:
 
     # u "(Wow, I made it in!)"
-    u "(哇，我成功了！)"
+    u "(哇噢，我成功了！)"
 
 # game/v8/scene12.rpy:177
 translate chinese apes_join_ceremony_8fb004c6_1:

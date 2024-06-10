@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v9/scene27.rpy:24
 translate chinese v9_train_w_apes_77a54587:

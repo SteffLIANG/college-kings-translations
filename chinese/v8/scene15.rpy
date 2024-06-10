@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v8/scene15.rpy:20
 translate chinese penelope_dorm_hack_ffa21b41:
@@ -28,7 +28,7 @@ translate chinese penelope_dorm_hack_5b1217c0:
 translate chinese penelope_dorm_hack_d7c2d82c:
 
     # pe "*Sniffles* O-okay."
-    pe "*鼻涕* 好-好吧。"
+    pe "*鼻涕* 好……好吧。"
 
 # game/v8/scene15.rpy:50
 translate chinese penelope_dorm_hack_ac6103a5:

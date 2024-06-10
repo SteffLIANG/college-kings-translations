@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v8/scene39.rpy:20
 translate chinese hosp_climb_seb_4b0bf10d:
@@ -118,13 +118,13 @@ translate chinese climb_the_hos_a667d83c:
 translate chinese climb_the_hos_8113b8c7:
 
     # se "And they arise!"
-    se "他们终于上来了！"
+    se "我们终于上来了！"
 
 # game/v8/scene39.rpy:176
 translate chinese climb_the_hos_942fae98:
 
     # u "That they do. How to descend is another question."
-    u "他们确实这么做了。但如何下去是另一个问题。"
+    u "我们确实这么做了。但如何下去是另一个问题。"
 
 # game/v8/scene39.rpy:181
 translate chinese climb_the_hos_0544cc86:
@@ -166,7 +166,7 @@ translate chinese climb_the_hos_f0324917:
 translate chinese climb_the_hos_1f00bf38:
 
     # se "Noooooo! I forgot my binoculars!"
-    se "不-------！我忘了带双筒望远镜！"
+    se "不……！我忘了带双筒望远镜！"
 
 # game/v8/scene39.rpy:236
 translate chinese climb_the_hos_f719b91d:
@@ -178,13 +178,13 @@ translate chinese climb_the_hos_f719b91d:
 translate chinese climb_the_hos_155e1a7b:
 
     # se "You mean like this? Aaaah-ooooooooh!"
-    se "你是说像这样？啊-呜----！"
+    se "你是说像这样？啊……呜……！"
 
 # game/v8/scene39.rpy:246
 translate chinese climb_the_hos_b3c44517:
 
     # u "Haha, yeah! Aaaah-ooooooh! Poor Wolf won't be feasting his eyes on any Little Red Riding Hoods tonight, haha!"
-    u "哈哈，是的！啊-呜----！可怜的狼今晚不会在任何小红帽上大饱眼福了，哈哈！"
+    u "哈哈，是的！啊……呜……！可怜的狼今晚不会在任何小红帽上大饱眼福了，哈哈！"
 
 # game/v8/scene39.rpy:256
 translate chinese watching_seb_climb_dc3b46f6:

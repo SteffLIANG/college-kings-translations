@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v9/scene39.rpy:17
 translate chinese v9_hang_w_linds_e62c3f6b:

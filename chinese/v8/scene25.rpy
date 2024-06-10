@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v8/scene25.rpy:11
 translate chinese v8_scene24_wolves_ed0eaced:

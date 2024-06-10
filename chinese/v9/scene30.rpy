@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v9/scene30.rpy:16
 translate chinese v9_satmorn_gfb_walk_56a4ff13:
 
     # no "Oh wow, I'm sorry."
-    no "噢，哇，抱歉。"
+    no "噢，哇噢，抱歉。"
 
 # game/v9/scene30.rpy:20
 translate chinese v9_satmorn_gfb_walk_7034d01f:

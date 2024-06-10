@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v8/scene29.rpy:23
 translate chinese after_drugs_7ea96441:
@@ -10,7 +10,7 @@ translate chinese after_drugs_7ea96441:
 translate chinese after_drugs_6b273329:
 
     # jo "Y-yeah, I'm fi-fine *Groans*"
-    jo "是的，我-很好。 *呻吟*"
+    jo "是……是的，我……很好。 *呻吟*"
 
 # game/v8/scene29.rpy:33
 translate chinese after_drugs_85cb350e:
@@ -22,7 +22,7 @@ translate chinese after_drugs_85cb350e:
 translate chinese after_drugs_674f1496:
 
     # jo "Ju- Just lay me on the couch. Can't go all the way upstairs at the moment."
-    jo "就-就让我躺在沙发上。现在都不能爬上楼。"
+    jo "就……就让我躺在沙发上。现在都不能爬上楼。"
 
 # game/v8/scene29.rpy:52
 translate chinese after_drugs_18c3e71f:
@@ -352,7 +352,7 @@ translate chinese after_drugs_7926dfc5:
 translate chinese after_drugs_771d8e15:
 
     # am "Wow, that was smooth. Not bad, [name]. Not bad."
-    am "哇，油嘴滑舌。还不错，[name]。还不错。"
+    am "哇噢，油嘴滑舌。还不错，[name]。还不错。"
 
 # game/v8/scene29.rpy:314
 translate chinese after_drugs_5d8a50ac:
@@ -466,7 +466,7 @@ translate chinese after_drugs_d1106947:
 translate chinese after_drugs_c03fdec2:
 
     # u "I uh... probably should've gone with him and maybe then this wouldn't have happened."
-    u "我呃……也许应该和他一起去，也许这就不会发生了。"
+    u "我……呃……也许应该和他一起去，也许这就不会发生了。"
 
 # game/v8/scene29.rpy:391
 translate chinese after_drugs_11912203:
@@ -726,345 +726,344 @@ translate chinese after_drugs_22fb5612:
     # am "*Whispers* What do you think, genius?"
     am "*低语* 你觉得呢，天才？"
 
-# game/v8/scene29.rpy:629
+# game/v8/scene29.rpy:630
 translate chinese after_drugs_d743a951:
 
     # u "*Whispers* Fuck yes! Let's go!"
     u "*低语* 操，是的！我们走吧！"
 
-# game/v8/scene29.rpy:638
+# game/v8/scene29.rpy:640
 translate chinese after_drugs_7b66b057:
 
     # u "*Whispers* Sorry Amber, I'm not feeling it tonight."
     u "*低语* 对不起，琥珀，我今晚感觉不好。"
 
-# game/v8/scene29.rpy:642
+# game/v8/scene29.rpy:644
 translate chinese after_drugs_4ede3d75:
 
     # am "*Whispers* Oh, okay. Sorry I woke you up at midnight."
     am "*低语* 噢，好的。很抱歉半夜把你吵醒了。"
 
-# game/v8/scene29.rpy:646
+# game/v8/scene29.rpy:648
 translate chinese after_drugs_794889c2:
 
     # u "*Whispers* Goodnight."
     u "*低语* 晚安。"
 
-# game/v8/scene29.rpy:650
+# game/v8/scene29.rpy:652
 translate chinese after_drugs_e4c17669:
 
     # am "*Whispers* Y-yeah, goodnight."
     am "*低语* 好-好吧，晚安。"
 
-# game/v8/scene29.rpy:665
+# game/v8/scene29.rpy:667
 translate chinese tues_morning_at_joshs_9f69d0e9:
 
     # u "(Oh, looks like Amber is up already.)"
     u "(噢，看来琥珀已经起床了。)"
 
-# game/v8/scene29.rpy:666
+# game/v8/scene29.rpy:668
 translate chinese tues_morning_at_joshs_59b0bd66:
 
     # u "(I should get dressed and see how Josh is doing.)"
     u "(我应该穿好衣服，看看乔什怎么样了。)"
 
-# game/v8/scene29.rpy:672
+# game/v8/scene29.rpy:674
 translate chinese tues_morning_at_joshs_bdd17b66:
 
     # jo "No, I'm telling you I got this."
     jo "不，我告诉你我搞定了。"
 
-# game/v8/scene29.rpy:676
+# game/v8/scene29.rpy:678
 translate chinese tues_morning_at_joshs_2b6e3262:
 
     # am "If you say so."
     am "如果你这么说。"
 
-# game/v8/scene29.rpy:680
+# game/v8/scene29.rpy:682
 translate chinese tues_morning_at_joshs_36878da1:
 
     # am "Hey! Good morning, [name]."
     am "嘿！早上好，[name]。"
 
-# game/v8/scene29.rpy:684
+# game/v8/scene29.rpy:686
 translate chinese tues_morning_at_joshs_ee251b66:
 
     # jo "Hey! Morning bro! Sleep good?"
     jo "嘿！早，兄弟！睡得好吗？"
 
-# game/v8/scene29.rpy:688
+# game/v8/scene29.rpy:690
 translate chinese tues_morning_at_joshs_bfb486cf:
 
     # u "Hey guys, and yeah..."
     u "嘿，伙计们，是的……"
 
-# game/v8/scene29.rpy:692
+# game/v8/scene29.rpy:694
 translate chinese tues_morning_at_joshs_6d39962b:
 
     # u "...I slept great."
     u "……睡得很好。"
 
-# game/v8/scene29.rpy:696
+# game/v8/scene29.rpy:698
 translate chinese tues_morning_at_joshs_8433eb90:
 
     # u "Need any help with that? You should be resting bro."
     u "需要帮忙吗？你应该休息一下，兄弟。"
 
-# game/v8/scene29.rpy:700
+# game/v8/scene29.rpy:702
 translate chinese tues_morning_at_joshs_fbcc3439:
 
     # am "Good luck with that. Mr. Responsible here says he feels \"obligated\"."
     am "祝你好运。负责任的先生说他觉得\"责无旁贷\"。"
 
-# game/v8/scene29.rpy:704
+# game/v8/scene29.rpy:706
 translate chinese tues_morning_at_joshs_eab25f40:
 
     # jo "Yeah, man, it's the least I could do. Grab a seat and I'll get you guys sorted."
     jo "好吧，伙计，这是我至少能做的。找个位子坐下，我帮你们收拾。"
 
-# game/v8/scene29.rpy:712
+# game/v8/scene29.rpy:714
 translate chinese tues_morning_at_joshs_7a55bbc3:
 
     # u "Sit down. We got this."
     u "坐下吧。我们来搞定。"
 
-# game/v8/scene29.rpy:716
+# game/v8/scene29.rpy:718
 translate chinese tues_morning_at_joshs_af8065a6:
 
     # jo "But..."
     jo "但是……"
 
-# game/v8/scene29.rpy:717
+# game/v8/scene29.rpy:719
 translate chinese tues_morning_at_joshs_32166b57:
 
     # am "No buts. Sit down and relax before you hurt yourself more."
     am "没有但是。在你伤害自己更多之前，坐下来放松一下。"
 
-# game/v8/scene29.rpy:721
+# game/v8/scene29.rpy:723
 translate chinese tues_morning_at_joshs_6bbc656a:
 
     # jo "*Sigh* Thanks guys."
     jo "*叹息* 谢谢，伙计们。"
 
-# game/v8/scene29.rpy:725
+# game/v8/scene29.rpy:727
 translate chinese tues_morning_at_joshs_98aa6a21:
 
     # am "You make the eggs, I'll get the bacon?"
     am "你煎鸡蛋，我去拿培根？"
 
-# game/v8/scene29.rpy:726
+# game/v8/scene29.rpy:728
 translate chinese tues_morning_at_joshs_eb2a7834:
 
     # u "Yeah, that sounds perfect. I suck at making bacon."
     u "好吧，听起来很完美。我不擅长做培根。"
 
-# game/v8/scene29.rpy:730
+# game/v8/scene29.rpy:732
 translate chinese tues_morning_at_joshs_0d6ec653:
 
     # jo "Thanks for all this guys. I mean it."
     jo "谢谢你们俩。我是认真的。"
 
-# game/v8/scene29.rpy:734
+# game/v8/scene29.rpy:736
 translate chinese tues_morning_at_joshs_0c27e782:
 
     # u "No worries, man. Glad you're feeling a bit better."
     u "别担心，伙计。很高兴你感觉好多了。"
 
-# game/v8/scene29.rpy:738
+# game/v8/scene29.rpy:740
 translate chinese tues_morning_at_joshs_39710847:
 
     # am "No more deals for you, dummy."
     am "别再做交易了，笨蛋。"
 
-# game/v8/scene29.rpy:739
+# game/v8/scene29.rpy:741
 translate chinese tues_morning_at_joshs_c3aea97a:
 
     # jo "Awww, c'mon, it was one t-"
-    jo "噢，别这样，这只是一次-"
+    jo "噢，别这样，这只是一次……"
 
-# game/v8/scene29.rpy:743
+# game/v8/scene29.rpy:745
 translate chinese tues_morning_at_joshs_e6f3fd57:
 
     # am "Uh uh. Shut up. Just sit there and wait for your food."
     am "呃呃。闭嘴。就坐在那里等你的食物。"
 
-# game/v8/scene29.rpy:751
+# game/v8/scene29.rpy:753
 translate chinese tues_morning_at_joshs_78c84ed2:
 
     # am "*Giggles*"
     am "*咯咯笑*"
 
-# game/v8/scene29.rpy:755
+# game/v8/scene29.rpy:757
 translate chinese tues_morning_at_joshs_c2688d67:
 
     # u "*Giggles*"
     u "*咯咯笑*"
 
-# game/v8/scene29.rpy:759
+# game/v8/scene29.rpy:761
 translate chinese tues_morning_at_joshs_a8363b30:
 
     # jo "Get a room!"
     jo "找个房间！"
 
-# game/v8/scene29.rpy:763
+# game/v8/scene29.rpy:765
 translate chinese tues_morning_at_joshs_e4b780f2:
 
     # am "We did! *laughs*"
     am "我们做到了！*笑*"
 
-# game/v8/scene29.rpy:765
+# game/v8/scene29.rpy:767
 translate chinese tues_morning_at_joshs_fcc18885:
 
     # u "*Laughs*"
     u "*笑*"
 
-# game/v8/scene29.rpy:776
+# game/v8/scene29.rpy:778
 translate chinese tues_morning_at_joshs_e5d37f62:
 
     # u "(Oh, looks like Josh and Amber are up already.)"
     u "(噢，看来乔什和琥珀已经起床了。)"
 
-# game/v8/scene29.rpy:777
+# game/v8/scene29.rpy:779
 translate chinese tues_morning_at_joshs_d43e3df8:
 
     # u "(Guess I better get up and see how he is.)"
     u "(我想我最好站起来看看他怎么样了。)"
 
-# game/v8/scene29.rpy:783
+# game/v8/scene29.rpy:785
 translate chinese tues_morning_at_joshs_bdd17b66_1:
 
     # jo "No, I'm telling you I got this."
     jo "不，我告诉你我来做。"
 
-# game/v8/scene29.rpy:787
+# game/v8/scene29.rpy:789
 translate chinese tues_morning_at_joshs_2b6e3262_1:
 
     # am "If you say so."
     am "如果你这么说。"
 
-# game/v8/scene29.rpy:791
+# game/v8/scene29.rpy:793
 translate chinese tues_morning_at_joshs_908cbe78:
 
     # am "Hey. Good morning [name]."
     am "嘿。早上好，[name]。"
 
-# game/v8/scene29.rpy:795
+# game/v8/scene29.rpy:797
 translate chinese tues_morning_at_joshs_ee251b66_1:
 
     # jo "Hey! Morning bro! Sleep good?"
     jo "嘿！早，兄弟！睡得好吗？"
 
-# game/v8/scene29.rpy:800
+# game/v8/scene29.rpy:802
 translate chinese tues_morning_at_joshs_994c75f6:
 
     # u "Hey guys, and yeah, I slept okay..."
     u "嘿，伙计们，是的，我睡得很好……"
 
-# game/v8/scene29.rpy:804
+# game/v8/scene29.rpy:806
 translate chinese tues_morning_at_joshs_65eb5bb3:
 
     # u "...I guess."
     u "……我想是的。"
 
-# game/v8/scene29.rpy:808
+# game/v8/scene29.rpy:810
 translate chinese tues_morning_at_joshs_5c10173b:
 
     # u "Need any help with that? You should be resting."
     u "需要帮忙吗？你应该休息一下。"
 
-# game/v8/scene29.rpy:813
+# game/v8/scene29.rpy:815
 translate chinese tues_morning_at_joshs_8bfa5e92:
 
     # u "Hey guys, and yeah, I slept okay, I guess."
     u "嘿，伙计们，是的，我想我睡得还好。"
 
-# game/v8/scene29.rpy:814
+# game/v8/scene29.rpy:816
 translate chinese tues_morning_at_joshs_5c10173b_1:
 
     # u "Need any help with that? You should be resting."
     u "需要帮忙吗？你应该休息一下。"
 
-# game/v8/scene29.rpy:818
+# game/v8/scene29.rpy:820
 translate chinese tues_morning_at_joshs_fbcc3439_1:
 
     # am "Good luck with that. Mr. Responsible here says he feels \"obligated\"."
     am "祝你好运。负责任的先生说他觉得\"责无旁贷\"。"
 
-# game/v8/scene29.rpy:822
+# game/v8/scene29.rpy:824
 translate chinese tues_morning_at_joshs_eab25f40_1:
 
     # jo "Yeah, man, it's the least I could do. Grab a seat and I'll get you guys sorted."
     jo "是的，伙计，这是我至少能做的。找个位子坐下，我帮你们收拾。"
 
-# game/v8/scene29.rpy:830
+# game/v8/scene29.rpy:832
 translate chinese tues_morning_at_joshs_7a55bbc3_1:
 
     # u "Sit down. We got this."
     u "坐下吧。我们来搞定。"
 
-# game/v8/scene29.rpy:834
+# game/v8/scene29.rpy:836
 translate chinese tues_morning_at_joshs_af8065a6_1:
 
     # jo "But..."
     jo "但是……"
 
-# game/v8/scene29.rpy:835
+# game/v8/scene29.rpy:837
 translate chinese tues_morning_at_joshs_32166b57_1:
 
     # am "No buts. Sit down and relax before you hurt yourself more."
     am "没有但是。在你伤害自己更多之前，坐下来放松一下。"
 
-# game/v8/scene29.rpy:839
+# game/v8/scene29.rpy:841
 translate chinese tues_morning_at_joshs_6bbc656a_1:
 
     # jo "*Sigh* Thanks guys."
     jo "*叹息* 谢谢伙计们。"
 
-# game/v8/scene29.rpy:843
+# game/v8/scene29.rpy:845
 translate chinese tues_morning_at_joshs_98aa6a21_1:
 
     # am "You make the eggs, I'll get the bacon?"
     am "你做鸡蛋，我去拿培根？"
 
-# game/v8/scene29.rpy:844
+# game/v8/scene29.rpy:846
 translate chinese tues_morning_at_joshs_eb2a7834_1:
 
     # u "Yeah, that sounds perfect. I suck at making bacon."
     u "好吧，听起来很完美。我不擅长做培根。"
 
-# game/v8/scene29.rpy:848
+# game/v8/scene29.rpy:850
 translate chinese tues_morning_at_joshs_0d6ec653_1:
 
     # jo "Thanks for all this guys. I mean it."
     jo "谢谢你们俩。我是认真的。"
 
-# game/v8/scene29.rpy:852
+# game/v8/scene29.rpy:854
 translate chinese tues_morning_at_joshs_0c27e782_1:
 
     # u "No worries, man. Glad you're feeling a bit better."
     u "别担心，伙计。很高兴你感觉好多了。"
 
-# game/v8/scene29.rpy:856
+# game/v8/scene29.rpy:858
 translate chinese tues_morning_at_joshs_39710847_1:
 
     # am "No more deals for you, dummy."
     am "别再做交易了，笨蛋。"
 
-# game/v8/scene29.rpy:857
+# game/v8/scene29.rpy:859
 translate chinese tues_morning_at_joshs_c3aea97a_1:
 
     # jo "Awww, c'mon, it was one t-"
-    jo "噢，别这样，只是一次-"
+    jo "噢，别这样，只是一次……"
 
-# game/v8/scene29.rpy:861
+# game/v8/scene29.rpy:863
 translate chinese tues_morning_at_joshs_e6f3fd57_1:
 
     # am "Uh uh. Shut up. Just sit there and wait for your food."
-    am "呃呃。闭嘴。就坐在那里等你的食物。"
+    am "呃……呃。闭嘴。就坐在那里等你的食物。"
 
 translate chinese strings:
 
     # game/v8/scene29.rpy:620
     old "Reject her advances"
     new "拒绝她的请求"
-

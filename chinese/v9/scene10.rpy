@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v9/scene10.rpy:22
 translate chinese v9_history_class_c007ffd1:
@@ -236,7 +236,7 @@ translate chinese strings:
 
     # game/v9/scene10.rpy:130
     old "Grumble with Cameron"
-    new "跟卡梅伦发牢骚"
+    new "跟卡梅隆发牢骚"
 
     # game/v9/scene10.rpy:130
     old "Be happy with Penelope"

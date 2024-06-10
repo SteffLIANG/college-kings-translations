@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v8/scene37.rpy:12
 translate chinese v8_tues_evening_565c0af2:
@@ -68,7 +68,7 @@ translate chinese strings:
 
     # game/v8/scene37.rpy:19
     old "Of course, that drink was just my cup of tea. :)"
-    new "当然，那酒只是我的一杯茶。：)"
+    new "当然，那酒只是我的一杯茶。:)"
 
     # game/v8/scene37.rpy:20
     old "Oh haha, is that so? I think it at least poured a bit of courage in there."
@@ -76,7 +76,7 @@ translate chinese strings:
 
     # game/v8/scene37.rpy:21
     old "Don't flatter yourself, witty cowboy. :)"
-    new "别自以为是了，机智的牛仔。：)"
+    new "别自以为是了，机智的牛仔。:)"
 
     # game/v8/scene37.rpy:22
     old "You flatter me, ma'am."
@@ -88,7 +88,7 @@ translate chinese strings:
 
     # game/v8/scene37.rpy:24
     old "Kiss you*:)"
-    new "吻你*：)"
+    new "吻你*:)"
 
     # game/v8/scene37.rpy:28
     old "Hey there, could you help me with studying?"
@@ -124,7 +124,7 @@ translate chinese strings:
 
     # game/v8/scene37.rpy:45
     old "That was the most corny, idiotic joke I've ever heard, Mr. Liar. :)"
-    new "这是我听过的最老套，最白痴的笑话，骗子先生。：)"
+    new "这是我听过的最老套，最白痴的笑话，骗子先生。:)"
 
     # game/v8/scene37.rpy:46
     old "Thinking of you makes it harder to study. And in some other places as well..."
@@ -132,11 +132,11 @@ translate chinese strings:
 
     # game/v8/scene37.rpy:47
     old "I'll be the judge of that. :)"
-    new "我来判断。：)"
+    new "我来判断。:)"
 
     # game/v8/scene37.rpy:48
     old "Can't wait. :)"
-    new "等不及了。：)"
+    new "等不及了。:)"
 
     # game/v8/scene37.rpy:51
     old "I have a serious question to ask you."

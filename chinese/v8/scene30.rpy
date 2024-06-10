@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v8/scene30.rpy:32
 translate chinese amber_sex_at_joshs_f44ceb0c:
@@ -82,7 +82,7 @@ translate chinese v8s30_amberBlowjob_6828cb01:
 translate chinese v8s30_amberBlowjob_3318c05d:
 
     # am "*Chuckles* I'm glad you like it."
-    am "*笑* 我很高兴你喜欢它。"
+    am "*咯咯笑* 我很高兴你喜欢它。"
 
 # game/v8/scene30.rpy:131
 translate chinese v8s30_amberCowgirl_dcd60c77:

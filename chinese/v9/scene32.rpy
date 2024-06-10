@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v9/scene32.rpy:23
 translate chinese v9_sat_gym_90842537:
@@ -110,7 +110,7 @@ translate chinese strings:
 
     # game/v9/scene32.rpy:9
     old "I hope so ;)"
-    new "我希望如此；)"
+    new "我希望如此;)"
 
     # game/v9/scene32.rpy:10
     old "See you in a few!"
@@ -158,7 +158,7 @@ translate chinese strings:
 
     # game/v9/scene32.rpy:161
     old "Duh, that's why I'm asking ;)"
-    new "嗯，这就是我问的原因；)"
+    new "嗯，这就是我问的原因;)"
 
     # game/v9/scene32.rpy:162
     old "Well you shoulda led with that!"

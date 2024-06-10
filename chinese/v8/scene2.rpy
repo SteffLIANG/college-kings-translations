@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v8/scene2.rpy:14
 translate chinese v8_cl_start_38908185:
@@ -88,7 +88,7 @@ translate chinese v8_cl_start_455acc80:
 translate chinese v8_cl_start_e1f35df2:
 
     # u "Ahhh... go faster now."
-    u "啊……再快点。"
+    u "啊……再快点儿。"
 
 # game/v8/scene2.rpy:114
 translate chinese v8_cl_start_68e7fc7f:
@@ -118,7 +118,7 @@ translate chinese v8_cl_start_b73d0d14:
 translate chinese v8_cl_start_c207568a:
 
     # u "Chloe, I'm gonna-"
-    u "克洛伊，我要-"
+    u "克洛伊，我要……-"
 
 # game/v8/scene2.rpy:133
 translate chinese v8_cl_start_24239935:
@@ -244,13 +244,13 @@ translate chinese v8_cl_start_dcbd85db:
 translate chinese v8_cl_start_4cd06879:
 
     # li "My mom... *sobs*{w=0.4} I just got a call..."
-    li "我妈妈……*哭泣*{w=0.4} 我刚接到电话……"
+    li "我妈妈…… *哭泣* {w=0.4} 我刚接到电话……"
 
 # game/v8/scene2.rpy:203
 translate chinese v8_cl_start_a31a247e:
 
     # li "Sh-she was in a car accident! She...{w=0.4} she's dead! *sobs*"
-    li "她出了车祸！她……{w=0.4} 她死了！*哭泣*"
+    li "她出了车祸！她……{w=0.4} 她死了！ *哭泣*"
 
 # game/v8/scene2.rpy:207
 translate chinese v8_cl_start_34a03f20:
@@ -311,4 +311,3 @@ translate chinese v8s2_nsfwSkipLabel1_82fa3603:
 
     # cl "Sorry, [name]. See you another time."
     cl "抱歉，[name]。下次见。"
-

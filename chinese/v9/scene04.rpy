@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v9/scene04.rpy:25
 translate chinese v9_dream_fd4bfdf4:
@@ -40,7 +40,7 @@ translate chinese v9_dream_46542d29:
 translate chinese v9_dream_c332942c:
 
     # u "Whoa!"
-    u "哇哦！"
+    u "哇噢！"
 
 # game/v9/scene04.rpy:90
 translate chinese v9_dream_wolves_2ab69988:
@@ -341,4 +341,3 @@ translate chinese v9_dream_apes_10ed4aac:
 
     # u "Wake up, [name]. WAKE UP!"
     u "醒醒，[name]。醒醒！"
-

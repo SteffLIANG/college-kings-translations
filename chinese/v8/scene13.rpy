@@ -1,19 +1,19 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
-# game/v8/scene13.rpy:24
+# game/v8/scene13.rpy:11
 translate chinese after_apes_ceremony_9602eb3b:
 
     # u "(...and done!)"
     u "(……完成了！)"
 
-# game/v8/scene13.rpy:61
-translate chinese phn_chloe11_3faef724:
+# game/v8/scene13.rpy:62
+translate chinese after_apes_ceremony_3faef724:
 
     # u "(I should probably reply.)"
     u "(我也许应该回答。)"
 
 # game/v8/scene13.rpy:64
-translate chinese phn_chloe11_07f76765:
+translate chinese after_apes_ceremony_07f76765:
 
     # u "(Gotta get going.)"
     u "(得走了。)"
@@ -544,7 +544,7 @@ translate chinese phn_chloe11_done_0149d8af:
 translate chinese phn_chloe11_done_19fa6035:
 
     # ma "Wow, you guys still up?"
-    ma "哇，你们还没睡吗？"
+    ma "哇噢，你们还没睡吗？"
 
 # game/v8/scene13.rpy:451
 translate chinese phn_chloe11_done_abdeafec:
@@ -562,7 +562,7 @@ translate chinese strings:
 
     # game/v8/scene13.rpy:9
     old "Guess you'll have to wait and see ;)"
-    new "咱们拭目以待；)"
+    new "咱们拭目以待;)"
 
     # game/v8/scene13.rpy:10
     old "I'm moving my stuff now. How about we get started tonight?"
@@ -582,7 +582,7 @@ translate chinese strings:
 
     # game/v8/scene13.rpy:16
     old "Sweet and cute ;)"
-    new "贴心和可爱；)"
+    new "贴心和可爱;)"
 
     # game/v8/scene13.rpy:17
     old "I'll take it. For now. Talk to you when I get settled."
@@ -654,7 +654,7 @@ translate chinese strings:
 
     # game/v8/scene13.rpy:49
     old "Exactly how much is a lot? ;)"
-    new "何为经常一说？；)"
+    new "何为经常一说？;)"
 
     # game/v8/scene13.rpy:50
     old "Hope so. I like talking to you."
@@ -671,4 +671,3 @@ translate chinese strings:
     # game/v8/scene13.rpy:289
     old "Press it"
     new "鼓励他"
-

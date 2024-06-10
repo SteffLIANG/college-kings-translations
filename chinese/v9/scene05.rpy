@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v9/scene05.rpy:10
 translate chinese v9_dream_wakeup_afb5e265:
@@ -98,7 +98,7 @@ translate chinese strings:
 
     # game/v9/scene05.rpy:20
     old "Oh, c'mon, it's gonna be fun! :)"
-    new "噢，别这样，会很有趣的！：)"
+    new "噢，别这样，会很有趣的！:)"
 
     # game/v9/scene05.rpy:21
     old "Who's gonna be there?"

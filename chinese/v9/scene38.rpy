@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v9/scene38.rpy:21
 translate chinese v9_walk_li_txt_1d8a7ae7:
@@ -44,7 +44,7 @@ translate chinese strings:
 
     # game/v9/scene38.rpy:12
     old ":("
-    new "：("
+    new ":("
 
     # game/v9/scene38.rpy:13
     old "Please don't hate me. You know I want to. I really, really want to."
@@ -64,7 +64,7 @@ translate chinese strings:
 
     # game/v9/scene38.rpy:35
     old "Hey Linds ;)"
-    new "嘿，林；)"
+    new "嘿，林;)"
 
     # game/v9/scene38.rpy:36
     old "I've decided to allow the nickname under one condition"

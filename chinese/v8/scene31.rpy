@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v8/scene31.rpy:22
 translate chinese v8_tues_eco_class_abc5fc70:
@@ -298,5 +298,5 @@ translate chinese strings:
 
     # game/v8/scene31.rpy:268
     old "Go with it"
-    new "随它去"
+    new "好吧"
 

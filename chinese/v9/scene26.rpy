@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v9/scene26.rpy:15
 translate chinese v9_fri_training_w_wolves_74e4cb3b:
@@ -757,4 +757,3 @@ translate chinese strings:
     # game/v9/scene26.rpy:441
     old "Ask for help"
     new "寻求帮助"
-

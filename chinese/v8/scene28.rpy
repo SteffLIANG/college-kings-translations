@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v8/scene28.rpy:18
 translate chinese drug_deal_w_josh_abd9e49e:
@@ -96,73 +96,73 @@ translate chinese int_deal_w_josh_c78d3d3d:
     # je "Well, lookie here, a real hero. Lars, show him what happens to heroes."
     je "好吧，看这里，一个真正的英雄。拉尔斯，让他看看谁才是英雄。"
 
-# game/v8/scene28.rpy:492
+# game/v8/scene28.rpy:491
 translate chinese beat_lars_369b2594:
 
     # u "(Oh shit)"
     u "(噢，糟了。)"
 
-# game/v8/scene28.rpy:507
+# game/v8/scene28.rpy:506
 translate chinese no_int_deal_w_josh_f097ed12:
 
     # jo "No. Fuck you! I'm not giving you shit! You want it, you pay me."
     jo "不。去你妈的！我不会给你东西的！你想要的话，就付钱给我。"
 
-# game/v8/scene28.rpy:512
+# game/v8/scene28.rpy:511
 translate chinese no_int_deal_w_josh_79dde407:
 
     # je "No, no, no... fuck YOU."
     je "不，不，不……是去你妈的。"
 
-# game/v8/scene28.rpy:527
+# game/v8/scene28.rpy:526
 translate chinese no_int_deal_w_josh_9651f818:
 
     # je "You call the cops, I'll find you and pull your tongue down and tie it to your dick, got it?"
     je "你要是叫警察，我会找到你，把你的舌头拉下来绑在你的鸡巴上，明白吗？"
 
-# game/v8/scene28.rpy:555
+# game/v8/scene28.rpy:554
 translate chinese dodged_pipe_07b0b527:
 
     # u "Fuck you!"
     u "去你妈的！"
 
-# game/v8/scene28.rpy:565
+# game/v8/scene28.rpy:564
 translate chinese dodged_pipe_e5cc030a:
 
     # u "Fucking piece of shit!"
     u "去你妈的一坨屎！"
 
-# game/v8/scene28.rpy:594
+# game/v8/scene28.rpy:593
 translate chinese hit_with_pipe_64683e6f:
 
     # je "Hahaha, see ya, \"hero\"."
     je "哈哈哈，再见，\"英雄\"。"
 
-# game/v8/scene28.rpy:627
+# game/v8/scene28.rpy:626
 translate chinese beat_by_lars_51bbb9fc:
 
     # je "A valiant effort, hero, but not good enough. Let's go, Lars."
     je "英勇的尝试，英雄，但还不够好。走吧，拉尔斯。"
 
-# game/v8/scene28.rpy:649
+# game/v8/scene28.rpy:648
 translate chinese volley_joe_9ca302d5:
 
     # u "Cocksucker..."
     u "混蛋……"
 
-# game/v8/scene28.rpy:662
+# game/v8/scene28.rpy:661
 translate chinese check_on_josh_72dfa49e:
 
     # u "Hey Josh, you alright? Can you move?"
     u "嘿，乔什，你没事吧？你能动吗？"
 
-# game/v8/scene28.rpy:667
+# game/v8/scene28.rpy:666
 translate chinese check_on_josh_661b0966:
 
     # jo "Fuck man, this wasn't supposed to happen..."
     jo "去他妈的，伙计，情况不该是这样的……"
 
-# game/v8/scene28.rpy:672
+# game/v8/scene28.rpy:671
 translate chinese check_on_josh_fad7082b:
 
     # u "We don't have time for this. We gotta go. C'mon, let's get you home."
@@ -170,11 +170,10 @@ translate chinese check_on_josh_fad7082b:
 
 translate chinese strings:
 
-    # game/v8/scene28.rpy:497
+    # game/v8/scene28.rpy:496
     old "Duck"
     new "躲避"
 
-    # game/v8/scene28.rpy:575
+    # game/v8/scene28.rpy:574
     old "Kick Joe"
     new "踢乔"
-
