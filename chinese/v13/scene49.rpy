@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v13/scene49.rpy:17
 translate chinese v13s49_ad528d8c:
@@ -40,7 +40,7 @@ translate chinese strings:
 
     # game/v13/scene49.rpy:27
     old "Wow, they turned out great!"
-    new "哇哦，效果很棒！"
+    new "哇噢，效果很棒！"
 
     # game/v13/scene49.rpy:28
     old "Ah, beautiful. But even better in person ;)"

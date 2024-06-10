@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v13/scene39a.rpy:27
 translate chinese v13s39a_f9d3b7c1:
@@ -532,7 +532,7 @@ translate chinese v13s39a_b9b441bb:
 translate chinese v13s39a_0529a669_1:
 
     # u "Wow..."
-    u "哇哦……"
+    u "哇噢……"
 
 translate chinese strings:
 

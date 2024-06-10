@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v13/scene62.rpy:17
 translate chinese v13s62_c39608ff:
@@ -64,7 +64,7 @@ translate chinese v13s62_a3aa73c7:
 translate chinese v13s62_c22228bc:
 
     # u "Oh, wow..."
-    u "噢，哇哦……"
+    u "噢，哇噢……"
 
 # game/v13/scene62.rpy:72
 translate chinese v13s62_b53e40da:

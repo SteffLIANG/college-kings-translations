@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v13/scene7.rpy:13
 translate chinese v13_ticket_transfer_1005db25:
@@ -508,7 +508,7 @@ translate chinese v13_ticket_transfer_c7d71cff:
 translate chinese v13_ticket_transfer_f228fc38:
 
     # u "Wow! This is gonna be sick..."
-    u "哇哦！这会让人疯狂的……"
+    u "哇噢！这会让人疯狂的……"
 
 # game/v13/scene7.rpy:491
 translate chinese v13_ticket_transfer_8c3a1ae7:

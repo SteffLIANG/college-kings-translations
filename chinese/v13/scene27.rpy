@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v13/scene27.rpy:19
 translate chinese v13s27_f39f4c96:
 
     # u "Wow... Perfect timing, who is it this time?"
-    u "哇哦……来得正是时候，这次是谁？"
+    u "哇噢……来得正是时候，这次是谁？"
 
 # game/v13/scene27.rpy:32
 translate chinese v13s27_PhoneContinueAmber_88d710ce:

@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v13/scene26.rpy:21
 translate chinese v13_emmy_sex_3ca6429f:
 
     # u "Oh, shit Emmy..."
-    u "噢，该死的艾米……"
+    u "噢，天呐，艾米……"
 
 # game/v13/scene26.rpy:23
 translate chinese v13_emmy_sex_591209fc:
@@ -28,7 +28,7 @@ translate chinese v13_emmy_sex_c42af467:
 translate chinese v13_emmy_sex_bbd6cd28:
 
     # u "Fuck yessssss... (She's vibrating my fucking cock...) Don't stop, you're so fucking good at t-"
-    u "妈的，舒服……(她在挑逗我那该死的老二……)别停，你真他妈的舒服……"
+    u "妈的，舒服……(她在挑逗我那该死的老二……)别停，你弄得真他妈的舒服……"
 
 # game/v13/scene26.rpy:39
 translate chinese v13_emmy_sex_07b82cc0:
@@ -40,7 +40,7 @@ translate chinese v13_emmy_sex_07b82cc0:
 translate chinese v13_emmy_sex_ae48ffbe:
 
     # u "Oh m- (Is she using her... Teeth? I...) Shit..."
-    u "噢，天……(她是在用她的……牙齿？我……)天呐……"
+    u "噢，天……(她是在用她的……牙齿？我……)，天呐……"
 
 # game/v13/scene26.rpy:47
 translate chinese v13_emmy_sex_8a458af5:

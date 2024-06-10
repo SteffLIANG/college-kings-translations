@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v13/scene21.rpy:27
 translate chinese v13s21_268d1268:
@@ -40,7 +40,7 @@ translate chinese v13s21_4f20312c:
 translate chinese v13s21_e3f29b02:
 
     # u "Ha, wow... Okay, thanks."
-    u "哈，哇哦……好的，谢谢。"
+    u "哈，哇噢……好的，谢谢。"
 
 # game/v13/scene21.rpy:62
 translate chinese v13s21_48e4e0b4:

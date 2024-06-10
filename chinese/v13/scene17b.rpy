@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v13/scene17b.rpy:17
 translate chinese v13s17b_a79c388a:
 
     # u "(Wow... It doesn't get any better than this.)"
-    u "(哇哦……没有比这更好的了。)"
+    u "(哇噢……没有比这更好的了。)"
 
 # game/v13/scene17b.rpy:22
 translate chinese v13s17b_1eb9bd11:

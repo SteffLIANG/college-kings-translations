@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v13/scene48.rpy:17
 translate chinese v13s48_10a4d76c:
@@ -172,7 +172,7 @@ translate chinese v13s48_505a3f68:
 translate chinese v13s48_1db4d94e:
 
     # au "Oh, wow... I might have you do this for me more often."
-    au "噢，哇哦……我可能会让你多帮我做这件事。"
+    au "噢，哇噢……我可能会让你多帮我做这件事。"
 
 # game/v13/scene48.rpy:218
 translate chinese v13s48_9b9ff171:

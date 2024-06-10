@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v13/scene37.rpy:17
 translate chinese v13s37_f628c0e3:
@@ -496,7 +496,7 @@ translate chinese v13s37_nora_333b050b:
 translate chinese v13s37_nora_b30711d1:
 
     # imre "And normally [name], I'd be giving you props, but you messed with the homie's girl, and you know that crosses a line."
-    imre "通常情况下[name]，我本来想表扬你的，但你勾搭上了自家的女人，你知道这太过分了。"
+    imre "通常情况下，[name]，我本来想表扬你的，但你勾搭上了自家的女人，你知道这太过分了。"
 
 # game/v13/scene37.rpy:493
 translate chinese v13s37_nora_3f94ef9f:
