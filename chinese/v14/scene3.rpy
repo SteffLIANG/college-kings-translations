@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v14/scene3.rpy:17
 translate chinese v14s03_b0192c3a:
 
     # imre "Hell yeah boys! This is my kind of place!"
-    imre "哦耶，伙计们！这是我喜欢的地方！"
+    imre "噢耶，伙计们！这是我喜欢的地方！"
 
 # game/v14/scene3.rpy:22
 translate chinese v14s03_893ed748:

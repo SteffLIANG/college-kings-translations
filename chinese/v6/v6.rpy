@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v6/v6.rpy:112
 translate chinese imrecona_05b8b552:
@@ -130,7 +130,7 @@ translate chinese imrecona_3e161c5b:
 translate chinese imrecona_a29e80eb:
 
     # imre "I'm fucking done with you! I'm staying with a friend 'till they find me a new dorm."
-    imre "我他妈的受够你了！我去和一个朋友住一起，直到他们给我找到一个新宿舍。"
+    imre "我他妈地受够你了！我去和一个朋友住一起，直到他们给我找到一个新宿舍。"
 
 # game/v6/v6.rpy:240
 translate chinese imrecona_99c4a6b6:
@@ -846,23 +846,11 @@ translate chinese fs_bd_953a9579:
     # u "Yeah, bye."
     u "好的，再见。"
 
-# game/v6/v6.rpy:985
-translate chinese continuebb_9ea2f78c:
-
-    # " "
-    " "
-
 # game/v6/v6.rpy:991
 translate chinese phoneae_e80c8a11:
 
     # u "(I should probably reply to my messages.)"
     u "(我应该回复我的信息。)"
-
-# game/v6/v6.rpy:1013
-translate chinese phoneae_9ea2f78c:
-
-    # " "
-    " "
 
 # game/v6/v6.rpy:1019
 translate chinese phoneaf_e80c8a11:
@@ -1522,13 +1510,13 @@ translate chinese nr_bb_bb201991:
 translate chinese nr_bb_07491fbc:
 
     # u "(And what the fuck am I gonna do about Grayson?)"
-    u "(我他妈的该怎么回复格雷森？)"
+    u "(我他妈地该怎么回复格雷森？)"
 
 # game/v6/v6.rpy:1797
 translate chinese nr_bb_6acf9f9d:
 
     # u "(What the fuck am I gonna do about Grayson?)"
-    u "(我他妈的该怎么回复格雷森？)"
+    u "(我他妈地该怎么回复格雷森？)"
 
 # game/v6/v6.rpy:1803
 translate chinese continuebe_a547874d:
@@ -2848,7 +2836,7 @@ translate chinese fy_bd_17980f31:
 translate chinese fy_bd_f8f59d4f:
 
     # imre "And then tomorrow night it's the Wolves' rush party, I can't fucking wait."
-    imre "明天晚上是狼人的迎新会，我他妈的等不及了。"
+    imre "明天晚上是狼人的迎新会，我他妈地等不及了。"
 
 # game/v6/v6.rpy:3088
 translate chinese fy_bd_79b183c4:
@@ -11139,462 +11127,461 @@ translate chinese v6_fr3chris3_8b831e6a:
 translate chinese strings:
 
     # game/v6/v6.rpy:4
-    old "I'm playing drink or dare and got dared to send an underwear pic to a guy."
-    new "我在玩喝酒大冒险，有人敢给一个男人发内衣照。"
-
-    # game/v6/v6.rpy:5
-    old "And you chose me, huh?"
-    new "然后你选择了我，嗯？"
-
-    # game/v6/v6.rpy:6
-    old "Feel free to do so anytime :)"
-    new "随时都可以这样做：)"
-
-    # game/v6/v6.rpy:10
-    old "Maybe I picked someone at random ;)"
-    new "也许我随便挑了个人；)"
-
-    # game/v6/v6.rpy:14
-    old "Maybe if you're lucky xx"
-    new "也许只是你运气好 xx"
-
-    # game/v6/v6.rpy:18
-    old "I'm glad you like it xx"
-    new "我很高兴你喜欢它 xx"
-
-    # game/v6/v6.rpy:19
-    old "I hope there's more of that in the future :P"
-    new "我希望将来会有更多这样的事情发生 :P"
-
-    # game/v6/v6.rpy:25
-    old "Moment's passed..."
-    new "机会没了……"
-
-    # game/v6/v6.rpy:29
-    old "You better xx"
-    new "你更好 xx"
-
-    # game/v6/v6.rpy:36
-    old "Oh, okay"
-    new "噢，好的"
-
-    # game/v6/v6.rpy:39
-    old "Yeah maybe we should xx"
-    new "是啊，也许我们应该 xx"
-
-    # game/v6/v6.rpy:46
-    old "I'm alone now, if the surprise is still on ;)"
-    new "我现在孤身一人，如果惊喜还在；)"
-
-    # game/v6/v6.rpy:47
-    old "I'll make it up to you tho"
-    new "我会补偿你的"
-
-    # game/v6/v6.rpy:52
     old "Find Imre"
     new "找伊姆雷"
 
-    # game/v6/v6.rpy:52
+    # game/v6/v6.rpy:4
     old "Keep talking to Amber"
     new "继续和琥珀说话"
 
-    # game/v6/v6.rpy:66
+    # game/v6/v6.rpy:18
     old "Meet Chloe"
     new "见克洛伊"
 
-    # game/v6/v6.rpy:140
+    # game/v6/v6.rpy:92
     old "Explain yourself"
     new "解释你自己"
 
-    # game/v6/v6.rpy:348
+    # game/v6/v6.rpy:304
+    old "Maybe I picked someone at random ;)"
+    new "也许我随便挑了个人;)"
+
+    # game/v6/v6.rpy:308
+    old "Maybe if you're lucky xx"
+    new "也许只是你运气好 xx"
+
+    # game/v6/v6.rpy:312
+    old "I'm playing drink or dare and got dared to send an underwear pic to a guy."
+    new "我在玩喝酒大冒险，有人敢给一个男人发内衣照。"
+
+    # game/v6/v6.rpy:313
+    old "And you chose me, huh?"
+    new "然后你选择了我，嗯？"
+
+    # game/v6/v6.rpy:313
+    old "Feel free to do so anytime :)"
+    new "随时都可以这样做:)"
+
+    # game/v6/v6.rpy:320
+    old "I'm glad you like it xx"
+    new "我很高兴你喜欢它 xx"
+
+    # game/v6/v6.rpy:321
+    old "I hope there's more of that in the future :P"
+    new "我希望将来会有更多这样的事情发生 :P"
+
+    # game/v6/v6.rpy:324
     old "I'm all by myself now."
     new "我现在一个人了。"
 
-    # game/v6/v6.rpy:350
+    # game/v6/v6.rpy:326
     old "Woah, what was that for?"
     new "哇，什么意思？"
 
-    # game/v6/v6.rpy:351
+    # game/v6/v6.rpy:326
     old "Oh wow, you're so fucking hot"
-    new "噢，哇哦，你真他妈的性感"
+    new "噢，哇噢，你真他妈的性感"
 
-    # game/v6/v6.rpy:371
+    # game/v6/v6.rpy:347
     old "I'll make time for you :)"
-    new "我会为你腾出时间：)"
+    new "我会为你腾出时间:)"
 
-    # game/v6/v6.rpy:372
+    # game/v6/v6.rpy:348
     old "That's what I like to hear :*"
-    new "这就是我喜欢听到的：*"
+    new "这就是我喜欢听到的:*"
 
-    # game/v6/v6.rpy:373
+    # game/v6/v6.rpy:349
     old "Meet me at the school's swimming pool"
     new "在学校的游泳馆见"
 
-    # game/v6/v6.rpy:374
+    # game/v6/v6.rpy:350
     old "Cool, see you there"
     new "酷，不见不散"
 
-    # game/v6/v6.rpy:543
+    # game/v6/v6.rpy:518
     old "Just let it ring"
     new "就让它响吧"
 
-    # game/v6/v6.rpy:543
+    # game/v6/v6.rpy:518
     old "You should get that"
     new "你应该去接电话"
 
-    # game/v6/v6.rpy:632
+    # game/v6/v6.rpy:607
     old "Ask about the call"
     new "问电话情况"
 
-    # game/v6/v6.rpy:700
+    # game/v6/v6.rpy:675
     old "Follow her"
     new "跟着她"
 
-    # game/v6/v6.rpy:700
+    # game/v6/v6.rpy:675
     old "Trust her"
     new "相信她"
 
-    # game/v6/v6.rpy:731
+    # game/v6/v6.rpy:706
     old "Stay and listen"
     new "留下来听"
 
-    # game/v6/v6.rpy:982
+    # game/v6/v6.rpy:961
+    old "Moment's passed..."
+    new "机会没了……"
+
+    # game/v6/v6.rpy:965
+    old "You better xx"
+    new "你更好 xx"
+
+    # game/v6/v6.rpy:967
     old "I guess you didn't want my surprise :/"
     new "我猜你不想要我的惊喜 :/"
 
-    # game/v6/v6.rpy:983
+    # game/v6/v6.rpy:968
     old "Sorry something important came up and I didn't have time."
     new "很抱歉，有重要的事情发生了，我没有时间。"
 
-    # game/v6/v6.rpy:998
+    # game/v6/v6.rpy:969
+    old "I'm alone now, if the surprise is still on ;)"
+    new "我现在孤身一人，如果惊喜还在;)"
+
+    # game/v6/v6.rpy:969
+    old "I'll make it up to you tho"
+    new "我会补偿你的"
+
+    # game/v6/v6.rpy:983
     old "I guess we'll do it another time..."
     new "我想我们下次再来一次……"
 
-    # game/v6/v6.rpy:999
+    # game/v6/v6.rpy:984
     old "Sorry, something really important came up. Definitely another time"
     new "抱歉，有很重要的事情发生了。下次吧。"
 
-    # game/v6/v6.rpy:1008
+    # game/v6/v6.rpy:1016
     old "Yeah, I'm in my dorm, why?"
     new "是啊，我在宿舍，怎么了？"
 
-    # game/v6/v6.rpy:1323
+    # game/v6/v6.rpy:1329
     old "Call after her"
     new "打电话给她"
 
-    # game/v6/v6.rpy:1592
+    # game/v6/v6.rpy:1598
     old "What do you want?"
     new "你想说什么？"
 
-    # game/v6/v6.rpy:1592
+    # game/v6/v6.rpy:1598
     old "I guess we are"
     new "我想是的"
 
-    # game/v6/v6.rpy:1666
+    # game/v6/v6.rpy:1672
     old "Don't disturb"
     new "别打扰"
 
-    # game/v6/v6.rpy:1820
+    # game/v6/v6.rpy:1826
     old "Run after her"
     new "追她"
 
-    # game/v6/v6.rpy:1820
+    # game/v6/v6.rpy:1826
     old "Stay on your route"
     new "留在你的路线上"
 
-    # game/v6/v6.rpy:1989
+    # game/v6/v6.rpy:1995
     old "It'll be an adventure"
     new "这将是一次冒险"
 
-    # game/v6/v6.rpy:1989
+    # game/v6/v6.rpy:1995
     old "It'll be a nice dinner"
     new "这会是一顿丰盛的晚餐"
 
-    # game/v6/v6.rpy:2191
+    # game/v6/v6.rpy:2197
     old "Accept call"
     new "接电话"
 
-    # game/v6/v6.rpy:2191
+    # game/v6/v6.rpy:2197
     old "Reject call"
     new "挂断"
 
-    # game/v6/v6.rpy:2239
+    # game/v6/v6.rpy:2245
     old "Fine, I'll come"
     new "好吧，我来"
 
-    # game/v6/v6.rpy:2239
+    # game/v6/v6.rpy:2245
     old "No. (Hang up)"
     new "不。（挂断）"
 
-    # game/v6/v6.rpy:2318
+    # game/v6/v6.rpy:2324
     old "Be understanding"
     new "理解"
 
-    # game/v6/v6.rpy:2318
+    # game/v6/v6.rpy:2324
     old "Be baffled"
     new "困惑不解"
 
-    # game/v6/v6.rpy:2534
+    # game/v6/v6.rpy:2540
     old "Kiss her back"
     new "回吻她"
 
-    # game/v6/v6.rpy:2534
+    # game/v6/v6.rpy:2540
     old "Push her away"
     new "把她推开"
 
-    # game/v6/v6.rpy:3153
+    # game/v6/v6.rpy:3158
     old "Stunning"
     new "惊艳绝伦"
 
-    # game/v6/v6.rpy:3319
+    # game/v6/v6.rpy:3324
     old "Say something smart"
     new "说些聪明的话"
 
-    # game/v6/v6.rpy:3428
+    # game/v6/v6.rpy:3433
     old "Ask about her job"
     new "问她的工作"
 
-    # game/v6/v6.rpy:3428
+    # game/v6/v6.rpy:3433
     old "Ask about her dreams"
     new "问她的梦想"
 
-    # game/v6/v6.rpy:3659
+    # game/v6/v6.rpy:3672
+    old "Oh, okay"
+    new "噢，好的"
+
+    # game/v6/v6.rpy:3674
     old "Hey, I know it's late... but wanna come over?"
     new "嘿，我知道很晚了……但想过来吗？"
 
-    # game/v6/v6.rpy:3661
+    # game/v6/v6.rpy:3675
     old "Sorry, I can't tonight."
     new "对不起，今晚不行。"
 
-    # game/v6/v6.rpy:3819
+    # game/v6/v6.rpy:3843
     old "A few different girls"
     new "几个不同的女孩"
 
-    # game/v6/v6.rpy:3819
+    # game/v6/v6.rpy:3843
     old "No one, really"
     new "没有人，真的"
 
-    # game/v6/v6.rpy:3848
+    # game/v6/v6.rpy:3872
     old "I think you know"
     new "我想你知道"
 
-    # game/v6/v6.rpy:3848
+    # game/v6/v6.rpy:3872
     old "We're just friends"
     new "我们只是朋友"
 
-    # game/v6/v6.rpy:3914
+    # game/v6/v6.rpy:3938
     old "You got me"
     new "你猜到了"
 
-    # game/v6/v6.rpy:3914
+    # game/v6/v6.rpy:3938
     old "I'm not seducing you"
     new "我不是在引诱你"
 
-    # game/v6/v6.rpy:4418
+    # game/v6/v6.rpy:4442
     old "Still shaking from earlier"
     new "还在发抖"
 
-    # game/v6/v6.rpy:4419
+    # game/v6/v6.rpy:4443
     old "Hahaha, we should definitely do this more ;)"
-    new "哈哈哈，我们绝对应该多做这件事；)"
+    new "哈哈哈，我们绝对应该多做这件事;)"
 
-    # game/v6/v6.rpy:4422
+    # game/v6/v6.rpy:4446
     old "You missed out today"
     new "你今天错过了"
 
-    # game/v6/v6.rpy:4423
+    # game/v6/v6.rpy:4447
     old "Daaaamn, I'll be there next time"
     new "该死，下次我会来的"
 
-    # game/v6/v6.rpy:4440
+    # game/v6/v6.rpy:4464
     old "Meet Grayson"
     new "去见格雷森"
 
-    # game/v6/v6.rpy:4440
+    # game/v6/v6.rpy:4464
     old "Stay home"
     new "呆在家里"
 
-    # game/v6/v6.rpy:4626
+    # game/v6/v6.rpy:4650
     old "Question"
     new "质问"
 
-    # game/v6/v6.rpy:4818
+    # game/v6/v6.rpy:4842
     old "I'm in"
     new "我加入"
 
-    # game/v6/v6.rpy:4818
+    # game/v6/v6.rpy:4842
     old "I'm not in"
     new "我不加入"
 
-    # game/v6/v6.rpy:5399
+    # game/v6/v6.rpy:5425
+    old "Yeah maybe we should xx"
+    new "是啊，也许我们应该 xx"
+
+    # game/v6/v6.rpy:5430
     old "Heyy, what are you up to? xx"
     new "嘿，你在忙什么？xx"
 
-    # game/v6/v6.rpy:5400
+    # game/v6/v6.rpy:5431
     old "Just walking back from the gym wbu?"
     new "刚从健身房回来，你呢？"
 
-    # game/v6/v6.rpy:5401
+    # game/v6/v6.rpy:5432
     old "Going to my next lecture x_x"
     new "去我的下一堂课 x_x"
 
-    # game/v6/v6.rpy:5402
+    # game/v6/v6.rpy:5433
     old "Which gym do you go to? Maybe we can go together at some point"
     new "你去哪个健身房？也许我们可以在某个时候一起去。"
 
-    # game/v6/v6.rpy:5403
+    # game/v6/v6.rpy:5434
     old "Sports X and you?"
     new "Sports X，你呢？"
 
-    # game/v6/v6.rpy:5404
+    # game/v6/v6.rpy:5435
     old "Awww I'm SV Fitness :("
     new "啊 我在SV Fitness :("
 
-    # game/v6/v6.rpy:5405
+    # game/v6/v6.rpy:5436
     old "Maybe we should do a home workout together sometime ;)"
-    new "也许我们应该找个时间一起做个家庭锻炼；)"
+    new "也许我们应该找个时间一起做个家庭锻炼;)"
 
-    # game/v6/v6.rpy:5406
+    # game/v6/v6.rpy:5436
     old "Yeah, that's too bad :/"
     new "是啊，那太糟糕了 :/"
 
-    # game/v6/v6.rpy:5409
+    # game/v6/v6.rpy:5442
     old "Hey, you wanna go bowling today? I'm free this afternoon"
     new "嘿，你今天想去打保龄球吗？我今天下午有空。"
 
-    # game/v6/v6.rpy:5410
+    # game/v6/v6.rpy:5443
     old "Yeah, sounds good :)"
-    new "是的，听起来不错：)"
+    new "是的，听起来不错:)"
 
-    # game/v6/v6.rpy:5411
+    # game/v6/v6.rpy:5444
     old "I have a lecture at 2:30 but I can go straight to the bowling alley afterwards"
     new "我两点半有个讲座，但之后我可以直接去保龄球馆。"
 
-    # game/v6/v6.rpy:5412
+    # game/v6/v6.rpy:5445
     old "Meet there at 4?"
     new "四点在那里见面？"
 
-    # game/v6/v6.rpy:5413
+    # game/v6/v6.rpy:5446
     old "Yesss, see you there"
     new "是的，不见不散"
 
-    # game/v6/v6.rpy:5562
+    # game/v6/v6.rpy:5592
     old "Praise her"
     new "赞美她"
 
-    # game/v6/v6.rpy:5562
+    # game/v6/v6.rpy:5592
     old "Mock her"
     new "取笑她"
 
-    # game/v6/v6.rpy:5649
+    # game/v6/v6.rpy:5679
     old "Praise him"
     new "赞美他"
 
-    # game/v6/v6.rpy:5649
+    # game/v6/v6.rpy:5679
     old "Mock him"
     new "取笑他"
 
-    # game/v6/v6.rpy:5828
+    # game/v6/v6.rpy:5858
     old "Okay, I'll do it"
     new "好吧，我来"
 
-    # game/v6/v6.rpy:5828
+    # game/v6/v6.rpy:5858
     old "No way I'm doing that"
     new "我不可能这么做"
 
-    # game/v6/v6.rpy:5860
+    # game/v6/v6.rpy:5890
     old "Act out a lullaby"
     new "表演摇篮曲"
 
-    # game/v6/v6.rpy:5860
+    # game/v6/v6.rpy:5890
     old "Make something up"
     new "编点儿什么"
 
-    # game/v6/v6.rpy:6191
+    # game/v6/v6.rpy:6221
     old "Choose your bowling name:"
     new "决定你的保龄球名字："
 
-    # game/v6/v6.rpy:6542
+    # game/v6/v6.rpy:6572
     old "Say Goodbye"
     new "说再见"
 
-    # game/v6/v6.rpy:7023
+    # game/v6/v6.rpy:7053
     old "Take the shot"
     new "喝一杯"
 
-    # game/v6/v6.rpy:7023
+    # game/v6/v6.rpy:7053
     old "Decline"
     new "谢绝"
 
-    # game/v6/v6.rpy:7206
+    # game/v6/v6.rpy:7236
     old "Kylie"
     new "凯莉"
 
-    # game/v6/v6.rpy:7518
+    # game/v6/v6.rpy:7548
     old "Anything for a girl like that"
     new "为那样的女孩做任何事"
 
-    # game/v6/v6.rpy:7518
+    # game/v6/v6.rpy:7548
     old "What people do for pussy..."
     new "人们为骚货所做的……"
 
-    # game/v6/v6.rpy:7669
+    # game/v6/v6.rpy:7699
     old "I was in love"
     new "我恋爱了"
 
-    # game/v6/v6.rpy:7669
+    # game/v6/v6.rpy:7699
     old "It was nothing"
     new "没什么"
 
-    # game/v6/v6.rpy:8285
+    # game/v6/v6.rpy:8315
     old "Ask Riley something"
     new "问莱莉一些事情"
 
-    # game/v6/v6.rpy:8285
+    # game/v6/v6.rpy:8315
     old "Ask Finn something"
     new "问芬恩些事"
 
-    # game/v6/v6.rpy:8579
+    # game/v6/v6.rpy:8609
     old "You're such a tease"
     new "你真是个有趣的人"
 
-    # game/v6/v6.rpy:8579
+    # game/v6/v6.rpy:8609
     old "Not gonna happen"
     new "不会发生的"
 
-    # game/v6/v6.rpy:9171
+    # game/v6/v6.rpy:9202
     old "Maybe you should step down"
     new "也许你该下台"
 
-    # game/v6/v6.rpy:9171
+    # game/v6/v6.rpy:9202
     old "Nora's being stupid"
     new "诺拉很蠢"
 
-    # game/v6/v6.rpy:9440
+    # game/v6/v6.rpy:9472
     old "Ask Aubrey"
     new "问奥布里"
 
-    # game/v6/v6.rpy:9440
+    # game/v6/v6.rpy:9472
     old "Ask Emily"
     new "问艾米丽"
 
-    # game/v6/v6.rpy:9859
+    # game/v6/v6.rpy:9891
     old "We could lock the door"
     new "我们可以锁上门"
 
-    # game/v6/v6.rpy:9859
+    # game/v6/v6.rpy:9891
     old "It was nice talking"
     new "谈话很愉快"
 
-    # game/v6/v6.rpy:10009
+    # game/v6/v6.rpy:10041
     old "He turned down a threesome?!"
     new "他拒绝了三P？！"
 
-    # game/v6/v6.rpy:10009
+    # game/v6/v6.rpy:10041
     old "I kinda get what he means"
     new "我有点明白他的意思了"
 
-    # game/v6/v6.rpy:10075
+    # game/v6/v6.rpy:10107
     old "At least we got to talk"
     new "至少我们得谈谈"
-

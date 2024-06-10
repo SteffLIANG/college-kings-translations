@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v14/scene1a.rpy:24
 translate chinese v14s01a_b31a642a:
@@ -22,7 +22,7 @@ translate chinese v14s01a_nsfwSkipLabel1_1df632ca:
 translate chinese v14s01a_nsfwSkipLabel1_bacf76df:
 
     # u "(A fucking dream?! Ugh! I need to get up and do something. I can't sleep right now, I don't care what time it is.)"
-    u "(他妈的梦？！啊！我需要起来做点什么。我现在睡不着，我不在乎现在几点了。)"
+    u "(他妈的是个梦？！啊！我需要起来做点什么。我现在睡不着，我不在乎现在几点了。)"
 
 # game/v14/scene1a.rpy:49
 translate chinese v14s01a_nsfwSkipLabel1_5aceaef9:
