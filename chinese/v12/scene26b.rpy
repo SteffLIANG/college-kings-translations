@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v12/scene26b.rpy:33
 translate chinese v12_chase_nora_b061b991:
@@ -10,7 +10,7 @@ translate chinese v12_chase_nora_b061b991:
 translate chinese v12_chase_nora_0f24c85d:
 
     # no "*Crying* I'm fine, [name]."
-    no " *哭泣* 我没事儿，[name]。"
+    no "*哭泣* 我没事儿，[name]。"
 
 # game/v12/scene26b.rpy:43
 translate chinese v12_chase_nora_0e7052d2:
@@ -22,7 +22,7 @@ translate chinese v12_chase_nora_0e7052d2:
 translate chinese v12_chase_nora_a1242384:
 
     # no "*Crying* I don't understand why I can't just be in a normal, happy relationship. I'm so fucking tired of always fighting."
-    no " *哭泣* 我不明白为什么我就不能有一段正常幸福的感情。我他妈受够了总是吵架。"
+    no "*哭泣* 我不明白为什么我就不能有一段正常幸福的感情。我他妈受够了总是吵架。"
 
 # game/v12/scene26b.rpy:53
 translate chinese v12_chase_nora_03652484:
@@ -40,7 +40,7 @@ translate chinese v12_chase_nora_192571dd:
 translate chinese v12_chase_nora_f8db4a79:
 
     # no "*Crying* It's not that simple Lindsey..."
-    no " *哭泣* 林赛，事情不是想象的那么简单……"
+    no "*哭泣* 林赛，事情不是想象的那么简单……"
 
 # game/v12/scene26b.rpy:64
 translate chinese v12_chase_nora_2fbe65fd:
@@ -52,19 +52,19 @@ translate chinese v12_chase_nora_2fbe65fd:
 translate chinese v12_chase_nora_8925d4b6:
 
     # no "The bad stuff is all you see but, there's a lot of good under the surface. Chris isn't a bad guy, he's just not being a good boyfriend. *Sobs*"
-    no "你看到的都是不好的东西，但在表面之下有很多好的东西。克里斯不是坏人，他只是不是个好男朋友。 *抽泣* "
+    no "你看到的都是不好的东西，但在表面之下有很多好的东西。克里斯不是坏人，他只是不是个好男朋友。 *抽泣*"
 
 # game/v12/scene26b.rpy:74
 translate chinese v12_chase_nora_2644dd4c:
 
     # li "*Sighs* I don't see how you can just let the past blind you from the present."
-    li " *叹息* 我不明白你怎么能让过去蒙蔽了你的双眼。"
+    li "*叹息* 我不明白你怎么能让过去蒙蔽了你的双眼。"
 
 # game/v12/scene26b.rpy:79
 translate chinese v12_chase_nora_04ca0187:
 
     # no "*Crying* I get you're trying to help me, but blaming Chris for everything isn't helping."
-    no " *哭泣* 我知道你想帮我，但把一切都怪在克里斯头上是没用的。"
+    no "*哭泣* 我知道你想帮我，但把一切都怪在克里斯头上是没用的。"
 
 # game/v12/scene26b.rpy:84
 translate chinese v12_chase_nora_8e031b93:
@@ -76,7 +76,7 @@ translate chinese v12_chase_nora_8e031b93:
 translate chinese v12_chase_nora_1c120804:
 
     # no "I probably shouldn't have done all that in public. Fuck! *Sobs*"
-    no "也许我不该在大庭广众之下这么做。该死的！ *抽泣* "
+    no "也许我不该在大庭广众之下这么做。该死的！ *抽泣*"
 
 # game/v12/scene26b.rpy:90
 translate chinese v12_chase_nora_08ff157a:
@@ -94,7 +94,7 @@ translate chinese v12_chase_nora_3529efba:
 translate chinese v12_chase_nora_5cab3631:
 
     # no "*Crying* Am I in the wrong, [name]? If you were in the same position as Chris, what would you do?"
-    no " *哭泣* 我做错了吗？[name]？ 如果你是克里斯，你当时会怎么做？"
+    no "*哭泣* 我做错了吗？[name]？ 如果你是克里斯，你当时会怎么做？"
 
 # game/v12/scene26b.rpy:105
 translate chinese v12_chase_nora_80d2facc:
@@ -130,7 +130,7 @@ translate chinese v12_chase_nora_7e8f6119:
 translate chinese v12_chase_nora_2b426213:
 
     # no "*Crying*"
-    no " *哭泣* "
+    no "*哭泣* "
 
 # game/v12/scene26b.rpy:132
 translate chinese v12_chase_nora_a45ef69f:
@@ -160,13 +160,13 @@ translate chinese v12_chase_nora_e842ddaf:
 translate chinese v12_chase_nora_32c6985b:
 
     # no "*Crying* How did I get like this?"
-    no " *哭泣* 我怎么会变成这样？"
+    no "*哭泣* 我怎么会变成这样？"
 
 # game/v12/scene26b.rpy:153
 translate chinese v12_chase_nora_8732a86a:
 
     # no "*Crying* Like the girls from the movies who cry over the way some stupid jock is treating them..."
-    no " *哭泣* 就像电影里的女孩为一些愚蠢的渣男对待她们的方式而哭泣……"
+    no "*哭泣* 就像电影里的女孩为一些愚蠢的渣男对待她们的方式而哭泣……"
 
 # game/v12/scene26b.rpy:158
 translate chinese v12_chase_nora_ddbaaac4:
@@ -316,7 +316,7 @@ translate chinese v12_chase_nora_30c9c67d:
 translate chinese v12_chase_nora_ff8a528b:
 
     # no "*Chuckles* Thanks guys."
-    no " *咯咯笑* 谢谢大家。"
+    no "*咯咯笑* 谢谢大家。"
 
 translate chinese strings:
 

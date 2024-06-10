@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v12/scene8.rpy:16
 translate chinese v12_murder_mystery_reveal_63917b3e:
 
     # lee "Wow, that turned out a lot better than expected. I hope you all enjoyed yourselves. Was anyone surprised to learn [name] was my chosen murderer?"
-    lee "哇哦，结果比预期的好多了。我希望你们都玩得开心。有人对[name]是我选的凶手感到惊讶吗？"
+    lee "哇噢，结果比预期的好多了。我希望你们都玩得开心。有人对[name]是我选的凶手感到惊讶吗？"
 
 # game/v12/scene8.rpy:23
 translate chinese v12_murder_mystery_reveal_86efcdab:

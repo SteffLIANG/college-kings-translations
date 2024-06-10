@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v12/scene3a.rpy:24
 translate chinese v12_penelope_call_8ac7517f:
@@ -46,7 +46,7 @@ translate chinese v12_penelope_call_7fc65c7f:
 translate chinese v12_penelope_call_211c77f7:
 
     # u "*Chuckles* Wow, that's really great to hear. I'm really happy that it's all finally over, for both of us."
-    u "*咯咯笑* 哇，这真是太好了。我真的很高兴这一切终于结束了，对我们两个来说。"
+    u "*咯咯笑* 哇噢，这真是太好了。我真的很高兴这一切终于结束了，对我们两个来说。"
 
 # game/v12/scene3a.rpy:76
 translate chinese v12_penelope_call_9ab769be:
@@ -208,11 +208,11 @@ translate chinese strings:
 
     # game/v12/scene3a.rpy:26
     old "Answer"
-    new "接"
+    new "回应"
 
     # game/v12/scene3a.rpy:26
     old "Don't answer"
-    new "不接"
+    new "别回应"
 
     # game/v12/scene3a.rpy:175
     old "Never mind"

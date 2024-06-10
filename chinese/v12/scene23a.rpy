@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v12/scene23a.rpy:50
 translate chinese v12_mc_chilling_c01866a4:
@@ -10,7 +10,7 @@ translate chinese v12_mc_chilling_c01866a4:
 translate chinese v12_mc_chilling_27121c3a:
 
     # sa "*Drunk* No one wants to hang out with me! Why is everyone ignoring me?!"
-    sa " *醉醺醺* 没人想和我出去玩！为什么每个人都不理我？！"
+    sa "*醉醺醺* 没人想和我出去玩！为什么每个人都不理我？！"
 
 # game/v12/scene23a.rpy:66
 translate chinese v12_mc_chilling_55e52bac:
@@ -22,19 +22,19 @@ translate chinese v12_mc_chilling_55e52bac:
 translate chinese v12_mc_chilling_b5561abc:
 
     # sa "*Drunk* This is only my first drink."
-    sa " *醉醺醺* 这只是我的第一杯酒。"
+    sa "*醉醺醺* 这只是我的第一杯酒。"
 
 # game/v12/scene23a.rpy:76
 translate chinese v12_mc_chilling_9dc438bd:
 
     # u "*Chuckles* That might be your first drink, but that's a big ass bottle."
-    u " *咯咯笑* 这可能是你的第一杯酒，但那是一个很大的瓶子。"
+    u "*咯咯笑* 这可能是你的第一杯酒，但那是一个很大的瓶子。"
 
 # game/v12/scene23a.rpy:81
 translate chinese v12_mc_chilling_f98d210d:
 
     # sa "*Drunk* I'm good... Promise!"
-    sa " *醉醺醺* 我很好……我保证！"
+    sa "*醉醺醺* 我很好……我保证！"
 
 # game/v12/scene23a.rpy:86
 translate chinese v12_mc_chilling_54aed12c:
@@ -46,7 +46,7 @@ translate chinese v12_mc_chilling_54aed12c:
 translate chinese v12_mc_chilling_5a65a143:
 
     # sa "*Drunk* I went to everyone's door, but none of them were open... Yours was unlocked, though!"
-    sa " *醉醺醺* 我敲了每个人的门，但没有一个是开着的……不过，你的是没锁的！"
+    sa "*醉醺醺* 我敲了每个人的门，但没有一个是开着的……不过，你的是没锁的！"
 
 # game/v12/scene23a.rpy:96
 translate chinese v12_mc_chilling_ac2c5107:
@@ -58,13 +58,13 @@ translate chinese v12_mc_chilling_ac2c5107:
 translate chinese v12_mc_chilling_f129c7b2:
 
     # u "So, you were just trying to walk into random people's rooms? You know we aren't the only guests in the hotel right? *Chuckles*"
-    u "所以，你只是想随便走进别人的房间？你知道我们不是酒店里唯一的客人，对吧？ *咯咯笑* "
+    u "所以，你只是想随便走进别人的房间？你知道我们不是酒店里唯一的客人，对吧？ *咯咯笑*"
 
 # game/v12/scene23a.rpy:106
 translate chinese v12_mc_chilling_df75e2fb:
 
     # sa "*Drunk* Wait, we're not?"
-    sa " *醉醺醺* 等等，我们不是吗？"
+    sa "*醉醺醺* 等等，我们不是吗？"
 
 # game/v12/scene23a.rpy:111
 translate chinese v12_mc_chilling_1924254e:
@@ -76,7 +76,7 @@ translate chinese v12_mc_chilling_1924254e:
 translate chinese v12_mc_chilling_53066e7c:
 
     # sa "*Drunk* Ohhhhh, that must be why that guy was yelling at me to leave him alone. I thought it was Ryan... *Chuckles*"
-    sa " *醉醺醺* 噢，那一定是那个家伙冲我大喊让我离他远点的原因。我还以为是瑞恩…… *咯咯笑* "
+    sa "*醉醺醺* 噢，那一定是那个家伙冲我大喊让我离他远点的原因。我还以为是瑞恩…… *咯咯笑*"
 
 # game/v12/scene23a.rpy:121
 translate chinese v12_mc_chilling_feb167d6:
@@ -88,7 +88,7 @@ translate chinese v12_mc_chilling_feb167d6:
 translate chinese v12_mc_chilling_67aaf10b:
 
     # sa "*Drunk* Why do you care where my stupid brother is? Why can't you just spend time with me?"
-    sa " *醉醺醺* 你为什么要关心我愚蠢的哥哥在哪里？你为什么就不能花点时间陪我呢？"
+    sa "*醉醺醺* 你为什么要关心我愚蠢的哥哥在哪里？你为什么就不能花点时间陪我呢？"
 
 # game/v12/scene23a.rpy:131
 translate chinese v12_mc_chilling_1cbbc10b:
@@ -100,7 +100,7 @@ translate chinese v12_mc_chilling_1cbbc10b:
 translate chinese v12_mc_chilling_c60f1f8b:
 
     # sa "*Drunk* He's sleeping, okay? Happy now?"
-    sa " *醉醺醺* 他在睡觉，好吗？现在高兴了吧？"
+    sa "*醉醺醺* 他在睡觉，好吗？现在高兴了吧？"
 
 # game/v12/scene23a.rpy:141
 translate chinese v12_mc_chilling_12aa7976:
@@ -112,7 +112,7 @@ translate chinese v12_mc_chilling_12aa7976:
 translate chinese v12_mc_chilling_99fa0d65:
 
     # sa "*Drunk* Do you think I'm pretty?"
-    sa " *醉醺醺* 你觉得我漂亮吗？"
+    sa "*醉醺醺* 你觉得我漂亮吗？"
 
 # game/v12/scene23a.rpy:154
 translate chinese v12_mc_chilling_d515fdf9:
@@ -124,7 +124,7 @@ translate chinese v12_mc_chilling_d515fdf9:
 translate chinese v12_mc_chilling_2e40bbfd:
 
     # sa "*Drunk* Which shouldn't take this long to answer... I get it..."
-    sa " *醉醺醺* 这应该不会花这么长时间来回答……我明白了……"
+    sa "*醉醺醺* 这应该不会花这么长时间来回答……我明白了……"
 
 # game/v12/scene23a.rpy:164
 translate chinese v12_mc_chilling_b88e5acd:
@@ -142,19 +142,19 @@ translate chinese v12_mc_chilling_3f54e48a:
 translate chinese v12_mc_chilling_6c620e8d:
 
     # sa "*Drunk* Do you really think so? Like, do you think I'm really pretty?"
-    sa " *醉醺醺* 你真的这么认为吗？你觉得我真的很漂亮吗？"
+    sa "*醉醺醺* 你真的这么认为吗？你觉得我真的很漂亮吗？"
 
 # game/v12/scene23a.rpy:181
 translate chinese v12_mc_chilling_a5ea0d94:
 
     # u "Yes, Sam. I think you're very pretty. *Chuckles*"
-    u "是的，萨曼萨。我觉得你很漂亮。 *咯咯笑* "
+    u "是的，萨曼萨。我觉得你很漂亮。 *咯咯笑*"
 
 # game/v12/scene23a.rpy:186
 translate chinese v12_mc_chilling_97a73ab2:
 
     # sa "*Drunk* No you don't."
-    sa " *醉醺醺* 不，你不是。"
+    sa "*醉醺醺* 不，你不是。"
 
 # game/v12/scene23a.rpy:191
 translate chinese v12_mc_chilling_bd83d731:
@@ -166,7 +166,7 @@ translate chinese v12_mc_chilling_bd83d731:
 translate chinese v12_mc_chilling_6797330e:
 
     # sa "*Drunk* Just wanted to see what you'd say... But, I know you don't think I'm \"that\" pretty."
-    sa " *醉醺醺* 只是想看看你会说什么……但是，我知道你不会认为我\"那种\"漂亮。"
+    sa "*醉醺醺* 只是想看看你会说什么……但是，我知道你不会认为我\"那种\"漂亮。"
 
 # game/v12/scene23a.rpy:201
 translate chinese v12_mc_chilling_db56ac90:
@@ -178,7 +178,7 @@ translate chinese v12_mc_chilling_db56ac90:
 translate chinese v12_mc_chilling_f87a099b:
 
     # sa "*Drunk* If you think I'm pretty... Then why haven't we done anything yet, huh? Why haven't you kissed me? Don't you wanna kiss me?"
-    sa " *醉醺醺* 如果你觉得我很漂亮……那我们为什么还没做点什么呢？你为什么不吻我？你不想吻我吗？"
+    sa "*醉醺醺* 如果你觉得我很漂亮……那我们为什么还没做点什么呢？你为什么不吻我？你不想吻我吗？"
 
 # game/v12/scene23a.rpy:216
 translate chinese v12_mc_chilling_dd61558e:
@@ -190,25 +190,25 @@ translate chinese v12_mc_chilling_dd61558e:
 translate chinese v12_mc_chilling_448dc203:
 
     # sa "*Drunk* What? I'm not sexy enough to show off? See, I knew you didn't like me..."
-    sa " *醉醺醺* 什么？我不够性感可以炫耀吗？我知道你不喜欢我……"
+    sa "*醉醺醺* 什么？我不够性感可以炫耀吗？我知道你不喜欢我……"
 
 # game/v12/scene23a.rpy:231
 translate chinese v12_mc_chilling_13837e21:
 
     # sa "*Drunk* I just want someone to really like me. Someone that's strong and can protect me... Oh, and he has to be able to beat up my brother!"
-    sa " *醉醺醺* 我只是希望有人真的喜欢我。一个坚强的能保护我的人。噢，他必须能打得过我哥哥！"
+    sa "*醉醺醺* 我只是希望有人真的喜欢我。一个坚强的能保护我的人。噢，他必须能打得过我哥哥！"
 
 # game/v12/scene23a.rpy:236
 translate chinese v12_mc_chilling_4ad42dbb:
 
     # u "*Chuckles* What if he can't beat up your brother?"
-    u " *咯咯笑* 如果他打不过你哥哥怎么办？"
+    u "*咯咯笑* 如果他打不过你哥哥怎么办？"
 
 # game/v12/scene23a.rpy:241
 translate chinese v12_mc_chilling_2deb08c7:
 
     # sa "*Drunk* Then he's not the right guy..."
-    sa " *醉醺醺* 那他就不是合适的人……"
+    sa "*醉醺醺* 那他就不是合适的人……"
 
 # game/v12/scene23a.rpy:246
 translate chinese v12_mc_chilling_c71a4f44:
@@ -226,7 +226,7 @@ translate chinese v12_mc_chilling_ef2f1671:
 translate chinese v12_mc_chilling_565249cf:
 
     # sa "*Drunk* I wanna have sex in a pool."
-    sa " *醉醺醺* 我想在游泳池里做爱。"
+    sa "*醉醺醺* 我想在游泳池里做爱。"
 
 # game/v12/scene23a.rpy:261
 translate chinese v12_mc_chilling_c124d245:
@@ -244,7 +244,7 @@ translate chinese v12_mc_chilling_25834d22:
 translate chinese v12_mc_chilling_e84c3849:
 
     # sa "*Drunk* Do you know if there's a pool on campus?"
-    sa " *醉醺醺* 你知道校园里有没有游泳池？"
+    sa "*醉醺醺* 你知道校园里有没有游泳池？"
 
 # game/v12/scene23a.rpy:276
 translate chinese v12_mc_chilling_34814001:
@@ -256,31 +256,31 @@ translate chinese v12_mc_chilling_34814001:
 translate chinese v12_mc_chilling_12f2e20a:
 
     # sa "*Drunk* Did you have sex in the pool?!"
-    sa " *醉醺醺* 你在游泳池里做过爱吗？！"
+    sa "*醉醺醺* 你在游泳池里做过爱吗？！"
 
 # game/v12/scene23a.rpy:286
 translate chinese v12_mc_chilling_f1555f93:
 
     # u "*Chuckles* No. I didn't."
-    u " *咯咯笑* 不。没有。"
+    u "*咯咯笑* 不。没有。"
 
 # game/v12/scene23a.rpy:291
 translate chinese v12_mc_chilling_85504b58:
 
     # sa "*Drunk* Would you want to?"
-    sa " *醉醺醺* 你想试试吗？"
+    sa "*醉醺醺* 你想试试吗？"
 
 # game/v12/scene23a.rpy:299
 translate chinese v12_mc_chilling_ef8aef9a:
 
     # u "Does sound kinda refreshing. *Laughs*"
-    u "听起来确实让人耳目一新。 *笑* "
+    u "听起来确实让人耳目一新。 *笑*"
 
 # game/v12/scene23a.rpy:304
 translate chinese v12_mc_chilling_ec604462:
 
     # sa "*Drunk* Good... Right answer."
-    sa " *醉醺醺* 好吧……答对了。"
+    sa "*醉醺醺* 好吧……答对了。"
 
 # game/v12/scene23a.rpy:311
 translate chinese v12_mc_chilling_0e787380:
@@ -292,7 +292,7 @@ translate chinese v12_mc_chilling_0e787380:
 translate chinese v12_mc_chilling_0289b587:
 
     # sa "*Drunk* Booooo... Wrong answer."
-    sa " *醉醺醺* 嘣……回答错误。"
+    sa "*醉醺醺* 嘣……回答错误。"
 
 # game/v12/scene23a.rpy:321
 translate chinese v12_mc_chilling_0a019a63:
@@ -304,7 +304,7 @@ translate chinese v12_mc_chilling_0a019a63:
 translate chinese v12_mc_chilling_02bf4d3a:
 
     # sa "*Drunk* Every choice is important... Now, can you beat up my brother?"
-    sa " *醉醺醺* 每一个选择都很重要……现在，你能打赢我哥哥吗？"
+    sa "*醉醺醺* 每一个选择都很重要……现在，你能打赢我哥哥吗？"
 
 # game/v12/scene23a.rpy:331
 translate chinese v12_mc_chilling_31c06cea:
@@ -316,7 +316,7 @@ translate chinese v12_mc_chilling_31c06cea:
 translate chinese v12_mc_chilling_e8c98c13:
 
     # sa "*Drunk* No, Chris... *Chuckles* What other brother is there?"
-    sa " *醉醺醺* 不，是克里斯…… *咯咯笑* 还有什么兄弟？"
+    sa "*醉醺醺* 不，是克里斯…… *咯咯笑* 还有什么兄弟？"
 
 # game/v12/scene23a.rpy:346
 translate chinese v12_mc_chilling_c9aa2bf5:
@@ -334,25 +334,25 @@ translate chinese v12_mc_chilling_60f76380:
 translate chinese v12_mc_chilling_f40d0ca8:
 
     # sa "*Drunk* Ughhh, such a pussy. *Chuckles*"
-    sa " *醉醺醺* 嗯，真是个娘们。 *咯咯笑*"
+    sa "*醉醺醺* 嗯，真是个娘们。 *咯咯笑*"
 
 # game/v12/scene23a.rpy:364
 translate chinese v12_mc_chilling_50c51911:
 
     # sa "*Drunk* Perfect! You can be my boyfriend then."
-    sa " *醉醺醺* 太棒了！那你可以做我的男朋友了。"
+    sa "*醉醺醺* 太棒了！那你可以做我的男朋友了。"
 
 # game/v12/scene23a.rpy:369
 translate chinese v12_mc_chilling_b8e91c8e:
 
     # u "*Laughs* What?"
-    u " *笑* 什么？"
+    u "*笑* 什么？"
 
 # game/v12/scene23a.rpy:374
 translate chinese v12_mc_chilling_d27695b9:
 
     # sa "*Drunk* Yeah! You can kick Cameron's ass when he's bothering me and also fuck me in the pool every day."
-    sa " *醉醺醺* 是的！你可以在卡梅隆骚扰我的时候揍他一顿，还可以每天在游泳池里操我。"
+    sa "*醉醺醺* 是的！你可以在卡梅隆骚扰我的时候揍他一顿，还可以每天在游泳池里操我。"
 
 # game/v12/scene23a.rpy:379
 translate chinese v12_mc_chilling_4b126695:
@@ -370,7 +370,7 @@ translate chinese v12_mc_chilling_a94371cd:
 translate chinese v12_mc_chilling_f0890315:
 
     # sa "*Drunk* Take your clothes off, boyfriend."
-    sa " *醉醺醺* 脱掉你的衣服，男朋友。"
+    sa "*醉醺醺* 脱掉你的衣服，男朋友。"
 
 # game/v12/scene23a.rpy:399
 translate chinese v12_mc_chilling_1ae420f0:
@@ -382,7 +382,7 @@ translate chinese v12_mc_chilling_1ae420f0:
 translate chinese v12_mc_chilling_559ef4f6:
 
     # sa "*Drunk* And?"
-    sa " *醉醺醺* 然后呢？"
+    sa "*醉醺醺* 然后呢？"
 
 # game/v12/scene23a.rpy:409
 translate chinese v12_mc_chilling_e289ce14:
@@ -394,7 +394,7 @@ translate chinese v12_mc_chilling_e289ce14:
 translate chinese v12_mc_chilling_fb571e45:
 
     # sa "*Drunk* Well, whatever... No matter what, you can't be my boyfriend 'cause you don't meet my standards."
-    sa " *醉醺醺* 嗯，随便了……不管怎样，你不能做我的男朋友，因为你达不到我的标准。"
+    sa "*醉醺醺* 嗯，随便了……不管怎样，你不能做我的男朋友，因为你达不到我的标准。"
 
 # game/v12/scene23a.rpy:420
 translate chinese v12_mc_chilling_314adb71:
@@ -406,19 +406,19 @@ translate chinese v12_mc_chilling_314adb71:
 translate chinese v12_mc_chilling_e4c94688:
 
     # sa "*Drunk* Yeah, what's wrong with that?"
-    sa " *醉醺醺* 是啊，有什么问题吗？"
+    sa "*醉醺醺* 是啊，有什么问题吗？"
 
 # game/v12/scene23a.rpy:430
 translate chinese v12_mc_chilling_7c8433ba:
 
     # u "Those aren't real standards. *Chuckles*"
-    u "这些都不是真正的标准。 *咯咯笑* "
+    u "这些都不是真正的标准。 *咯咯笑*"
 
 # game/v12/scene23a.rpy:440
 translate chinese v12_mc_chilling_6bd57e02:
 
     # sa "*Drunk* Ughhh, whatever!"
-    sa " *醉醺醺* 嗯，随便吧！"
+    sa "*醉醺醺* 嗯，随便吧！"
 
 # game/v12/scene23a.rpy:445
 translate chinese v12_mc_chilling_571349c2:
@@ -430,7 +430,7 @@ translate chinese v12_mc_chilling_571349c2:
 translate chinese v12_mc_chilling_24ef0e7b:
 
     # sa "*Drunk* Leave me alone."
-    sa " *醉醺醺* 离我远点。"
+    sa "*醉醺醺* 离我远点。"
 
 # game/v12/scene23a.rpy:449
 translate chinese v12_mc_chilling_b3dcaec4:
@@ -460,7 +460,7 @@ translate chinese v12_mc_chilling_89383e6e:
 translate chinese v12_mc_chilling_dec575f8:
 
     # u "(*Sighs* He should at least know she's drunk.)"
-    u "( *叹息* 他至少应该知道她喝醉了。)"
+    u "(*叹息* 他至少应该知道她喝醉了。)"
 
 # game/v12/scene23a.rpy:490
 translate chinese v12_mc_chilling_b1b4e24f:
@@ -502,7 +502,7 @@ translate chinese v12_mc_chilling_0eb27adc:
 translate chinese v12_mc_chilling_2ea0ac2f:
 
     # ca "*Sighs* Okay, later."
-    ca " *叹息* 好的，回头见。"
+    ca "*叹息* 好的，回头见。"
 
 # game/v12/scene23a.rpy:525
 translate chinese v12_mc_chilling_59b2f8e8:
@@ -580,7 +580,7 @@ translate chinese v12_mc_chilling_fcfea652:
 translate chinese v12_mc_chilling_c8f0086b:
 
     # sa "*Drunk* HELLO? CAN YOU HEAR ME?!"
-    sa " *醉醺醺* 喂？你听得见吗？!"
+    sa "*醉醺醺* 喂？你听得见吗？!"
 
 # game/v12/scene23a.rpy:613
 translate chinese v12_mc_chilling_c0174dea:
@@ -592,7 +592,7 @@ translate chinese v12_mc_chilling_c0174dea:
 translate chinese v12_mc_chilling_b5561abc_1:
 
     # sa "*Drunk* This is only my first drink."
-    sa " *醉醺醺* 这只是我的第一杯酒。"
+    sa "*醉醺醺* 这只是我的第一杯酒。"
 
 # game/v12/scene23a.rpy:623
 translate chinese v12_mc_chilling_c05ff2db:
@@ -604,7 +604,7 @@ translate chinese v12_mc_chilling_c05ff2db:
 translate chinese v12_mc_chilling_d32bea82:
 
     # sa "*Drunk* I'm fine... What are you doing?"
-    sa " *醉醺醺* 我没事儿……你干嘛呢？"
+    sa "*醉醺醺* 我没事儿……你干嘛呢？"
 
 # game/v12/scene23a.rpy:633
 translate chinese v12_mc_chilling_78cd7054:
@@ -616,7 +616,7 @@ translate chinese v12_mc_chilling_78cd7054:
 translate chinese v12_mc_chilling_e2c8eb12:
 
     # sa "*Drunk* Do you miss me?"
-    sa " *醉醺醺* 你想我吗？"
+    sa "*醉醺醺* 你想我吗？"
 
 # game/v12/scene23a.rpy:645
 translate chinese v12_mc_chilling_b06c7866:
@@ -628,7 +628,7 @@ translate chinese v12_mc_chilling_b06c7866:
 translate chinese v12_mc_chilling_7eac6bdf:
 
     # sa "*Drunk* Awww, I wish I was there too."
-    sa " *醉醺醺* 啊，我也希望我在那里。"
+    sa "*醉醺醺* 啊，我也希望我在那里。"
 
 # game/v12/scene23a.rpy:658
 translate chinese v12_mc_chilling_dc98431d:
@@ -640,7 +640,7 @@ translate chinese v12_mc_chilling_dc98431d:
 translate chinese v12_mc_chilling_45949a66:
 
     # sa "*Drunk* WHAT!? That's so mean!"
-    sa " *醉醺醺* 什么！？那太刻薄了！"
+    sa "*醉醺醺* 什么！？那太刻薄了！"
 
 # game/v12/scene23a.rpy:668
 translate chinese v12_mc_chilling_8e97f976:
@@ -652,19 +652,19 @@ translate chinese v12_mc_chilling_8e97f976:
 translate chinese v12_mc_chilling_dcd8c01c:
 
     # sa "*Drunk* Don't play around like that with me! You scared me... Jerk. *Chuckles*"
-    sa " *醉醺醺* 别那样跟我玩！你吓到我了……混蛋。 *咯咯笑* "
+    sa "*醉醺醺* 别那样跟我玩！你吓到我了……混蛋。 *咯咯笑*"
 
 # game/v12/scene23a.rpy:678
 translate chinese v12_mc_chilling_43bd6fe7:
 
     # u "*Chuckles* My bad."
-    u " *咯咯笑* 我的错。"
+    u "*咯咯笑* 我的错。"
 
 # game/v12/scene23a.rpy:683
 translate chinese v12_mc_chilling_0d064b04:
 
     # sa "*Drunk* What would you do to me if I was there?"
-    sa " *醉醺醺* 如果我在那里，你会对我做什么？"
+    sa "*醉醺醺* 如果我在那里，你会对我做什么？"
 
 # game/v12/scene23a.rpy:688
 translate chinese v12_mc_chilling_cdd873e8:
@@ -676,7 +676,7 @@ translate chinese v12_mc_chilling_cdd873e8:
 translate chinese v12_mc_chilling_6a7b96cf:
 
     # sa "*Drunk* Umm, I don't know..."
-    sa " *醉醺醺* 嗯，我不知道……"
+    sa "*醉醺醺* 嗯，我不知道……"
 
 # game/v12/scene23a.rpy:698
 translate chinese v12_mc_chilling_8fba2b74:
@@ -688,13 +688,13 @@ translate chinese v12_mc_chilling_8fba2b74:
 translate chinese v12_mc_chilling_9ac4224b:
 
     # sa "*Drunk* What do you mean, what do I mean? How'd you make it into college?!"
-    sa " *醉醺醺* 你什么意思，我什么意思？你是怎么进大学的？！"
+    sa "*醉醺醺* 你什么意思，我什么意思？你是怎么进大学的？！"
 
 # game/v12/scene23a.rpy:708
 translate chinese v12_mc_chilling_10db1ed0:
 
     # sa "*Drunk* You're so silly... *Laughs*"
-    sa " *醉醺醺* 你太傻了…… *笑* "
+    sa "*醉醺醺* 你太傻了…… *笑*"
 
 # game/v12/scene23a.rpy:713
 translate chinese v12_mc_chilling_a677bde1:
@@ -706,7 +706,7 @@ translate chinese v12_mc_chilling_a677bde1:
 translate chinese v12_mc_chilling_5a894b88:
 
     # sa "*Drunk* Why does it matter? I don't need him to babysit me."
-    sa " *醉醺醺* 这有什么关系？我不需要他来照看我。"
+    sa "*醉醺醺* 这有什么关系？我不需要他来照看我。"
 
 # game/v12/scene23a.rpy:723
 translate chinese v12_mc_chilling_135d3584:
@@ -718,7 +718,7 @@ translate chinese v12_mc_chilling_135d3584:
 translate chinese v12_mc_chilling_0fd210d6:
 
     # sa "*Drunk* Awww, you're worried about me? *Chuckles* You just wanna get into my pants like all the other guys..."
-    sa " *醉醺醺* 啊哇，你在担心我吗？ *咯咯笑* 你只是想像所有其他男人一样钻进我的裤子里……"
+    sa "*醉醺醺* 啊哇，你在担心我吗？ *咯咯笑* 你只是想像所有其他男人一样钻进我的裤子里……"
 
 # game/v12/scene23a.rpy:733
 translate chinese v12_mc_chilling_8fcbd74f:
@@ -730,7 +730,7 @@ translate chinese v12_mc_chilling_8fcbd74f:
 translate chinese v12_mc_chilling_5e46fb6e:
 
     # sa "*Drunk* And I actually thought you were a nice guy, but you're just like all the rest..."
-    sa " *醉醺醺* 其实我还以为你是个好人，但你和其他人一样……"
+    sa "*醉醺醺* 其实我还以为你是个好人，但你和其他人一样……"
 
 # game/v12/scene23a.rpy:743
 translate chinese v12_mc_chilling_5c7a2004:
@@ -742,7 +742,7 @@ translate chinese v12_mc_chilling_5c7a2004:
 translate chinese v12_mc_chilling_a00a1f81:
 
     # sa "*Drunk* Forget my number, you stupid fuckboy!"
-    sa " *醉醺醺* 忘了我的号码吧，你这个愚蠢的混蛋！"
+    sa "*醉醺醺* 忘了我的号码吧，你这个愚蠢的混蛋！"
 
 # game/v12/scene23a.rpy:755
 translate chinese v12_mc_chilling_9c1834ed:
@@ -766,7 +766,7 @@ translate chinese v12_mc_chilling_77c85861:
 translate chinese v12_mc_chilling_8d83566c:
 
     # u "(*Sighs* He should know that she's drunk.)"
-    u "( *叹息* 他应该知道她喝醉了。)"
+    u "(*叹息* 他应该知道她喝醉了。)"
 
 # game/v12/scene23a.rpy:785
 translate chinese v12_mc_chilling_b1b4e24f_1:
@@ -808,7 +808,7 @@ translate chinese v12_mc_chilling_839028bf:
 translate chinese v12_mc_chilling_e2dec8ba:
 
     # ca "*Sighs* Okay, man."
-    ca " *叹息* 好的，伙计。"
+    ca "*叹息* 好的，伙计。"
 
 # game/v12/scene23a.rpy:820
 translate chinese v12_mc_chilling_e1f12248:

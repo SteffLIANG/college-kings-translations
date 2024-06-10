@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v12/scene26a.rpy:11
 translate chinese v12_follow_chris_4d8c5d2f:
@@ -46,7 +46,7 @@ translate chinese v12_follow_chris_2b93ea74:
 translate chinese v12_follow_chris_33c50012:
 
     # ch "*Sighs* I already called a rideshare. There it is right there."
-    ch " *叹息* 我已经叫了拼车。在那，就在那里。"
+    ch "*叹息* 我已经叫了拼车。在那，就在那里。"
 
 # game/v12/scene26a.rpy:53
 translate chinese v12_follow_chris_e2c17a88:
@@ -70,7 +70,7 @@ translate chinese v12_follow_chris_6c28b820:
 translate chinese v12_follow_chris_5346266b:
 
     # ch "She just... *Sighs*"
-    ch "她只是…… *叹息* "
+    ch "她只是…… *叹息*"
 
 # game/v12/scene26a.rpy:78
 translate chinese v12_follow_chris_4a538237:
@@ -130,7 +130,7 @@ translate chinese v12_follow_chris_8bc36da8:
 translate chinese v12_follow_chris_fac809e7:
 
     # ch "*Sighs* And? I feel like that all the time, but you don't see me overreacting the way she does, do you?"
-    ch " *叹息* 然后呢？我一直都有这种感觉，但你没看到我像她那样反应过度，对吗？"
+    ch "*叹息* 然后呢？我一直都有这种感觉，但你没看到我像她那样反应过度，对吗？"
 
 # game/v12/scene26a.rpy:137
 translate chinese v12_follow_chris_0f3e9485:
@@ -160,7 +160,7 @@ translate chinese v12_follow_chris_d2a29f19:
 translate chinese v12_follow_chris_f7334dcd:
 
     # u "I mean, genuinely, Chris? You literally left her at the altar the other day. *Chuckles*"
-    u "我是说，真的吗，克里斯？前几天你真的把她丢在圣坛上了。 *咯咯笑* "
+    u "我是说，真的吗，克里斯？前几天你真的把她丢在圣坛上了。 *咯咯笑*"
 
 # game/v12/scene26a.rpy:162
 translate chinese v12_follow_chris_187cf93d:
@@ -214,7 +214,7 @@ translate chinese v12_follow_chris_8073384a:
 translate chinese v12_follow_chris_57ae9944:
 
     # u "*Sighs*"
-    u " *叹息* "
+    u "*叹息*"
 
 # game/v12/scene26a.rpy:212
 translate chinese v12_follow_chris_2d32c103:
@@ -268,7 +268,7 @@ translate chinese v12_follow_chris_139c19ff:
 translate chinese v12_follow_chris_67916a54:
 
     # driver "*Whisper* Idiot."
-    driver " *低语* 白痴。"
+    driver "*低语* 白痴。"
 
 # game/v12/scene26a.rpy:262
 translate chinese v12_follow_chris_6b61cd39:
@@ -328,13 +328,13 @@ translate chinese v12_follow_chris_6e60cc93:
 translate chinese v12_follow_chris_44dc720d:
 
     # ch "Hurts pretty fucking bad... I'm sure it's just a sprain, been in enough fights to know what a sprained wrist feels like. *Chuckles*"
-    ch "真他妈疼……我肯定这只是扭伤，打过那么多比赛，知道手腕扭伤是什么感觉。 *咯咯笑* "
+    ch "真他妈疼……我肯定这只是扭伤，打过那么多比赛，知道手腕扭伤是什么感觉。 *咯咯笑*"
 
 # game/v12/scene26a.rpy:335
 translate chinese v12_follow_chris_9305b7b4:
 
     # u "*Chuckles* I'm sure you have. I don't think I've ever seen you that mad before. Think I may have seen a flash of Grayson in you for a minute."
-    u " *咯咯笑* 我相信你。我从没见过你这么生气。我好像在你身上看到了格雷森的影子。"
+    u "*咯咯笑* 我相信你。我从没见过你这么生气。我好像在你身上看到了格雷森的影子。"
 
 # game/v12/scene26a.rpy:340
 translate chinese v12_follow_chris_4b99aa71:

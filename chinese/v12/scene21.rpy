@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v12/scene21.rpy:18
 translate chinese v12_nora_exploring_65f1aecc:
@@ -46,13 +46,13 @@ translate chinese v12_nora_exploring_fe6e028b:
 translate chinese v12_nora_exploring_4285115a:
 
     # u "Haha, right. Okay. *Chuckles*"
-    u "哈哈，对。好吧。*咯咯笑* "
+    u "哈哈，对。好吧。*咯咯笑*"
 
 # game/v12/scene21.rpy:81
 translate chinese v12_nora_exploring_d4d0264b:
 
     # u "*Deep breath* Is Europe turning out to be everything you dreamed it would?"
-    u " *深呼吸* 欧洲之旅是否如你所愿？"
+    u "*深呼吸* 欧洲之旅是否如你所愿？"
 
 # game/v12/scene21.rpy:86
 translate chinese v12_nora_exploring_f05f1c5f:
@@ -106,7 +106,7 @@ translate chinese v12_nora_exploring_d4b84d7d:
 translate chinese v12_nora_exploring_944f3b21:
 
     # no "Yeah, you're right. And seriously sucks that this factory is all messed up. The Mahoo article said nothing about it being closed... *Sighs*"
-    no "是的，你说得对。这个工厂一团糟，真是糟透了。马虎的搜索没有提到它关闭了…… *叹息* "
+    no "是的，你说得对。这个工厂一团糟，真是糟透了。马虎的搜索没有提到它关闭了…… *叹息*"
 
 # game/v12/scene21.rpy:127
 translate chinese v12_nora_exploring_4ad6c244:
@@ -118,7 +118,7 @@ translate chinese v12_nora_exploring_4ad6c244:
 translate chinese v12_nora_exploring_b6ca6922:
 
     # no "Yeah, it must be. 'Cause this place is a whole fuckin' mess. *Chuckles*"
-    no "是的，肯定是这样。因为这地方是真他妈的一团糟。 *咯咯笑* "
+    no "是的，肯定是这样。因为这地方是真他妈的一团糟。 *咯咯笑*"
 
 # game/v12/scene21.rpy:137
 translate chinese v12_nora_exploring_fa8d493d:
@@ -148,7 +148,7 @@ translate chinese v12_nora_exploring_9959f4fc:
 translate chinese v12_nora_exploring_59d6a0cc:
 
     # u "Whoa- Chill! CHILL! Please lady, chill... What the fuck is wrong with you?"
-    u "哇-冷静点！冷静点！拜托，女士，冷静点……你他妈的是怎么回事？"
+    u "哇……冷静点！冷静点！拜托，女士，冷静点……你他妈的是怎么回事？"
 
 # game/v12/scene21.rpy:172
 translate chinese v12_nora_exploring_4bf80e12:
@@ -196,19 +196,19 @@ translate chinese v12_nora_exploring_6cc54d1a:
 translate chinese v12_nora_exploring_fe1c2e87:
 
     # u "*Whisper* Okay, this bitch is officially crazy."
-    u " *低语* 好了，这个婊子真的疯了。"
+    u "*低语* 好了，这个婊子真的疯了。"
 
 # game/v12/scene21.rpy:212
 translate chinese v12_nora_exploring_92bece4f:
 
     # no "*Whisper* You didn't think that when she attacked you?"
-    no " *低语* 当她攻击你的时候，你没有想到吗？"
+    no "*低语* 当她攻击你的时候，你没有想到吗？"
 
 # game/v12/scene21.rpy:217
 translate chinese v12_nora_exploring_b71246ed:
 
     # u "*Whisper* Now I know for sure."
-    u " *低语* 现在我确定了。"
+    u "*低语* 现在我确定了。"
 
 # game/v12/scene21.rpy:222
 translate chinese v12_nora_exploring_63d5cb6e:
@@ -232,31 +232,31 @@ translate chinese v12_nora_exploring_e864ba7e:
 translate chinese v12_nora_exploring_1d5ab7a9:
 
     # u "*Whisper* You should try speaking her language?"
-    u " *低语* 你应该试着说她的语言吗？"
+    u "*低语* 你应该试着说她的语言吗？"
 
 # game/v12/scene21.rpy:248
 translate chinese v12_nora_exploring_f37eecdb:
 
     # no "*Whisper* French?"
-    no " *低语* 法语？"
+    no "*低语* 法语？"
 
 # game/v12/scene21.rpy:253
 translate chinese v12_nora_exploring_dcca2c91:
 
     # u "*Whisper* No, crazy."
-    u " *低语* 不，疯语。"
+    u "*低语* 不，疯语。"
 
 # game/v12/scene21.rpy:258
 translate chinese v12_nora_exploring_dc6007cd:
 
     # no "*Whisper* You just wanna see me look stupid."
-    no " *低语* 你就是想看我出丑。"
+    no "*低语* 你就是想看我出丑。"
 
 # game/v12/scene21.rpy:263
 translate chinese v12_nora_exploring_7cc84a18:
 
     # u "*Whisper* Maybe. *Chuckles*"
-    u " *低语* 也许吧。 *咯咯笑* "
+    u "*低语* 也许吧。 *咯咯笑*"
 
 # game/v12/scene21.rpy:268
 translate chinese v12_nora_exploring_75a41720:
@@ -286,13 +286,13 @@ translate chinese v12_nora_exploring_42ce4e93:
 translate chinese v12_nora_exploring_28685ffc:
 
     # clady "*British accent* Wait, your majesty. Might you stay for a cup of tea?"
-    clady " *英国口音* 等等，陛下。您能留下来喝杯茶吗？"
+    clady "*英国口音* 等等，陛下。您能留下来喝杯茶吗？"
 
 # game/v12/scene21.rpy:294
 translate chinese v12_nora_exploring_2b580825:
 
     # u "*Whisper* Did she just get a British accent? *Chuckles*"
-    u " *低语* 她是不是刚学会了英国口音？ *咯咯笑* "
+    u "*低语* 她是不是刚学会了英国口音？ *咯咯笑*"
 
 # game/v12/scene21.rpy:299
 translate chinese v12_nora_exploring_973bd3a8:
@@ -310,7 +310,7 @@ translate chinese v12_nora_exploring_5d393d6e:
 translate chinese v12_nora_exploring_a69b8ecb:
 
     # no "Oh- no! Th-That won't be necessary. *Chuckles*"
-    no "噢-不！那-那就没必要了。 *咯咯笑* "
+    no "噢……不！那……那就没必要了。 *咯咯笑*"
 
 # game/v12/scene21.rpy:314
 translate chinese v12_nora_exploring_6c76e2d6:
@@ -322,13 +322,13 @@ translate chinese v12_nora_exploring_6c76e2d6:
 translate chinese v12_nora_exploring_9e671536:
 
     # u "*Whisper* Oooo, I think you made her angry. You just gonna let her talk to you like that?"
-    u " *低语* 噢，我想你让她生气了。你就让她那样跟你说话吗？"
+    u "*低语* 噢，我想你让她生气了。你就让她那样跟你说话吗？"
 
 # game/v12/scene21.rpy:326
 translate chinese v12_nora_exploring_4bf45e0c:
 
     # no "*Scoffs* Look lady, it's obvious that you're homeless and probably just need some help."
-    no " *嘲笑* 听着，女士，很明显你无家可归，可能只是需要一些帮助。"
+    no "*嘲笑* 听着，女士，很明显你无家可归，可能只是需要一些帮助。"
 
 # game/v12/scene21.rpy:331
 translate chinese v12_nora_exploring_f2754e90:
@@ -364,19 +364,19 @@ translate chinese v12_nora_exploring_945e1e17:
 translate chinese v12_nora_exploring_face8eca:
 
     # no "Okay... Let's go, [name]. Quickly... *Chuckles*"
-    no "好的……我们走吧，[name]。快点…… *咯咯笑* "
+    no "好的……我们走吧，[name]。快点…… *咯咯笑*"
 
 # game/v12/scene21.rpy:379
 translate chinese v12_nora_exploring_0d6e27b6:
 
     # u "So... You're my wife now? *Chuckles*"
-    u "所以……你现在是我妻子了？ *咯咯笑* "
+    u "所以……你现在是我妻子了？ *咯咯笑*"
 
 # game/v12/scene21.rpy:384
 translate chinese v12_nora_exploring_629d411b:
 
     # no "*Chuckles* I said a lot of things to that crazy lady, don't read to far into it."
-    no " *咯咯笑* 我对那个疯狂的女士说了很多话，不要过度解读。"
+    no "*咯咯笑* 我对那个疯狂的女士说了很多话，不要过度解读。"
 
 # game/v12/scene21.rpy:389
 translate chinese v12_nora_exploring_a0b76974:
@@ -394,13 +394,13 @@ translate chinese v12_nora_exploring_db774833:
 translate chinese v12_nora_exploring_b7fb4df7:
 
     # no "Very funny but honestly, you gotta start being careful. I won't always be there to save you. *Chuckles*"
-    no "很好笑，但老实说，你得开始小心了。我不会一直在那里救你。 *咯咯笑* "
+    no "很好笑，但老实说，你得开始小心了。我不会一直在那里救你。 *咯咯笑*"
 
 # game/v12/scene21.rpy:405
 translate chinese v12_nora_exploring_f2444512:
 
     # u "*Laughs* Okay, got it."
-    u " *笑* 好的，知道了。"
+    u "*笑* 好的，知道了。"
 
 # game/v12/scene21.rpy:438
 translate chinese v12_nora_exploring_1cc67eab:
@@ -418,7 +418,7 @@ translate chinese v12_nora_exploring_48d8622b:
 translate chinese v12_nora_exploring_0c9b8f40:
 
     # u "*Laughs* How are you feeling, Aubrey?"
-    u " *笑* 你感觉如何，奥布里？"
+    u "*笑* 你感觉如何，奥布里？"
 
 # game/v12/scene21.rpy:453
 translate chinese v12_nora_exploring_bdb9b491:
@@ -442,7 +442,7 @@ translate chinese v12_nora_exploring_52636210:
 translate chinese v12_nora_exploring_960de289:
 
     # no "*Laughs* Wow..."
-    no " *笑* 哇……"
+    no "*笑* 哇……"
 
 # game/v12/scene21.rpy:473
 translate chinese v12_nora_exploring_1b606e54:
@@ -454,7 +454,7 @@ translate chinese v12_nora_exploring_1b606e54:
 translate chinese v12_nora_exploring_43eebcbd:
 
     # au "*Laughs* Yeah, thank you. Did you guys have fun?"
-    au " *笑* 是的，谢谢。你们玩得开心吗？"
+    au "*笑* 是的，谢谢。你们玩得开心吗？"
 
 # game/v12/scene21.rpy:483
 translate chinese v12_nora_exploring_f77b7d67:
@@ -466,7 +466,7 @@ translate chinese v12_nora_exploring_f77b7d67:
 translate chinese v12_nora_exploring_739a82fc:
 
     # au "*Chuckles* Oh no... What happened?"
-    au " *咯咯笑* 噢，不……发生了什么？"
+    au "*咯咯笑* 噢，不……发生了什么？"
 
 # game/v12/scene21.rpy:493
 translate chinese v12_nora_exploring_37ab3787:

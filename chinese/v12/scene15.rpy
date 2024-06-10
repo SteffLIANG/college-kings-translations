@@ -1,4 +1,4 @@
-﻿ # TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v12/scene15.rpy:17
 translate chinese v12_riddle_riley_3435cfe5:
@@ -40,7 +40,7 @@ translate chinese v12_riddle_riley_1c0b4ca5:
 translate chinese v12_riddle_riley_3f93b678:
 
     # u "Riley! Don't say things like that, especially about a burial ground. *Chuckles*"
-    u "莱莉！不要那样说，尤其是关于墓地的事。 *咯咯笑* "
+    u "莱莉！不要那样说，尤其是关于墓地的事。 *咯咯笑*"
 
 # game/v12/scene15.rpy:52
 translate chinese v12_riddle_riley_e3145d74:
@@ -106,7 +106,7 @@ translate chinese v12_riddle_riley_8e14523e:
 translate chinese v12_riddle_riley_131d39a7:
 
     # u "Nope, still looking. I'm telling you Riley, there's nothing down h-"
-    u "没有，还在找。我告诉你，莱莉，没什么-"
+    u "没有，还在找。我告诉你，莱莉，没什么……"
 
 # game/v12/scene15.rpy:143
 translate chinese v12_riddle_riley_57ae9944:
@@ -202,7 +202,7 @@ translate chinese v12_riddle_riley_dffc0a65:
 translate chinese v12_riddle_riley_47381314:
 
     # u "*Sighs* Fine. I'll do it."
-    u " *叹息* 好吧。我会做的。"
+    u "*叹息* 好吧。我会做的。"
 
 # game/v12/scene15.rpy:243
 translate chinese v12_riddle_riley_1e8a12f4:
@@ -244,13 +244,13 @@ translate chinese v12_riddle_riley_211a92f2:
 translate chinese v12_riddle_riley_8e07fad3:
 
     # u "*Sighs* I'm starting to really hate these shitty riddles."
-    u " *叹息* 我开始真的讨厌这些烂谜语了。"
+    u "*叹息* 我开始真的讨厌这些烂谜语了。"
 
 # game/v12/scene15.rpy:283
 translate chinese v12_riddle_riley_2057c186:
 
     # ri "*Chuckles*"
-    ri " *咯咯笑* "
+    ri "*咯咯笑*"
 
 # game/v12/scene15.rpy:288
 translate chinese v12_riddle_riley_830e231b:
@@ -376,13 +376,13 @@ translate chinese v12_riddle_riley_baa4d711:
 translate chinese v12_riddle_riley_c039f50a:
 
     # ri "We are running into every problem possible aren't we? *Chuckles*"
-    ri "我们遇到了所有可能的问题，不是吗？ *咯咯笑* "
+    ri "我们遇到了所有可能的问题，不是吗？ *咯咯笑*"
 
 # game/v12/scene15.rpy:458
 translate chinese v12_riddle_riley_0061f725:
 
     # u "*Laughs* Let's get you back..."
-    u " *笑* 让我们带你回去……"
+    u "*笑* 让我们带你回去……"
 
 # game/v12/scene15.rpy:463
 translate chinese v12_riddle_riley_b126a3df:
@@ -394,7 +394,7 @@ translate chinese v12_riddle_riley_b126a3df:
 translate chinese v12_riddle_riley_1fabb2fe:
 
     # u "*Sighs* Yay... More Mr. Lee stuff."
-    u " *叹息* 耶……更多李先生的东西。"
+    u "*叹息* 耶……更多李先生的东西。"
 
 # game/v12/scene15.rpy:495
 translate chinese v12_riddle_riley_482ec63d:
@@ -430,7 +430,7 @@ translate chinese v12_riddle_riley_c111357e:
 translate chinese v12_riddle_riley_6c65d9f8:
 
     # ri "*Chuckles* You're so sweet, [name]."
-    ri " *咯咯笑* 你是如此甜蜜，[name]。"
+    ri "*咯咯笑* 你是如此甜蜜，[name]。"
 
 # game/v12/scene15.rpy:544
 translate chinese v12_riddle_riley_612accac:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v12/scene25.rpy:31
 translate chinese v12_julia_call_fcfea652:
@@ -418,7 +418,7 @@ translate chinese v12_jc_samantha_2e98c710:
 translate chinese v12_jc_samantha_f881ad9e:
 
     # u "I'm trying to be. *Chuckles*"
-    u "我尽量。 *咯咯笑* "
+    u "我尽量。 *咯咯笑*"
 
 # game/v12/scene25.rpy:404
 translate chinese v12_jc_samantha_920a3fee:
@@ -526,7 +526,7 @@ translate chinese v12_jc_continue_6ed67b12:
 translate chinese v12_jc_continue_40999b7f:
 
     # u "Haha, thanks... I am almost ready to be back in America, though. *Laughs*"
-    u "哈哈,谢谢……不过，我已经差不多准备好回美国了。 *笑* "
+    u "哈哈，谢谢……不过，我已经差不多准备好回美国了。 *笑*"
 
 # game/v12/scene25.rpy:502
 translate chinese v12_jc_continue_e1277ba7:
@@ -580,5 +580,5 @@ translate chinese v12_jc_continue_6aaf44af:
 translate chinese v12_jc_continue_f17359e0:
 
     # u "(Looks like I'm not the only one that isn't asleep. *Chuckles*)"
-    u "(看来我不是唯一一个睡不着的人。 *咯咯笑* )"
+    u "(看来我不是唯一一个睡不着的人。 *咯咯笑*)"
 

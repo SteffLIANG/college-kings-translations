@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v12/scene27a.rpy:10
 translate chinese v12s27a_984adea6:
@@ -106,7 +106,7 @@ translate chinese v12s27a_a7b72891:
 translate chinese v12s27a_8d69bfe3:
 
     # u "*Sighs* What is it..."
-    u " *叹息* 这是什么……"
+    u "*叹息* 这是什么……"
 
 # game/v12/scene27a.rpy:99
 translate chinese v12s27a_6b21c8cb:
@@ -130,7 +130,7 @@ translate chinese v12s27a_3f8215db:
 translate chinese v12s27a_0d3405b7:
 
     # u "What made you come up with this? Like... Why black hair? *Chuckles*"
-    u "你是怎么想到这个的？比如……为什么是黑头发？ *咯咯笑* "
+    u "你是怎么想到这个的？比如……为什么是黑头发？ *咯咯笑*"
 
 # game/v12/scene27a.rpy:119
 translate chinese v12s27a_a58a1a5f:
@@ -148,7 +148,7 @@ translate chinese v12s27a_9c53da93:
 translate chinese v12s27a_83cb7b5c:
 
     # ry "It's not weird, it's hilarious! You'll find that out when everyone's laughing at your black hair. *Chuckles*"
-    ry "这一点都不奇怪，这太搞笑了!当所有人都嘲笑你的黑发时，你就会明白了。 *咯咯笑* "
+    ry "这一点都不奇怪，这太搞笑了!当所有人都嘲笑你的黑发时，你就会明白了。 *咯咯笑*"
 
 # game/v12/scene27a.rpy:134
 translate chinese v12s27a_85ed3abd:
@@ -268,13 +268,13 @@ translate chinese v12s27a_2a83186a:
 translate chinese v12s27a_b4d781e6:
 
     # am "*Laughs* I don't even need to guess what [name]'s answer was... Yes, I've been with a girl. So, enjoy your black hair dumbass! Take pictures, [name]!"
-    am " *咯咯笑* 我甚至不需要猜就知道[name]说的是……是的，我和一个女孩做过。所以，好好享受你的黑发笨蛋吧！记得拍照，[name]！"
+    am "*咯咯笑* 我甚至不需要猜就知道[name]说的是……是的，我和一个女孩做过。所以，好好享受你的黑发笨蛋吧！记得拍照，[name]！"
 
 # game/v12/scene27a.rpy:221
 translate chinese v12s27a_c16ac08e:
 
     # am "*Hangs up*"
-    am " *挂断* "
+    am "*挂断*"
 
 # game/v12/scene27a.rpy:226
 translate chinese v12s27a_a0cc0a20:
@@ -292,7 +292,7 @@ translate chinese v12s27a_e9da7466:
 translate chinese v12s27a_7f784730:
 
     # u "Doesn't matter man, let's go get that hair done. I'm ready to see what you look like as a Roasted Ape. *Laughs*"
-    u "没关系，伙计，我们去做头发吧。我准备好看看你的烤猿模样了。 *笑* "
+    u "没关系，伙计，我们去做头发吧。我准备好看看你的烤猿模样了。 *笑*"
 
 # game/v12/scene27a.rpy:241
 translate chinese v12s27a_1a14fa84:
@@ -316,13 +316,13 @@ translate chinese v12s27a_4b84314b:
 translate chinese v12s27a_29461bbe:
 
     # u "Should've thought about that before you made the bet, bud. Live on the edge, die falling off. *Chuckles*"
-    u "在你下注之前就应该考虑到这一点，伙计。早知今日，何必当初。 *咯咯笑* "
+    u "在你下注之前就应该考虑到这一点，伙计。早知今日，何必当初。 *咯咯笑*"
 
 # game/v12/scene27a.rpy:263
 translate chinese v12s27a_9a8f0774:
 
     # ry "*Sighs*"
-    ry " *叹息* "
+    ry "*叹息*"
 
 # game/v12/scene27a.rpy:269
 translate chinese v12s27a_3bd40238:
@@ -334,7 +334,7 @@ translate chinese v12s27a_3bd40238:
 translate chinese v12s27a_29113754:
 
     # ry "*Sighs* Okay..."
-    ry " *叹息* 好吧……"
+    ry "*叹息* 好吧……"
 
 # game/v12/scene27a.rpy:289
 translate chinese v12s27a_ccaee09c:
@@ -370,7 +370,7 @@ translate chinese v12s27a_c55ef6d5:
 translate chinese v12s27a_b1eeb88c:
 
     # u "He chose this path on his own. *Chuckles*"
-    u "他自己选择了这条路。 *咯咯笑* "
+    u "他自己选择了这条路。 *咯咯笑*"
 
 # game/v12/scene27a.rpy:322
 translate chinese v12s27a_0e323478:
@@ -448,7 +448,7 @@ translate chinese v12s27a_bd17a259:
 translate chinese v12s27a_38734d17:
 
     # u "Wowww!!! It's... Different. *Chuckles*"
-    u "哇！！！还真是……与众不同。 *咯咯笑* "
+    u "哇！！！还真是……与众不同。 *咯咯笑*"
 
 # game/v12/scene27a.rpy:380
 translate chinese v12s27a_8fcf7d06:
@@ -484,7 +484,7 @@ translate chinese v12s27a_07ff5e69:
 translate chinese v12s27a_8144c4e1:
 
     # ry "*Sighs* I hope you're not just saying that..."
-    ry " *叹息* 我希望你不是在说……"
+    ry "*叹息* 我希望你不是在说……"
 
 # game/v12/scene27a.rpy:420
 translate chinese v12s27a_d27e5dd4:
@@ -496,7 +496,7 @@ translate chinese v12s27a_d27e5dd4:
 translate chinese v12s27a_d34245b5:
 
     # ry "*Sighs* Wow, thanks for the moral support, [name]. I feel great about it now..."
-    ry " *叹息* 哇，谢谢你的精神支持[name]。我现在感觉很棒……"
+    ry "*叹息* 哇，谢谢你的精神支持[name]。我现在感觉很棒……"
 
 # game/v12/scene27a.rpy:430
 translate chinese v12s27a_8f2ddc90:
@@ -514,7 +514,7 @@ translate chinese v12s27a_407f9807:
 translate chinese v12s27a_2ab52935:
 
     # ry "*Sighs* Everyone's gonna have a different opinion... Guess I'm just gonna have to get used to it."
-    ry " *叹息* 每个人都会有不同的观点.我想我只能习惯了。"
+    ry "*叹息* 每个人都会有不同的观点.我想我只能习惯了。"
 
 # game/v12/scene27a.rpy:439
 translate chinese v12s27a_351264f7:
@@ -556,7 +556,7 @@ translate chinese v12s27a_4c5cd5bc:
 translate chinese v12s27a_64d86779:
 
     # u "Hey, you kinda did this to yourself. *Laughs*"
-    u "嘿，这是你自己干的。 *笑* "
+    u "嘿，这是你自己干的。 *笑*"
 
 # game/v12/scene27a.rpy:489
 translate chinese v12s27a_e7846ae1:

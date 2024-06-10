@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v12/scene14.rpy:40
 translate chinese v12_chloe_cafe_fb898b9c:
 
     # cl "This is such a nice place! I feel like I'm underdressed... *Laughs*"
-    cl "这是个多么好的地方啊！我觉得我穿得太朴素了…… *笑* "
+    cl "这是个多么好的地方啊！我觉得我穿得太朴素了…… *笑*"
 
 # game/v12/scene14.rpy:46
 translate chinese v12_chloe_cafe_4ec58afd:
@@ -34,13 +34,13 @@ translate chinese v12_chloe_cafe_cda78fcf:
 translate chinese v12_chloe_cafe_d845c796:
 
     # cl "*Chuckles* What does that even mean?"
-    cl " *咯咯笑* 那是什么意思？"
+    cl "*咯咯笑* 那是什么意思？"
 
 # game/v12/scene14.rpy:71
 translate chinese v12_chloe_cafe_ca804798:
 
     # u "I have no idea. *Chuckles*"
-    u "我没有头绪。 *咯咯笑* "
+    u "我没有头绪。 *咯咯笑*"
 
 # game/v12/scene14.rpy:76
 translate chinese v12_chloe_cafe_0bbaa8c4:
@@ -130,7 +130,7 @@ translate chinese v12_chloe_cafe_7a6ac15d:
 translate chinese v12_chloe_cafe_d5d07445:
 
     # u "And... We found the extent of your French skills. *Laughs*"
-    u "现在……我们知道了你的法语水平。 *笑* "
+    u "现在……我们知道了你的法语水平。 *笑*"
 
 # game/v12/scene14.rpy:156
 translate chinese v12_chloe_cafe_b554b390:
@@ -154,7 +154,7 @@ translate chinese v12_chloe_cafe_56603eeb:
 translate chinese v12_chloe_cafe_5fb8aa2d:
 
     # cl "*Chuckles* Well it was very convincing, I'm so sorry for assuming."
-    cl " *咯咯笑* 嗯，这很有说服力，很抱歉我假设了。"
+    cl "*咯咯笑* 嗯，这很有说服力，很抱歉我假设了。"
 
 # game/v12/scene14.rpy:186
 translate chinese v12_chloe_cafe_509f2f8b:
@@ -166,7 +166,7 @@ translate chinese v12_chloe_cafe_509f2f8b:
 translate chinese v12_chloe_cafe_33c2c8c6:
 
     # cl "And you'd be right. *Chuckles*"
-    cl "你说得对。 *咯咯笑* "
+    cl "你说得对。 *咯咯笑*"
 
 # game/v12/scene14.rpy:196
 translate chinese v12_chloe_cafe_5423ff0c:
@@ -190,13 +190,13 @@ translate chinese v12_chloe_cafe_9268d816:
 translate chinese v12_chloe_cafe_732dddbb:
 
     # cl "It was actually, but not in a bad way. My handsome boyfriend here actually asked me out pretty recently and well... This is our first time out as an official couple. *Chuckles*"
-    cl "确实是，但还不错。我英俊的男朋友最近约我出来，嗯……这是我们第一次正式成为情侣。 *咯咯笑* "
+    cl "确实是，但还不错。我英俊的男朋友最近约我出来，嗯……这是我们第一次正式成为情侣。 *咯咯笑*"
 
 # game/v12/scene14.rpy:217
 translate chinese v12_chloe_cafe_45ce2aef:
 
     # fwait "Oh wow! Congrats... That's exciting stuff."
-    fwait "噢，哇哦！恭喜……这是令人兴奋的事情。"
+    fwait "噢，哇噢！恭喜……这是令人兴奋的事情。"
 
 # game/v12/scene14.rpy:222
 translate chinese v12_chloe_cafe_2b9128b2:
@@ -208,13 +208,13 @@ translate chinese v12_chloe_cafe_2b9128b2:
 translate chinese v12_chloe_cafe_108b353e:
 
     # cl "*Chuckles*"
-    cl " *咯咯笑* "
+    cl "*咯咯笑*"
 
 # game/v12/scene14.rpy:232
 translate chinese v12_chloe_cafe_34d668b1:
 
     # u "Alright, now... Since my amazing girlfriend's French is so bad-"
-    u "好了，现在……因为我女朋友的法语太差了-"
+    u "好了，现在……因为我女朋友的法语太差了……"
 
 # game/v12/scene14.rpy:238
 translate chinese v12_chloe_cafe_fa8bacce:
@@ -226,7 +226,7 @@ translate chinese v12_chloe_cafe_fa8bacce:
 translate chinese v12_chloe_cafe_a7f0cfb4:
 
     # u "Mmm, yeah... It'd be nice. *Chuckles*"
-    u "嗯，是的……那太好了。 *咯咯笑* "
+    u "嗯，是的……那太好了。 *咯咯笑*"
 
 # game/v12/scene14.rpy:256
 translate chinese v12_chloe_cafe_7bbc5353:
@@ -238,25 +238,25 @@ translate chinese v12_chloe_cafe_7bbc5353:
 translate chinese v12_chloe_cafe_add8610a:
 
     # cl "A fishing pole? What on earth made you say that? *Chuckles*"
-    cl "钓竿？你怎么这么说？ *咯咯笑* "
+    cl "钓竿？你怎么这么说？ *咯咯笑*"
 
 # game/v12/scene14.rpy:266
 translate chinese v12_chloe_cafe_e60b2bc5:
 
     # u "It was the first thing that came to mind. *Chuckles*"
-    u "这是我想到的第一件事。 *咯咯笑* "
+    u "这是我想到的第一件事。 *咯咯笑*"
 
 # game/v12/scene14.rpy:271
 translate chinese v12_chloe_cafe_8ec6fc24:
 
     # u "But, since my friend's French is so bad-"
-    u "但是，既然我朋友的法语那么差-"
+    u "但是，既然我朋友的法语那么差……"
 
 # game/v12/scene14.rpy:276
 translate chinese v12_chloe_cafe_2bb60d86:
 
     # cl "Hey! *Chuckles*"
-    cl "嘿！ *咯咯笑* "
+    cl "嘿！ *咯咯笑*"
 
 # game/v12/scene14.rpy:281
 translate chinese v12_chloe_cafe_b5340dd5:
@@ -490,7 +490,7 @@ translate chinese v12_chloe_cafe_e9b2d351:
 translate chinese v12_chloe_cafe_77f71603:
 
     # u "Yeah I know, but look at what's right in front of you. A handsome man treating you to breakfast... Is that not a good enough distraction? *Chuckles*"
-    u "我知道，但看看你眼前的一切。一个帅哥请你吃早餐……这还不够分散注意力吗？ *咯咯笑* "
+    u "我知道，但看看你眼前的一切。一个帅哥请你吃早餐……这还不够分散注意力吗？ *咯咯笑*"
 
 # game/v12/scene14.rpy:488
 translate chinese v12_chloe_cafe_c57c2001:
@@ -520,7 +520,7 @@ translate chinese v12_chloe_cafe_aac0bbae:
 translate chinese v12_chloe_cafe_3fbe5cc4:
 
     # u "Finished stuffing your face? *Chuckles*"
-    u "吃饱了吗？ *咯咯笑* "
+    u "吃饱了吗？ *咯咯笑*"
 
 # game/v12/scene14.rpy:538
 translate chinese v12_chloe_cafe_785520e6:
@@ -538,7 +538,7 @@ translate chinese v12_chloe_cafe_5b8a7bf0:
 translate chinese v12_chloe_cafe_298f7516:
 
     # cl "*Laughs* Alright... Ready to go?"
-    cl " *笑* 好了……准备出发了吗？"
+    cl "*笑* 好了……准备出发了吗？"
 
 # game/v12/scene14.rpy:553
 translate chinese v12_chloe_cafe_b9563d83:
@@ -576,56 +576,56 @@ translate chinese v12_chloe_cafe_12fa791e:
     # u "Sorry, let me check this real quick."
     u "抱歉，让我看一下手机。"
 
-# game/v12/scene14.rpy:596
-translate chinese v12s14_PhoneContinueRiley_88d710ce:
+# game/v12/scene14.rpy:595
+translate chinese v12_chloe_cafe_88d710ce:
 
     # u "(I should check my phone.)"
     u "(我应该看看我的手机。)"
 
-# game/v12/scene14.rpy:602
-translate chinese v12s14_PhoneContinueRiley_dd8163f7:
+# game/v12/scene14.rpy:600
+translate chinese v12_chloe_cafe_dd8163f7:
 
     # u "(This isn't that far.)"
     u "(这里不是很远。)"
 
-# game/v12/scene14.rpy:607
-translate chinese v12s14_PhoneContinueRiley_c8c111d2:
+# game/v12/scene14.rpy:605
+translate chinese v12_chloe_cafe_c8c111d2:
 
     # u "Well, looks like I'm meeting Riley for our Mr. Lee hunt."
     u "嗯，看来我要陪莱莉继续李先生的寻宝活动了。"
 
-# game/v12/scene14.rpy:612
-translate chinese v12s14_PhoneContinueRiley_14ebeeb5:
+# game/v12/scene14.rpy:610
+translate chinese v12_chloe_cafe_14ebeeb5:
 
     # cl "A Mr. Lee... hunt? What is that?"
     cl "李先生……寻宝活动？是什么？"
 
-# game/v12/scene14.rpy:617
-translate chinese v12s14_PhoneContinueRiley_2cb03bb3:
+# game/v12/scene14.rpy:615
+translate chinese v12_chloe_cafe_2cb03bb3:
 
     # u "Some little treasure hunt he has us doing for him while we're in Europe."
     u "我们在欧洲的期间，他让我们为他做一次小小的寻宝活动。"
 
-# game/v12/scene14.rpy:622
-translate chinese v12s14_PhoneContinueRiley_80c64b26:
+# game/v12/scene14.rpy:620
+translate chinese v12_chloe_cafe_80c64b26:
 
     # cl "*Laughs*"
-    cl " *笑* "
+    cl "*笑*"
 
-# game/v12/scene14.rpy:627
-translate chinese v12s14_PhoneContinueRiley_ef2f1671:
+# game/v12/scene14.rpy:625
+translate chinese v12_chloe_cafe_ef2f1671:
 
     # u "What?"
     u "什么？"
 
-# game/v12/scene14.rpy:632
-translate chinese v12s14_PhoneContinueRiley_30f2a16b:
+# game/v12/scene14.rpy:630
+translate chinese v12_chloe_cafe_30f2a16b:
 
     # cl "Nothing, nothing... Enjoy. I'll catch you later."
     cl "没什么，没什么……好好享受吧。我等会儿再来找你。"
 
-# game/v12/scene14.rpy:637
-translate chinese v12s14_PhoneContinueRiley_b302c71a:
+# game/v12/scene14.rpy:635
+translate chinese v12_chloe_cafe_b302c71a:
 
     # u "Alright, catch you later."
     u "好的，待会儿见。"
@@ -635,4 +635,3 @@ translate chinese strings:
     # game/v12/scene14.rpy:243
     old "It'd be nice"
     new "那会很好的"
-

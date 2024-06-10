@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v12/scene26.rpy:18
 translate chinese v12_nora_chris_fight_19588a61:
@@ -82,7 +82,7 @@ translate chinese v12_nora_chris_fight_5cd623b9:
 translate chinese v12_nora_chris_fight_44ef413e:
 
     # ch "*Stern* Don't put your hands on me."
-    ch " *严厉* 别把你的手放我身上。"
+    ch "*严厉* 别把你的手放我身上。"
 
 # game/v12/scene26.rpy:88
 translate chinese v12_nora_chris_fight_89b2c8d2:
@@ -94,19 +94,19 @@ translate chinese v12_nora_chris_fight_89b2c8d2:
 translate chinese v12_nora_chris_fight_22997be2:
 
     # ch "*Very stern* I'm not gonna say it again, Nora. Don't put your hands on me."
-    ch " *非常严厉* 我不想再说一次，诺拉。别把你的手放我身上。"
+    ch "*非常严厉* 我不想再说一次，诺拉。别把你的手放我身上。"
 
 # game/v12/scene26.rpy:103
 translate chinese v12_nora_chris_fight_f4b70c66:
 
     # no "Maybe if you weren't so focused on chasing after the man your daddy was, you'd be your own-"
-    no "如果你不是那么沉迷于追你那野爹，也许你会成为独立的-"
+    no "如果你不是那么沉迷于追你那野爹，也许你会成为独立的……"
 
 # game/v12/scene26.rpy:115
 translate chinese v12_nora_chris_fight_1a24a75c:
 
     # no "*Crying* Ahh!"
-    no " *哭泣* 啊！"
+    no "*哭泣* 啊！"
 
 # game/v12/scene26.rpy:130
 translate chinese v12_nora_chris_fight_8f0a53e8:
@@ -148,7 +148,7 @@ translate chinese v12_nora_chris_fight_eb6b58a1:
 translate chinese v12_nora_chris_fight_34002666:
 
     # no "*Crying* I'm fine."
-    no " *哭泣* 我没事儿。"
+    no "*哭泣* 我没事儿。"
 
 # game/v12/scene26.rpy:170
 translate chinese v12_nora_chris_fight_4f3c6066:
@@ -160,7 +160,7 @@ translate chinese v12_nora_chris_fight_4f3c6066:
 translate chinese v12_nora_chris_fight_a0d5a291:
 
     # no "*Sobbing* Leave me alone."
-    no " *哭泣* 离我远点儿。"
+    no "*哭泣* 离我远点儿。"
 
 # game/v12/scene26.rpy:180
 translate chinese v12_nora_chris_fight_adb5bd98:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v12/scene14a.rpy:28
 translate chinese v12_riley_cafe_3fb10983:
@@ -22,7 +22,7 @@ translate chinese v12_riley_cafe_ae32a702:
 translate chinese v12_riley_cafe_6157f408:
 
     # u "I was just excited to get some food. *Chuckles*"
-    u "我只是很兴奋想吃点东西。 *咯咯笑* "
+    u "我只是很兴奋想吃点东西。 *咯咯笑*"
 
 # game/v12/scene14a.rpy:48
 translate chinese v12_riley_cafe_7a3f2d3f:
@@ -76,7 +76,7 @@ translate chinese v12_riley_cafe_178f2659:
 translate chinese v12_riley_cafe_90b4a4bc:
 
     # ri "Wow, maybe you are starving."
-    ri "哇，也许你饿坏了。"
+    ri "哇噢，也许你饿坏了。"
 
 # game/v12/scene14a.rpy:93
 translate chinese v12_riley_cafe_e56bcc26:
@@ -304,7 +304,7 @@ translate chinese v12_riley_cafe_f1610adc:
 translate chinese v12_riley_cafe_fcc18885:
 
     # u "*Laughs*"
-    u " *笑* "
+    u "*笑*"
 
 # game/v12/scene14a.rpy:301
 translate chinese v12_riley_cafe_ed29ae5c:
@@ -364,19 +364,19 @@ translate chinese v12_riley_cafe_ecbe9197:
 translate chinese v12_riley_cafe_4cb60ee1:
 
     # ri "Nope. I wanna see if my guess is right. *Chuckles*"
-    ri "不。我想看看我的猜测是否正确。 *咯咯笑* "
+    ri "不。我想看看我的猜测是否正确。 *咯咯笑*"
 
 # game/v12/scene14a.rpy:354
 translate chinese v12_riley_cafe_5b647d59:
 
     # u "*Sighs* Alright, well... As easy as the first one was, I'm expecting this one to be close by?"
-    u " *叹息* 好吧，好吧……和第一个一样简单，我想这个应该就在附近吧？"
+    u "*叹息* 好吧，好吧……和第一个一样简单，我想这个应该就在附近吧？"
 
 # game/v12/scene14a.rpy:359
 translate chinese v12_riley_cafe_304a39d3:
 
     # ri "Guess we'll find out when we get there... *Chuckles*"
-    ri "我想等我们到了那里就知道了…… *咯咯笑* "
+    ri "我想等我们到了那里就知道了…… *咯咯笑*"
 
 # game/v12/scene14a.rpy:369
 translate chinese v12_riley_cafe_58bd1c3f:
@@ -400,7 +400,7 @@ translate chinese v12_riley_cafe_0564368c:
 translate chinese v12_riley_cafe_efb27d36:
 
     # u "Cover officially blown. *Laughs*"
-    u "伪装正式暴露。 *笑* "
+    u "伪装正式暴露。 *笑*"
 
 # game/v12/scene14a.rpy:389
 translate chinese v12_riley_cafe_08795ece:
@@ -430,7 +430,7 @@ translate chinese v12_riley_cafe_3fbab108:
 translate chinese v12_riley_cafe_145900dc:
 
     # ri "Well yes, but I was going for you being convinced that I actually spoke like that. *Chuckles*"
-    ri "嗯，是的，但是我想让你相信我确实是那样说话的。 *咯咯笑* "
+    ri "嗯，是的，但是我想让你相信我确实是那样说话的。 *咯咯笑*"
 
 # game/v12/scene14a.rpy:414
 translate chinese v12_riley_cafe_ff908bcf:
@@ -454,7 +454,7 @@ translate chinese v12_riley_cafe_1e45bca8:
 translate chinese v12_riley_cafe_fcc18885_1:
 
     # u "*Laughs*"
-    u " *笑* "
+    u "*笑*"
 
 # game/v12/scene14a.rpy:434
 translate chinese v12_riley_cafe_012b4e98:
@@ -484,7 +484,7 @@ translate chinese v12_riley_cafe_0ab328e1:
 translate chinese v12_riley_cafe_c01be45d:
 
     # ri "Not gonna lie, she really did. *Laughs*"
-    ri "我不想撒谎，她真的这么做了。 *笑* "
+    ri "我不想撒谎，她真的这么做了。 *笑*"
 
 # game/v12/scene14a.rpy:484
 translate chinese v12_riley_cafe_1b47ef9a:

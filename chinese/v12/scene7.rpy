@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v12/scene7.rpy:7
 translate chinese v12s7_free_roam_spoken_c7964da2:
@@ -5700,265 +5700,265 @@ translate chinese v12s7_josh1_beb74d52:
     # jo "No one cared about that wrinkly old man, it's a shame the leopards had to eat his crusty ass."
     jo "没人关心那个满脸皱纹的老头，真可惜，豹子不得不吃掉他的硬皮屁股。"
 
-# game/v12/scene7.rpy:5820
+# game/v12/scene7.rpy:5821
 translate chinese v12s7_josh1_c7f6f5c7:
 
     # u "*Laughs* You really care about your cats, huh?"
     u "*笑* 你真的很关心你的猫，嗯？"
 
-# game/v12/scene7.rpy:5825
+# game/v12/scene7.rpy:5826
 translate chinese v12s7_josh1_5aae522c:
 
     # jo "Cats? CATS!!? Don't disrespect them like that! They are the pinnacle of all felines. The leopard is a dignified creature handcrafted by God. Also... *Whispers* Don't fucking laugh at me."
     jo "猫？猫！！？不要那样不尊重他们!它们是猫科动物中的佼佼者。豹子是上帝亲手创造的高贵生物。还有…… *低语* 别他妈嘲笑我。"
 
-# game/v12/scene7.rpy:5830
+# game/v12/scene7.rpy:5831
 translate chinese v12s7_josh1_8903e7ae:
 
     # u "*Laughs* Have you seen yourself?"
     u "*笑* 你看到你自己了吗？"
 
-# game/v12/scene7.rpy:5837
+# game/v12/scene7.rpy:5838
 translate chinese v12s7_josh1_d4766f09:
 
     # u "Josh, you're definitely doing the best acting job out of everyone here. *Chuckles*"
     u "乔什，你绝对是这里所有人中演技最好的。 *咯咯笑*"
 
-# game/v12/scene7.rpy:5842
+# game/v12/scene7.rpy:5843
 translate chinese v12s7_josh1_60a26d32:
 
     # jo "Don't disrespect me, you will address me correctly. I am the Leopard Lord."
     jo "不要不尊重我，你该正确地称呼我的。我是豹子王。"
 
-# game/v12/scene7.rpy:5847
+# game/v12/scene7.rpy:5848
 translate chinese v12s7_josh1_1db979da:
 
     # u "Getting pretty deep into this, huh?"
     u "你已经入戏很深了，是吧？"
 
-# game/v12/scene7.rpy:5852
+# game/v12/scene7.rpy:5853
 translate chinese v12s7_josh1_47abc3e7:
 
     # jo "Look, I have no idea what you're talking about, but once we arrive in Paris I'd be happy to take you to my Paris zoo location if you'd like to meet my Leopards."
     jo "听着，我不知道你在说什么，但是一旦我们到达巴黎，如果你想见见我的豹子，我很乐意带你去我的巴黎动物园。"
 
-# game/v12/scene7.rpy:5857
+# game/v12/scene7.rpy:5858
 translate chinese v12s7_josh1_fe428c13:
 
     # u "Umm yeah... I'll keep that in mind."
     u "嗯，好的……我会记住这一点的。"
 
-# game/v12/scene7.rpy:5862
+# game/v12/scene7.rpy:5863
 translate chinese v12s7_josh1_8a005d06:
 
     # jo "You do that, there is no greater sight than that of the mighty leopard."
     jo "如果你做到了，没有什么能比雄壮的豹子更壮观了。"
 
-# game/v12/scene7.rpy:5867
+# game/v12/scene7.rpy:5868
 translate chinese v12s7_josh1_dd2bda06:
 
     # u "Okayyy..."
     u "好吧……"
 
-# game/v12/scene7.rpy:5888
+# game/v12/scene7.rpy:5891
 translate chinese v12s7_josh2_24bf40f7:
 
     # jo "Hey you there mister?"
     jo "嘿，先生，你在吗？"
 
-# game/v12/scene7.rpy:5905
+# game/v12/scene7.rpy:5908
 translate chinese v12s7_josh2_7cbc76d9:
 
     # u "Yes?"
     u "是？"
 
-# game/v12/scene7.rpy:5914
+# game/v12/scene7.rpy:5917
 translate chinese v12s7_josh2_5cefa357:
 
     # jo "I have a little proposition."
     jo "我有个小提议。"
 
-# game/v12/scene7.rpy:5923
+# game/v12/scene7.rpy:5926
 translate chinese v12s7_josh2_2689d93b:
 
     # u "What is that?"
     u "什么？"
 
-# game/v12/scene7.rpy:5932
+# game/v12/scene7.rpy:5935
 translate chinese v12s7_josh2_ad9603db:
 
     # jo "How'd you like to own your very own leopard?"
     jo "你想不想拥有一只属于你自己的豹子？"
 
-# game/v12/scene7.rpy:5941
+# game/v12/scene7.rpy:5944
 translate chinese v12s7_josh2_d112d716:
 
     # u "It's not something I've thought about."
     u "这不是我想的事情。"
 
-# game/v12/scene7.rpy:5950
+# game/v12/scene7.rpy:5953
 translate chinese v12s7_josh2_e039e921:
 
     # jo "Well now's the time to start thinking. I have a magnificent baby boy leopard that needs the care of an individual home."
     jo "嗯，现在是开始思考的时候了。我有一只华丽的小公豹，需要单独的家庭照看。"
 
-# game/v12/scene7.rpy:5959
+# game/v12/scene7.rpy:5962
 translate chinese v12s7_josh2_acb55547:
 
     # u "Why can't he be with the rest?"
     u "为什么它不能和你在一起？"
 
-# game/v12/scene7.rpy:5968
+# game/v12/scene7.rpy:5971
 translate chinese v12s7_josh2_1099ff46:
 
     # jo "Well you see, he was bullied by the nearby monkeys and they ripped off his tail."
     jo "你看，它被附近的猴子欺负了，它们扯下了它的尾巴。"
 
-# game/v12/scene7.rpy:5977
+# game/v12/scene7.rpy:5980
 translate chinese v12s7_josh2_00556904:
 
     # u "*Laughs* They ripped off your baby leopard's tail?"
     u "*笑* 它们扯掉了你的小豹子的尾巴？"
 
-# game/v12/scene7.rpy:5986
+# game/v12/scene7.rpy:5989
 translate chinese v12s7_josh2_357e1648:
 
     # jo "This ain't no laughing matter boy, the future king of leopard land is without a tail and this is how you behave. Shame on you, shame!"
     jo "这可不是闹着玩的，孩子，未来的豹子王没有尾巴，这就是你的行为。你真可耻，真可耻！"
 
-# game/v12/scene7.rpy:5995
+# game/v12/scene7.rpy:5998
 translate chinese v12s7_josh2_f452e184:
 
     # u "I didn't know it was that serious, sorry dude."
     u "我不知道事情有那么严重，抱歉，伙计。"
 
-# game/v12/scene7.rpy:6004
+# game/v12/scene7.rpy:6007
 translate chinese v12s7_josh2_8c640a70:
 
     # jo "You didn't know it was... who even are you? You are not the man I thought you to be. There's no way I'd dare let you care for the king of the land."
     jo "你不知道那是……你到底是谁？你不是我想象中的那个人。我绝对不敢让你关心这片土地上的国王。"
 
-# game/v12/scene7.rpy:6013
+# game/v12/scene7.rpy:6016
 translate chinese v12s7_josh2_90be1788:
 
     # u "Oh wow, that sucks... I really wanted to."
     u "噢，哇，那太糟糕了……我真的很想。"
 
-# game/v12/scene7.rpy:6022
+# game/v12/scene7.rpy:6025
 translate chinese v12s7_josh2_567a56f8:
 
     # jo "Should've thought about that before you landed your insults. Good day sir."
     jo "在你说脏话之前就应该考虑到这一点。好运，先生。"
 
-# game/v12/scene7.rpy:6051
+# game/v12/scene7.rpy:6054
 translate chinese v12s7_josh_kill_704101bb:
 
     # jo "What? No, please don't kill me yet. I was having a lot of fun."
     jo "什么？不，请先别杀我。我玩得很开心。"
 
-# game/v12/scene7.rpy:6060
+# game/v12/scene7.rpy:6063
 translate chinese v12s7_josh_kill_23a2d942:
 
     # u "Too much fun."
     u "太好玩了。"
 
-# game/v12/scene7.rpy:6069
+# game/v12/scene7.rpy:6072
 translate chinese v12s7_josh_kill_57474d13:
 
     # jo "I don't want to stop acting like Leopard Lord."
     jo "我不想停止扮演豹王。"
 
-# game/v12/scene7.rpy:6078
+# game/v12/scene7.rpy:6081
 translate chinese v12s7_josh_kill_1fb18b13:
 
     # u "Don't then, but act like him as a corpse in the hallway."
     u "那就别这样，把他当成一具尸体放在走廊里。"
 
-# game/v12/scene7.rpy:6087
+# game/v12/scene7.rpy:6090
 translate chinese v12s7_josh_kill_4be7f95f:
 
     # jo "*Sighs* Sounds like a plan."
     jo "*叹息* 听起来是个好主意。"
 
-# game/v12/scene7.rpy:6092
+# game/v12/scene7.rpy:6095
 translate chinese v12s7_josh_kill_814b5e95:
 
     # u "(Freaking goofball.)"
     u "(他妈的傻乎乎的。)"
 
-# game/v12/scene7.rpy:6108
+# game/v12/scene7.rpy:6111
 translate chinese v12s7_emily1_c224e1f2:
 
     # em "Hmmm, I can see it, when alone and solely alone the passengers will be swept away from the life they've always know."
     em "嗯，我能看出来，当独自一人，独自一人的时候，乘客们会从他们一直熟悉的生活中被冲走。"
 
-# game/v12/scene7.rpy:6121
+# game/v12/scene7.rpy:6124
 translate chinese v12s7_emily1_d573bead:
 
     # u "Talking to yourself?"
     u "自言自语？"
 
-# game/v12/scene7.rpy:6126
+# game/v12/scene7.rpy:6129
 translate chinese v12s7_emily1_106b8351:
 
     # em "I'm a psychic, I'm enjoying relaxing while talking to myself, NOT being bothered."
     em "我是个通灵者，我喜欢在自言自语时放松自己，不被打扰。"
 
-# game/v12/scene7.rpy:6131
+# game/v12/scene7.rpy:6134
 translate chinese v12s7_emily1_43b212fb:
 
     # u "I got stuck as the boxer."
     u "我被困在拳击手的角色里了。"
 
-# game/v12/scene7.rpy:6136
+# game/v12/scene7.rpy:6139
 translate chinese v12s7_emily1_a53bbe02:
 
     # em "I don't really care, but I just got a pretty clear vision of you walking away."
     em "我不在乎，但我知道你该走了。"
 
-# game/v12/scene7.rpy:6141
+# game/v12/scene7.rpy:6144
 translate chinese v12s7_emily1_6f17c432:
 
     # u "I can take a hint."
     u "我能领会你的暗示。"
 
-# game/v12/scene7.rpy:6146
+# game/v12/scene7.rpy:6149
 translate chinese v12s7_emily1_c8e64612:
 
     # em "Good."
     em "好的。"
 
-# game/v12/scene7.rpy:6162
+# game/v12/scene7.rpy:6165
 translate chinese v12s7_emily2_8686e81c:
 
     # u "Hey."
     u "嘿。"
 
-# game/v12/scene7.rpy:6170
+# game/v12/scene7.rpy:6173
 translate chinese v12s7_emily2_9fd2357e:
 
     # em "Oh my gosh, can you stop using the game as an excuse to talk to me?"
     em "天呐，你能不能别再拿游戏当借口跟我说话了？"
 
-# game/v12/scene7.rpy:6175
+# game/v12/scene7.rpy:6178
 translate chinese v12s7_emily2_07dc06c4:
 
     # u "I'm just trying to... *Sighs* Nevermind."
     u "我只是想试着…… *叹息* 没关系。"
 
-# game/v12/scene7.rpy:6189
+# game/v12/scene7.rpy:6192
 translate chinese v12s7_emily_kill_fda23e9a:
 
     # u "Boom."
     u "砰。"
 
-# game/v12/scene7.rpy:6197
+# game/v12/scene7.rpy:6200
 translate chinese v12s7_emily_kill_f34732a8:
 
     # em "Cool, I'm dead."
     em "太好了，我死了。"
 
-# game/v12/scene7.rpy:6219
+# game/v12/scene7.rpy:6222
 translate chinese v12s7_mc_caught_e22644c1:
 
     # unknown "I found the murderer!"
@@ -6097,4 +6097,3 @@ translate chinese strings:
     # game/v12/scene7.rpy:5813
     old "You're the best actor here"
     new "你是这里最好的演员"
-

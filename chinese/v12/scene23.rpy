@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v12/scene23.rpy:18
 translate chinese v12_ms_rose_sex_626a22c1:
@@ -70,7 +70,7 @@ translate chinese v12_ms_rose_sex_sg_fabe1535:
 translate chinese v12_ms_rose_sex_sg_cd729d28:
 
     # ro "*Chuckles* Follow me to the car."
-    ro " *咯咯笑* 跟我上车。"
+    ro "*咯咯笑* 跟我上车。"
 
 # game/v12/scene23.rpy:133
 translate chinese v12_ms_rose_sex_sg_02e7b43b:
@@ -94,7 +94,7 @@ translate chinese v12_ms_rose_sex_sg_1e29f122:
 translate chinese v12_ms_rose_sex_sg_169c570c:
 
     # u "Mmm... This is the richest wine I've ever tasted. *Chuckles*"
-    u "嗯……这是我喝过的最浓的酒。 *咯咯笑* "
+    u "嗯……这是我喝过的最浓的酒。 *咯咯笑*"
 
 # game/v12/scene23.rpy:168
 translate chinese v12_ms_rose_sex_sg_0f1064a0:
@@ -112,7 +112,7 @@ translate chinese v12_ms_rose_sex_sg_09226116:
 translate chinese v12_ms_rose_sex_sg_dec7ab73:
 
     # ro "Felt like the perfect time to open it. Now hurry up and drink it. *Chuckles*"
-    ro "我觉得这是打开它的绝佳时机。现在快点喝吧。 *咯咯笑* "
+    ro "我觉得这是打开它的绝佳时机。现在快点喝吧。 *咯咯笑*"
 
 # game/v12/scene23.rpy:193
 translate chinese v12_ms_rose_sex_sg_b0c2e027:
@@ -154,7 +154,7 @@ translate chinese v12_ms_rose_sex_sg_900029d1:
 translate chinese v12_ms_rose_sex_sg_ebef5277:
 
     # ro "*Moans*"
-    ro " *呻吟* "
+    ro "*呻吟*"
 
 # game/v12/scene23.rpy:248
 translate chinese v12_ms_rose_sex_sg_619381cc:
@@ -178,13 +178,13 @@ translate chinese v12_ms_rose_sex_sg_62ec3343:
 translate chinese v12_ms_rose_sex_sg_955e5735:
 
     # ro "Fuck, [name]. I needed you so badly... You have no idea- Ah!"
-    ro "操，[name]。我太需要你了。你不知道-啊！"
+    ro "操，[name]。我太需要你了。你不知道……啊！"
 
 # game/v12/scene23.rpy:287
 translate chinese v12_ms_rose_sex_sg_f31d55e7:
 
     # u "*Grunts*"
-    u " *咕噜声* "
+    u "*咕噜声*"
 
 # game/v12/scene23.rpy:309
 translate chinese v12_ms_rose_sex_sg_7f599598:
@@ -196,7 +196,7 @@ translate chinese v12_ms_rose_sex_sg_7f599598:
 translate chinese v12_ms_rose_sex_sg_804b3a75:
 
     # ro "F-f-fuckkkkk..."
-    ro "操-操-操……"
+    ro "操……操……操……"
 
 # game/v12/scene23.rpy:321
 translate chinese v12_ms_rose_sex_sg_f1a8a066:
@@ -208,7 +208,7 @@ translate chinese v12_ms_rose_sex_sg_f1a8a066:
 translate chinese v12_ms_rose_sex_sg_caef7e8c:
 
     # ro "*Moans* What are yo-"
-    ro " *呻吟* 你在说什么-"
+    ro "*呻吟* 你在说什么……"
 
 # game/v12/scene23.rpy:343
 translate chinese v12_ms_rose_sex_sg_3e3c2016:
@@ -232,25 +232,25 @@ translate chinese v12_ms_rose_sex_sg_d6f87311:
 translate chinese v12_ms_rose_sex_sg_0d7a103e:
 
     # ro "I... I-I am..."
-    ro "我……我-我是……"
+    ro "我……我……我是……"
 
 # game/v12/scene23.rpy:359
 translate chinese v12_ms_rose_sex_sg_1156dad8:
 
     # ro "Fuck me, [name]... Fast... I'm going to c-"
-    ro "操我，[name]……快点……我要去-"
+    ro "操我，[name]……快点……我要去……"
 
 # game/v12/scene23.rpy:361
 translate chinese v12_ms_rose_sex_sg_ff2c13d2:
 
     # ro "*Moans* Mmmnnhh... FUCK! *Gasps*"
-    ro " *呻吟* 嗯……操！ *喘气* "
+    ro "*呻吟* 嗯……操！ *喘气*"
 
 # game/v12/scene23.rpy:367
 translate chinese v12_ms_rose_sex_sg_cb02b0c3:
 
     # u "I'm... almost there! You're so... FUCKING... HOT!"
-    u "我快……快忍不住了！你太……他妈的……热！"
+    u "我快……快忍不住了！你太……他妈的……性感了！"
 
 # game/v12/scene23.rpy:369
 translate chinese v12_ms_rose_sex_sg_33727808:
@@ -262,7 +262,7 @@ translate chinese v12_ms_rose_sex_sg_33727808:
 translate chinese v12_ms_rose_sex_sg_9a93e99a:
 
     # u "(Ho... ly... shit)"
-    u "(我……特……么)"
+    u "(我……特……么……)"
 
 # game/v12/scene23.rpy:397
 translate chinese v12_ms_rose_sex_sg_acd8b049:
@@ -274,7 +274,7 @@ translate chinese v12_ms_rose_sex_sg_acd8b049:
 translate chinese v12_ms_rose_sex_sg_1ea75f67:
 
     # ro "*Chuckles* I told you tonight would be special."
-    ro " *咯咯笑* 我告诉过你今晚会很特别。"
+    ro "*咯咯笑* 我告诉过你今晚会很特别。"
 
 # game/v12/scene23.rpy:414
 translate chinese v12_ms_rose_sex_sg_5a05a2a5:
@@ -298,7 +298,7 @@ translate chinese v12_ms_rose_sex_sg_8c968b1d:
 translate chinese v12_ms_rose_sex_sg_67c4c38e:
 
     # ro "*Chuckles* You should be calming down any minute now..."
-    ro " *咯咯笑* 你现在应该随时都能冷静下来……"
+    ro "*咯咯笑* 你现在应该随时都能冷静下来……"
 
 # game/v12/scene23.rpy:434
 translate chinese v12_ms_rose_sex_sg_4ccc2f2b:
@@ -322,7 +322,7 @@ translate chinese v12_ms_rose_sex_sg_98c478d9:
 translate chinese v12s23_nsfwSkipLabel1_21c816a4:
 
     # cl "Oh my g- Is he okay?!"
-    cl "噢，我的天，他还好吗？！"
+    cl "噢，我的天……他还好吗？！"
 
 # game/v12/scene23.rpy:476
 translate chinese v12s23_nsfwSkipLabel1_b610614e:

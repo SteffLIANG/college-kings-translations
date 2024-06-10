@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v12/scene31a.rpy:11
 translate chinese v12_aubrey_wake_up_ri_7b10314c:
@@ -16,7 +16,7 @@ translate chinese v12_aubrey_wake_up_ri_2a460796:
 translate chinese v12_aubrey_wake_up_ri_c490d0da:
 
     # au "Riley let me in. *Chuckles*"
-    au "莱莉让我进来的。 *咯咯笑* "
+    au "莱莉让我进来的。 *咯咯笑*"
 
 # game/v12/scene31a.rpy:28
 translate chinese v12_aubrey_wake_up_ri_25ac1e8b:
@@ -40,7 +40,7 @@ translate chinese v12_aubrey_wake_up_ri_f574c453:
 translate chinese v12_aubrey_wake_up_ri_57ae9944:
 
     # u "*Sighs*"
-    u " *叹息* "
+    u "*叹息*"
 
 # game/v12/scene31a.rpy:53
 translate chinese v12_aubrey_wake_up_ri_31e2f95b:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v12/scene18.rpy:21
 translate chinese v12_slumber_party_4643fce2:
@@ -1510,7 +1510,7 @@ translate chinese v12s18_bet_fb635d3a:
 translate chinese v12s18_bet_5bd1f527:
 
     # imre "*Drunk* Bored on my phone... Everyone out here is going to sleep... Also, I'm pretty fucking drunk right now... *Chuckles*"
-    imre " *醉醺醺* 无聊地看着我的手机.外面的每个人都要睡觉了……还有，我现在他妈的喝得烂醉……*咯咯笑*"
+    imre "*醉醺醺* 无聊地看着我的手机.外面的每个人都要睡觉了……还有，我现在他妈的喝得烂醉……*咯咯笑*"
 
 # game/v12/scene18.rpy:1695
 translate chinese v12s18_bet_0407927f:
@@ -1522,7 +1522,7 @@ translate chinese v12s18_bet_0407927f:
 translate chinese v12s18_bet_909d5397:
 
     # imre "*Drunk* I'm just scrolling through my Kiwii and-"
-    imre " *醉醺醺* 我正在浏览我的猕猴桃，然后-"
+    imre " *醉醺醺* 我正在浏览我的猕猴桃，然后……"
 
 # game/v12/scene18.rpy:1711
 translate chinese v12s18_bet_8df010cf:
@@ -1540,13 +1540,13 @@ translate chinese v12s18_bet_ed40d4ef:
 translate chinese v12s18_bet_4c05f1fb:
 
     # u "Oh my god... *Chuckles*"
-    u "我的天啊…… *咯咯笑* "
+    u "我的天啊…… *咯咯笑*"
 
 # game/v12/scene18.rpy:1728
 translate chinese v12s18_bet_78488e36:
 
     # am "*Whisper* Hey, let's prank him."
-    am " *低语* 嘿，让我们恶作剧他。"
+    am "*低语* 嘿，让我们恶作剧他。"
 
 # game/v12/scene18.rpy:1733
 translate chinese v12s18_bet_907e332d:
@@ -1558,7 +1558,7 @@ translate chinese v12s18_bet_907e332d:
 translate chinese v12s18_bet_ebfdc2d4:
 
     # am "*Whisper* Let's draw on his face. *Chuckles*"
-    am " *低语* 让我们在他脸上画画。 *咯咯笑*"
+    am "*低语* 让我们在他脸上画画。 *咯咯笑*"
 
 # game/v12/scene18.rpy:1743
 translate chinese v12s18_bet_11f0e9f9:
@@ -1570,7 +1570,7 @@ translate chinese v12s18_bet_11f0e9f9:
 translate chinese v12s18_bet_4e9039c3:
 
     # am "*Whisper* And drunk."
-    am " *低语* 喝醉了。"
+    am "*低语* 喝醉了。"
 
 # game/v12/scene18.rpy:1766
 translate chinese v12s18_bet_d43ec00a:
@@ -1582,7 +1582,7 @@ translate chinese v12s18_bet_d43ec00a:
 translate chinese v12s18_bet_0ad771c3:
 
     # imre "*Drunk* They left for a guy's date or something."
-    imre " *醉醺醺* 他们离开去参加一个男人的约会或别的什么。"
+    imre "*醉醺醺* 他们离开去参加一个男人的约会或别的什么。"
 
 # game/v12/scene18.rpy:1776
 translate chinese v12s18_bet_015340d4:
@@ -1594,7 +1594,7 @@ translate chinese v12s18_bet_015340d4:
 translate chinese v12s18_bet_a5b52207:
 
     # imre "*Drunk* Someone had to stay with the ladies! Haha..."
-    imre " *醉醺醺* 总得有人和女士们呆在一起！哈哈……"
+    imre "*醉醺醺* 总得有人和女士们呆在一起！哈哈……"
 
 # game/v12/scene18.rpy:1786
 translate chinese v12s18_bet_fc085fd0:
@@ -1606,7 +1606,7 @@ translate chinese v12s18_bet_fc085fd0:
 translate chinese v12s18_bet_db56474c:
 
     # imre "*Drunk* You're so pretty."
-    imre " *醉醺醺* 你太漂亮了。"
+    imre "*醉醺醺* 你太漂亮了。"
 
 # game/v12/scene18.rpy:1801
 translate chinese v12s18_bet_abeff5e1:
@@ -1618,13 +1618,13 @@ translate chinese v12s18_bet_abeff5e1:
 translate chinese v12s18_bet_8f612043:
 
     # imre "*Drunk* Mmm, so nice."
-    imre " *醉醺醺* 嗯，太棒了。"
+    imre "*醉醺醺* 嗯，太棒了。"
 
 # game/v12/scene18.rpy:1811
 translate chinese v12s18_bet_2dc61761:
 
     # u "*Whisper* What the fuck is that? *Chuckles*"
-    u " *低语* 那他妈的是什么？ *咯咯笑* "
+    u " *低语* 那他妈的是什么？ *咯咯笑*"
 
 # game/v12/scene18.rpy:1816
 translate chinese v12s18_bet_ece9ed26:
@@ -1666,7 +1666,7 @@ translate chinese v12s18_bet_5c43ca2e:
 translate chinese v12s18_bet_8569c4fa:
 
     # u "*Chuckles*"
-    u " *咯咯笑* "
+    u "*咯咯笑*"
 
 # game/v12/scene18.rpy:1856
 translate chinese v12s18_bet_c056f68b:
@@ -1696,7 +1696,7 @@ translate chinese v12s18_bet_74406210:
 translate chinese v12s18_bet_852da9c2:
 
     # am "*Chuckles* You can stay, but be sure to back up before morning. Don't want to upset any of your girlfriends... *Chuckles*"
-    am "*咯咯笑* 你可以留下来，但一定要在早上之前后退。我不想让你的任何一个女朋友心烦意乱。 *咯咯笑* "
+    am "*咯咯笑* 你可以留下来，但一定要在早上之前后退。我不想让你的任何一个女朋友心烦意乱。 *咯咯笑*"
 
 # game/v12/scene18.rpy:1907
 translate chinese v12s18_bet_1ac14da2:
@@ -1742,7 +1742,7 @@ translate chinese strings:
 
     # game/v12/scene18.rpy:337
     old "Just say when and where! Had a lot of fun :)"
-    new "只要说出时间和地点就行了！玩得很开心 ：)"
+    new "只要说出时间和地点就行了！玩得很开心 :)"
 
     # game/v12/scene18.rpy:338
     old "You deserve the best! Glad you enjoyed it ;)"

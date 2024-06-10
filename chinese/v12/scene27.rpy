@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v12/scene27.rpy:11
 translate chinese v12s27_4f800f36:
@@ -34,7 +34,7 @@ translate chinese v12s27_dcd69a6f:
 translate chinese v12s27_196b73b6:
 
     # u "*Laughs* Like what?"
-    u " *笑* 比如说？"
+    u "*笑* 比如说？"
 
 # game/v12/scene27.rpy:43
 translate chinese v12s27_2c30c382:
@@ -52,7 +52,7 @@ translate chinese v12s27_26c4cfcd:
 translate chinese v12s27_00a2b4e2:
 
     # u "Why would you wanna do that? *Chuckles*"
-    u "你为什么想这么做？ *咯咯笑* "
+    u "你为什么想这么做？ *咯咯笑*"
 
 # game/v12/scene27.rpy:58
 translate chinese v12s27_e4c71c19:
@@ -592,13 +592,13 @@ translate chinese v12s27_816c1afe:
 translate chinese v12s27_63245ff7:
 
     # imre "*Sighs* Whatever, dude. Fuck off. *Laughs*"
-    imre "*叹息* 随便了，伙计。去他妈的。 *笑* "
+    imre "*叹息* 随便了，伙计。去他妈的。 *笑*"
 
 # game/v12/scene27.rpy:521
 translate chinese v12s27_738916ef:
 
     # imre "Alright man, I'ma go try and peel my skin off in my room. *Chuckles*"
-    imre "好的，伙计，我要去我的房间试着剥掉我的皮。 *咯咯笑* "
+    imre "好的，伙计，我要去我的房间试着剥掉我的皮。 *咯咯笑*"
 
 # game/v12/scene27.rpy:526
 translate chinese v12s27_965dc36d:

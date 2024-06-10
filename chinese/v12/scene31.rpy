@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v12/scene31.rpy:11
 translate chinese v12_aubrey_wake_up_7b10314c:
@@ -118,7 +118,7 @@ translate chinese v12_aubrey_wake_up_5210d834:
 translate chinese v12_aubrey_wake_up_ad466493:
 
     # u "*Sighs* C'mon, we're in a hurry, right?"
-    u " *叹息* 来吧，我们赶时间，对吧？"
+    u "*叹息* 来吧，我们赶时间，对吧？"
 
 # game/v12/scene31.rpy:120
 translate chinese v12_aubrey_wake_up_04fede3d:

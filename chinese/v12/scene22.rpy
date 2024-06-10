@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2022-10-11 06:38
+﻿# TODO: Translation updated at 2023-06-17 17:22
 
 # game/v12/scene22.rpy:18
 translate chinese v12_riley_room_5351d86b:
 
     # ri "Hey, mind helping me clean up? The slumber party gang just left me to do everything... *Chuckles*"
-    ri "嘿，能帮我打扫一下吗？睡衣派对那帮人把一切都留给我了…… *咯咯笑* "
+    ri "嘿，能帮我打扫一下吗？睡衣派对那帮人把一切都留给我了…… *咯咯笑*"
 
 # game/v12/scene22.rpy:20
 translate chinese v12_riley_room_e860c5b2:
@@ -16,7 +16,7 @@ translate chinese v12_riley_room_e860c5b2:
 translate chinese v12_riley_room_f737a837:
 
     # u "*Chuckles* Yeah, I can help you."
-    u " *咯咯笑* 好的，我可以帮你。"
+    u "*咯咯笑* 好的，我可以帮你。"
 
 # game/v12/scene22.rpy:30
 translate chinese v12_riley_room_33310176:
@@ -40,7 +40,7 @@ translate chinese v12_riley_room_70a954c3:
 translate chinese v12_riley_room_f158cfe2:
 
     # u "Imre was fucked up last night. *Laughs*"
-    u "伊姆雷昨晚一团糟。 *笑* "
+    u "伊姆雷昨晚一团糟。 *笑*"
 
 # game/v12/scene22.rpy:55
 translate chinese v12_riley_room_2cce7c05:
@@ -58,7 +58,7 @@ translate chinese v12_riley_room_733b0bb4:
 translate chinese v12_riley_room_931d217b:
 
     # ri "And he had more than half of those, I swear. *Chuckles*"
-    ri "我发誓，他喝了一半以上。 *咯咯笑* "
+    ri "我发誓，他喝了一半以上。 *咯咯笑*"
 
 # game/v12/scene22.rpy:70
 translate chinese v12_riley_room_a1b839c8:
@@ -82,7 +82,7 @@ translate chinese v12_riley_room_e832a3a8:
 translate chinese v12_riley_room_cf5c7ea1:
 
     # ri "*Laughs*"
-    ri " *笑* "
+    ri "*笑*"
 
 # game/v12/scene22.rpy:105
 translate chinese v12_riley_room_10e71b96:
@@ -161,7 +161,7 @@ translate chinese v12_riley_room_f1e06a6b:
 translate chinese v12_riley_room_65b73bc1:
 
     # u "But I'm not just \"anyone\", I'm [name]. *Chuckles*"
-    u "但我不仅仅是\"任何人\"，我是[name]。 *咯咯笑* "
+    u "但我不仅仅是\"任何人\"，我是[name]。 *咯咯笑*"
 
 # game/v12/scene22.rpy:170
 translate chinese v12_riley_room_210bbe21:
@@ -173,7 +173,7 @@ translate chinese v12_riley_room_210bbe21:
 translate chinese v12_riley_room_7888bcc3:
 
     # ri "Let's see... Can't tell you something too personal. *Chuckles*"
-    ri "让我看看……我不能告诉你一些很私密的事。 *咯咯笑* "
+    ri "让我看看……我不能告诉你一些很私密的事。 *咯咯笑*"
 
 # game/v12/scene22.rpy:180
 translate chinese v12_riley_room_cb8d4402:
@@ -209,7 +209,7 @@ translate chinese v12_riley_room_71076ea9:
 translate chinese v12_riley_room_422c76b7:
 
     # ri "Yep, I just looked like a little blueberry. The braces didn't help either. *Chuckles*"
-    ri "是啊，我看起来就像个小蓝莓。牙套也不起作用。 *咯咯笑* "
+    ri "是啊，我看起来就像个小蓝莓。牙套也不起作用。 *咯咯笑*"
 
 # game/v12/scene22.rpy:215
 translate chinese v12_riley_room_6ee939b6:
@@ -263,7 +263,7 @@ translate chinese v12_riley_room_b5b896ed:
 translate chinese v12_riley_room_db90a618:
 
     # ri "I would honestly be devastated if you did expose my picture... I may even hate you after something like that. *Chuckles*"
-    ri "如果你真的曝光了我的照片，我真的会很伤心……在这样的事情发生后，我甚至可能会恨你。 *咯咯笑* "
+    ri "如果你真的曝光了我的照片，我真的会很伤心……在这样的事情发生后，我甚至可能会恨你。 *咯咯笑*"
 
 # game/v12/scene22.rpy:260
 translate chinese v12_riley_room_423211c3:
@@ -275,7 +275,7 @@ translate chinese v12_riley_room_423211c3:
 translate chinese v12_riley_room_0e176bbc:
 
     # ri "And it's exactly what I meant. *Chuckles*"
-    ri "我就是这个意思。 *咯咯笑* "
+    ri "我就是这个意思。 *咯咯笑*"
 
 # game/v12/scene22.rpy:270
 translate chinese v12_riley_room_2df7f1e4:
